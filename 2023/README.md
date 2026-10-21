@@ -4,7 +4,7 @@
 
 依据 [GDC Vault 年度归档](<https://gdcvault.com/browse/gdc-23/>) 整理；来源核对日期：2026-10-21。
 
-共 **568** 场独立演讲／活动，**755** 个资料页；双语摘要 **71** 条，已核实 YouTube 视频的演讲 **14** 场。
+共 **568** 场独立演讲／活动，**755** 个资料页；双语摘要 **568** 条，已核实 YouTube 视频的演讲 **14** 场。
 
 [YouTube 公开视频索引](youtube.md)：共 **14** 个已核实播放链接，包含归档内视频及 **0** 个官方发布方补充视频。索引同时提供官方资料／活动页。
 
@@ -14,20 +14,20 @@
 
 | 方向 | 演讲数 | 双语摘要 | YouTube 已核实 |
 | --- | ---: | ---: | ---: |
-| [Audio · 游戏音频](<audio.md>) | 31 | 5 | 0 |
-| [Business &amp; Marketing · 商业与市场](<business-marketing.md>) | 99 | 7 | 2 |
-| [Design · 游戏设计](<design.md>) | 91 | 13 | 5 |
-| [Game Narrative · 游戏叙事与表演](<game-narrative.md>) | 17 | 5 | 0 |
-| [Independent Games · 独立游戏](<independent-games.md>) | 23 | 6 | 1 |
-| [Production &amp; Team Leadership · 游戏制作与团队领导力](<production-team-leadership.md>) | 56 | 5 | 0 |
-| [Programming · 游戏程序与生产技术](<programming.md>) | 111 | 6 | 1 |
-| [Visual Arts · 游戏视觉艺术](<visual-arts.md>) | 65 | 6 | 1 |
-| [VR / AR · 虚拟现实与增强现实](<vr-ar.md>) | 23 | 5 | 0 |
-| [Culture &amp; Sustainability · 文化与可持续发展](<culture-sustainability.md>) | 30 | 5 | 2 |
-| [Educators · 游戏教育](<educators.md>) | 9 | 5 | 0 |
-| [Career · 职业发展](<career.md>) | 18 | 5 | 0 |
+| [Audio · 游戏音频](<audio.md>) | 23 | 23 | 0 |
+| [Business &amp; Marketing · 商业与市场](<business-marketing.md>) | 107 | 107 | 2 |
+| [Design · 游戏设计](<design.md>) | 109 | 109 | 5 |
+| [Game Narrative · 游戏叙事与表演](<game-narrative.md>) | 18 | 18 | 0 |
+| [Independent Games · 独立游戏](<independent-games.md>) | 23 | 23 | 1 |
+| [Production &amp; Team Leadership · 游戏制作与团队领导力](<production-team-leadership.md>) | 37 | 37 | 0 |
+| [Programming · 游戏程序与生产技术](<programming.md>) | 109 | 109 | 1 |
+| [Visual Arts · 游戏视觉艺术](<visual-arts.md>) | 67 | 67 | 1 |
+| [VR / AR · 虚拟现实与增强现实](<vr-ar.md>) | 23 | 23 | 0 |
+| [Culture &amp; Sustainability · 文化与可持续发展](<culture-sustainability.md>) | 35 | 35 | 2 |
+| [Educators · 游戏教育](<educators.md>) | 8 | 8 | 0 |
+| [Career · 职业发展](<career.md>) | 16 | 16 | 0 |
 | [Luminaries Speaker Series · 行业人物系列](<luminaries.md>) | 0 | 0 | 0 |
-| [Special Events · 特别活动](<special-events.md>) | 6 | 3 | 2 |
+| [Special Events · 特别活动](<special-events.md>) | 4 | 4 | 2 |
 
 跨年份方向与阅读分类的对应关系见 [分类说明](../docs/DATA.md#方向映射)。
 

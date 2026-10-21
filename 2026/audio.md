@@ -45,6 +45,8 @@
 
 ## 'Civilization VII': Impactful UI Sound Design at Scale
 
+**《文明VII》：大规模 UI 声音设计**
+
 讲者：Kadet Kuhne  
 机构：Firaxis  
 官方方向：Audio  
@@ -53,18 +55,27 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035793/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/civilization-vii-impactful-ui-sound-design-at-scale/915690>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+%27Civilization+VII%27%3A+Impactful+UI+Sound+Design+at+Scale>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/civilization-vii-impactful-ui-sound-design-at-scale/915690>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Firaxis organizes UI audio through hierarchies and design principles, balancing brand identity, repeated use, system complexity, and clear feedback.
+
+**中文** Firaxis 通过声音层级与设计原则组织大规模 UI 音频，在品牌风格、重复播放、复杂系统与信息清晰度之间取得平衡。
 
 <a id="gdc-2026-1035794"></a>
 
 ## 'Clair Obscur: Expedition 33': An Audio Postmortem
+
+**《光与影：33号远征队》音频制作复盘**
 
 讲者：Raphael Joffres  
 机构：Sandfall Interactive  
@@ -74,14 +85,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035794/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/clair-obscur-expedition-33-an-audio-postmortem/914713>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+%27Clair+Obscur%3A+Expedition+33%27%3A+An+Audio+Postmortem>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/clair-obscur-expedition-33-an-audio-postmortem/914713>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Sandfall's small audio team reviews its artistic pillars, production decisions, sound-design techniques, and practical Unreal integration.
+
+**中文** Sandfall 的小型音频团队回顾作品的声音风格、制作决策、音效设计方法及 Unreal 中的实际集成经验。
 
 <a id="gdc-2026-1036021"></a>
 
@@ -114,6 +132,8 @@
 
 ## Actionable Intelligence: Practical Advice for Game Developers Working with AI Under the SAG-AFTRA IMA
 
+**SAG-AFTRA 互动媒体协议下的 AI 实务讨论**
+
 讲者：Bo Crutcher  
 机构：Blindlight  
 官方方向：Audio  
@@ -122,14 +142,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035758/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/actionable-intelligence-practical-advice-for-game-developers-working-with-ai-under-the-sag-aftra-ima/913805>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Actionable+Intelligence%3A+Practical+Advice+for+Game+Developers+Working+with+AI+Under+the+SAG-AFTRA+IMA>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/actionable-intelligence-practical-advice-for-game-developers-working-with-ai-under-the-sag-aftra-ima/913805>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Industry practitioners discuss practical considerations for working with AI under the SAG-AFTRA Interactive Agreement.
+
+**中文** 业内从业者围绕 SAG-AFTRA 互动媒体协议，讨论与 AI 相关的实际协作事项。
 
 <a id="gdc-2026-1036022"></a>
 
@@ -160,6 +187,8 @@
 
 ## Audio Optimization Microtalks
 
+**音频优化微演讲**
+
 讲者：Guy Somberg  
 机构：Blizzard  
 官方方向：Audio  
@@ -168,14 +197,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035766/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/audio-optimization-microtalks/915533>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Audio+Optimization+Microtalks>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/audio-optimization-microtalks/915533>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Case studies cover Wwise profiling, audio-object management, and evaluating SIMD opportunities across practical game-audio workloads.
+
+**中文** 结合项目案例讨论 Wwise 性能分析、音频对象数量管理，以及如何判断具体音频任务是否适合 SIMD 优化。
 
 <a id="gdc-2026-1036040"></a>
 
@@ -206,6 +242,8 @@
 
 ## Breaking Sound Barriers: Navigating and Thriving as a Woman in Game Audio
 
+**女性游戏音频从业者的职业发展**
+
 讲者：Sonia Mokhtari  
 机构：Zynga  
 官方方向：Audio  
@@ -214,18 +252,27 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035779/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/breaking-sound-barriers-navigating-and-thriving-as-a-woman-in-game-audio/914141>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Breaking+Sound+Barriers%3A+Navigating+and+Thriving+as+a+Woman+in+Game+Audio>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/breaking-sound-barriers-navigating-and-thriving-as-a-woman-in-game-audio/914141>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** The session examines career barriers, mentorship, allyship, and leadership practices that support women working in game audio.
+
+**中文** 讨论女性游戏音频从业者面对的职业障碍、导师网络与支持关系，以及管理者如何营造更具包容性的工作环境。
 
 <a id="gdc-2026-1035809"></a>
 
 ## Debugging Audio Systems: Tools, Tactics, and Real-World Stories
+
+**调试游戏音频系统**
 
 讲者：Jose Angulo  
 机构：Teravision Games  
@@ -235,14 +282,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035809/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/debugging-audio-systems-tools-tactics-and-real-world-stories/914457>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Debugging+Audio+Systems%3A+Tools%2C+Tactics%2C+and+Real-World+Stories>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/debugging-audio-systems-tools-tactics-and-real-world-stories/914457>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Practical examples combine logs, profilers, breakpoints, naming practices, documentation, and cross-team communication to diagnose difficult audio bugs.
+
+**中文** 通过实际问题，讨论如何结合日志、分析器、断点、命名规范、文档和跨团队沟通，有步骤地定位音频错误。
 
 <a id="gdc-2026-1036029"></a>
 
@@ -273,6 +327,8 @@
 
 ## Evolution of Game Development: Making Games Locally with Global Teams (Presented by Virtuos)
 
+**以全球团队支持本地游戏制作**
+
 讲者：Dennis Cooper  
 机构：Virtuos  
 官方方向：Audio  
@@ -281,18 +337,27 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1036064/>)（需注册）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/evolution-of-game-development-making-games-locally-with-global-teams-presented-by-virtuos/917393>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Evolution+of+Game+Development%3A+Making+Games+Locally+with+Global+Teams+%28Presented+by+Virtuos%29>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/evolution-of-game-development-making-games-locally-with-global-teams-presented-by-virtuos/917393>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Virtuos and Pipeworks discuss shared ownership, pipeline alignment, quality consistency, and trust in integrated multi-studio co-development.
+
+**中文** Virtuos 与 Pipeworks 讨论多工作室联合开发中的共同责任、流程对齐、质量一致性与长期信任关系。
 
 <a id="gdc-2026-1035832"></a>
 
 ## Extreme Recording: Rockets, Wildlife, and Beyond - Capturing Sound in High-Stakes Environments
+
+**极端环境录音：火箭、野生动物及其他声音**
 
 讲者：Howard Mostrom  
 机构：Injected Senses LLC  
@@ -302,14 +367,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035832/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/extreme-recording-rockets-wildlife-and-beyond-capturing-sound-in-high-stakes-environments/915827>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Extreme+Recording%3A+Rockets%2C+Wildlife%2C+and+Beyond+-+Capturing+Sound+in+High-Stakes+Environments>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/extreme-recording-rockets-wildlife-and-beyond-capturing-sound-in-high-stakes-environments/915827>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Field-recording examples connect equipment, microphone placement, safety planning, and production workflows under difficult environmental conditions.
+
+**中文** 通过火箭发射与偏远自然环境等录音案例，讨论器材、麦克风技巧、安全准备和复杂条件下的制作流程。
 
 <a id="gdc-2026-1035736"></a>
 
@@ -341,6 +413,8 @@
 
 ## From Sibelius to Game: Crafting Adaptive Music for 'Kingdom Come: Deliverance'
 
+**从 Sibelius 到游戏：自适应音乐制作**
+
 讲者：Adam Sporka  
 机构：Warhorse Studios  
 官方方向：Audio  
@@ -349,14 +423,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035844/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/from-sibelius-to-game-crafting-adaptive-music-for-kingdom-come-deliverance/915597>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+From+Sibelius+to+Game%3A+Crafting+Adaptive+Music+for+%27Kingdom+Come%3A+Deliverance%27>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/from-sibelius-to-game-crafting-adaptive-music-for-kingdom-come-deliverance/915597>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Kingdom Come: Deliverance II uses notation-driven tools, segmented music, and transition timing to connect composition with adaptive playback.
+
+**中文** 《天国：拯救II》利用记谱工具、分段音乐与转场时序数据，将作曲流程与由游戏变量驱动的自适应播放连接起来。
 
 <a id="gdc-2026-1035846"></a>
 
@@ -437,6 +518,8 @@
 
 ## How 'Ghost of Ytei' Was Pre-Mixed with the Help of a Sound Sensei
 
+**《羊蹄山之魂》：Sound Sensei 与预混音**
+
 讲者：Grey Davenport  
 机构：Sucker Punch Productions  
 官方方向：Audio  
@@ -445,14 +528,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035875/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/how-ghost-of-ytei-was-pre-mixed-with-the-help-of-a-sound-sensei/915033>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+How+%27Ghost+of+Ytei%27+Was+Pre-Mixed+with+the+Help+of+a+Sound+Sensei>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/how-ghost-of-ytei-was-pre-mixed-with-the-help-of-a-sound-sensei/915033>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Sound Sensei applies nondestructive mix rules during asset integration, allowing audio teams to adjust mixes throughout development.
+
+**中文** Sound Sensei 在资产接入时自动应用非破坏性的混音规则，使音频团队能够在开发不同阶段持续调整混音。
 
 <a id="gdc-2026-1035712"></a>
 
@@ -586,6 +676,8 @@
 
 ## Spectrogram Spectacular!: The Art and Science of Dialogue Editing with Spectrograms
 
+**借助频谱图编辑游戏对白**
+
 讲者：Katherine Tole  
 机构：Plant Based Audio  
 官方方向：Audio  
@@ -594,18 +686,27 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035959/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/spectrogram-spectacular-the-art-and-science-of-dialogue-editing-with-spectrograms/914479>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Spectrogram+Spectacular%21%3A+The+Art+and+Science+of+Dialogue+Editing+with+Spectrograms>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/spectrogram-spectacular-the-art-and-science-of-dialogue-editing-with-spectrograms/914479>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** The session compares waveforms and spectrograms across editing tools, showing how visual analysis supports dialogue cleanup and repair.
+
+**中文** 比较不同音频工具中的波形与频谱图，演示视觉分析如何辅助对白剪辑、清理和修复。
 
 <a id="gdc-2026-1035974"></a>
 
 ## The Acoustics of 'Battlefield 6'
+
+**《战地6》的声学系统**
 
 讲者：Goncalo Tavares  
 机构：EA DICE  
@@ -615,14 +716,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035974/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/the-acoustics-of-battlefield-6/914997>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+The+Acoustics+of+%27Battlefield+6%27>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/the-acoustics-of-battlefield-6/914997>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** The audio team revisits reflections, occlusion, and obstruction to support environments where destruction continually changes how sound behaves.
+
+**中文** 音频团队重审反射、遮蔽与阻挡等系统，讨论如何应对破坏行为不断改变声音传播条件的场景。
 
 <a id="gdc-2026-1035976"></a>
 
@@ -653,6 +761,8 @@
 
 ## The Dialogue Design Panel: A Role with a Million Names
 
+**对白设计：拥有多种名称的专业角色**
+
 讲者：Charles Pateman  
 机构：Independent  
 官方方向：Audio  
@@ -661,18 +771,27 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035979/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/orchestrating-voices-a-panel-on-dialogue-design-for-games/914353>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+The+Dialogue+Design+Panel%3A+A+Role+with+a+Million+Names>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/orchestrating-voices-a-panel-on-dialogue-design-for-games/914353>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Dialogue designers explain creative voice direction, supporting systems, planning, and collaboration beyond casting, recording, and post-production.
+
+**中文** 对白设计师介绍声音的创意运用、支持系统、规划与协作，说明这一岗位在选角、录音和后期之外承担的职责。
 
 <a id="gdc-2026-1035992"></a>
 
 ## The Power of Authenticity: Audio Challenges and Successes in 'Civilization VII'
+
+**《文明VII》：真实文化声音的挑战**
 
 讲者：Dmytro Nebesh  
 机构：Firaxis Games  
@@ -682,18 +801,27 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035992/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/the-power-of-authenticity-audio-challenges-and-successes-in-civilization-vii/914897>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+The+Power+of+Authenticity%3A+Audio+Challenges+and+Successes+in+%27Civilization+VII%27>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/the-power-of-authenticity-audio-challenges-and-successes-in-civilization-vii/914897>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Firaxis discusses research, collaboration, and design methods for representing cultures through music, languages, and sound.
+
+**中文** Firaxis 讨论如何通过研究、跨领域合作与设计方法，在音乐、语言及音效中表达不同文化，并处理其中的挑战。
 
 <a id="gdc-2026-1036001"></a>
 
 ## The Universal Language of Monsters: Designing Creature Vocals in 'Diablo Immortal'
+
+**《暗黑破坏神：不朽》的怪物声音设计**
 
 讲者：Todd Castillo  
 机构：Blizzard Entertainment  
@@ -703,14 +831,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1036001/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/the-universal-language-of-monsters-designing-creature-vocals-in-diablo-immortal/914918>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+The+Universal+Language+of+Monsters%3A+Designing+Creature+Vocals+in+%27Diablo+Immortal%27>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/the-universal-language-of-monsters-designing-creature-vocals-in-diablo-immortal/914918>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** The audio team explains nonverbal creature-vocal workflows, from planning and recording to processing and in-game implementation.
+
+**中文** 音频团队介绍不依赖人类语言的生物发声制作流程，覆盖规划、录音、声音处理及游戏内接入。
 
 <a id="gdc-2026-1035745"></a>
 

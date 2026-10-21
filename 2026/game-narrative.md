@@ -32,6 +32,8 @@
 
 ## Best Practices for Character Navigation: Architecting for AAA Performance and Robustness
 
+**角色导航：兼顾性能与健壮性的架构**
+
 讲者：Ben Sunshine-Hill  
 机构：Havok  
 官方方向：Narrative &amp; Performance  
@@ -40,18 +42,27 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035773/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/best-practices-for-character-navigation-architecting-for-aaa-performance-and-robustness/917673>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Best+Practices+for+Character+Navigation%3A+Architecting+for+AAA+Performance+and+Robustness>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/best-practices-for-character-navigation-architecting-for-aaa-performance-and-robustness/917673>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** The talk connects pathfinding, movement, animation, and physics across varied characters, large worlds, changing environments, and group behaviors.
+
+**中文** 将寻路、路径跟随、动画与物理联系起来，讨论不同角色类型、大型动态世界及群体行为下的导航架构。
 
 <a id="gdc-2026-1035774"></a>
 
 ## Beyond Adaptation: Designing IPs That Live Across Games, Series, and Everything In-Between
+
+**超越改编：构建跨媒介 IP**
 
 讲者：David Daubitz  
 机构：Ubisoft Mainz  
@@ -61,18 +72,27 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035774/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/beyond-adaptation-designing-ips-that-live-across-games-series-and-everything-in-between/915254>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Beyond+Adaptation%3A+Designing+IPs+That+Live+Across+Games%2C+Series%2C+and+Everything+In-Between>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/beyond-adaptation-designing-ips-that-live-across-games-series-and-everything-in-between/915254>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** David Daubitz proposes world-first development and flexible narrative structures for IP that moves between games, series, and other formats.
+
+**中文** David Daubitz 提出先构建世界、再发展具体剧情的思路，以灵活的叙事结构支持 IP 在游戏、剧集等媒介之间延展。
 
 <a id="gdc-2026-1035781"></a>
 
 ## Bringing Narrative to 'Disney Dreamlight Valley'
+
+**为《Disney Dreamlight Valley》构建叙事**
 
 讲者：Josh Labelle  
 机构：Gameloft Montreal  
@@ -82,14 +102,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035781/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/bringing-narrative-to-disney-dreamlight-valley/914749>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Bringing+Narrative+to+%27Disney+Dreamlight+Valley%27>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/bringing-narrative-to-disney-dreamlight-valley/914749>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Josh Labelle discusses quest and dialogue pipelines, preserving character voices, and coordinating crossovers within a shared Disney universe.
+
+**中文** Josh Labelle 讨论任务与对话制作流程、角色声音的保持，以及在共享迪士尼世界中协调不同作品角色的叙事方法。
 
 <a id="gdc-2026-1035695"></a>
 
@@ -172,6 +199,8 @@
 
 ## Invisible Cameras: Reimagining Cinematography in Real-Time Game Engines
 
+**实时引擎中的虚拟摄影机**
+
 讲者：Adam Myhill  
 机构：Black Eye Technologies  
 官方方向：Narrative &amp; Performance  
@@ -180,14 +209,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035887/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/invisible-cameras-reimagining-cinematography-in-real-time-game-engines/914362>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Invisible+Cameras%3A+Reimagining+Cinematography+in+Real-Time+Game+Engines>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/invisible-cameras-reimagining-cinematography-in-real-time-game-engines/914362>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Case studies examine procedural cameras, narrative-driven framing, small-team architectures, and virtual production under interactive constraints.
+
+**中文** 通过案例讨论程序化镜头、叙事驱动的构图、小团队相机架构与虚拟制作，分析交互条件下的电影摄影思路。
 
 <a id="gdc-2026-1035891"></a>
 
@@ -244,6 +280,8 @@
 
 ## Meaningful Reasons to Wander: Creating Open World Engagement in 'Ghost of Ytei'
 
+**《羊蹄山之魂》：给玩家有意义的探索理由**
+
 讲者：Ariadna Martinez  
 机构：Sucker Punch Productions  
 官方方向：Narrative &amp; Performance  
@@ -252,18 +290,27 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035912/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/meaningful-reasons-to-wander-creating-open-world-engagement-in-ghost-of-yotei/914335>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Meaningful+Reasons+to+Wander%3A+Creating+Open+World+Engagement+in+%27Ghost+of+Ytei%27>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/meaningful-reasons-to-wander-creating-open-world-engagement-in-ghost-of-yotei/914335>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Narrative design and playtest findings guide changes to nonlinear content, improving onboarding, progression understanding, and open-world engagement.
+
+**中文** 团队通过叙事设计与测试反馈调整非线性内容，改善引导、成长系统理解及开放世界探索的参与感。
 
 <a id="gdc-2026-1035921"></a>
 
 ## Nobody Reads Anything: How Narrative Can Communicate So Other Disciplines Actually Listen
+
+**让其他工种真正听懂叙事团队**
 
 讲者：Mark Slutsky  
 机构：Compulsion Games  
@@ -273,18 +320,27 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035921/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/nobody-reads-anything-how-narrative-can-communicate-so-other-disciplines-actually-listen/914903>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Nobody+Reads+Anything%3A+How+Narrative+Can+Communicate+So+Other+Disciplines+Actually+Listen>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/nobody-reads-anything-how-narrative-can-communicate-so-other-disciplines-actually-listen/914903>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Narrative practitioners discuss targeted pitches, storyboards, and multidisciplinary teams as alternatives to relying solely on lengthy documentation.
+
+**中文** 叙事从业者讨论有针对性的提案、故事板及跨职能小组，说明如何改善仅依赖长篇文档的沟通方式。
 
 <a id="gdc-2026-1035929"></a>
 
 ## Performance and Direction Deep Dive
+
+**游戏表演与导演工作的深入讨论**
 
 讲者：Tom Keegan  
 机构：Independent  
@@ -294,18 +350,27 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035929/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/performance-and-direction-deep-dive/917340>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Performance+and+Direction+Deep+Dive>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/performance-and-direction-deep-dive/917340>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Actors and directors compare voice sessions and performance capture, examining creative decisions, working relationships, and collaboration with development teams.
+
+**中文** 演员与导演比较语音录制和动作表演捕捉，讨论创作决策、双方合作关系及与开发团队的协作方式。
 
 <a id="gdc-2026-1035963"></a>
 
 ## Stop, Collaborate, and Listen: How to be an Actor's Favorite Director
+
+**如何成为演员愿意合作的导演**
 
 讲者：Phillipe Bosher  
 机构：Independent  
@@ -315,14 +380,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035963/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/stop-collaborate-and-listen-how-to-be-an-actors-favorite-director/913717>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Stop%2C+Collaborate%2C+and+Listen%3A+How+to+be+an+Actor%27s+Favorite+Director>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/stop-collaborate-and-listen-how-to-be-an-actors-favorite-director/913717>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Actors discuss actionable direction, ensemble recording, voice-and-body continuity, trust, and recovering difficult recording sessions.
+
+**中文** 演员分享可执行的导演指示、集体录音、声音与身体表演衔接、信任关系，以及录制不顺时的调整方法。
 
 <a id="gdc-2026-1035750"></a>
 
@@ -379,6 +451,8 @@
 
 ## Turning a "Dead" Genre into a Breakout Hit: The Story Behind 'Dispatch'
 
+**《Dispatch》：让叙事类型焕发新活力**
+
 讲者：Nick Herman  
 机构：AdHoc Studio  
 官方方向：Narrative &amp; Performance  
@@ -387,14 +461,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1036003/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/turning-a-dead-genre-into-a-breakout-hit-the-story-behind-dispatch/915651>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Turning+a+%22Dead%22+Genre+into+a+Breakout+Hit%3A+The+Story+Behind+%27Dispatch%27>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/turning-a-dead-genre-into-a-breakout-hit-the-story-behind-dispatch/915651>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** AdHoc revisits its Telltale experience while discussing narrative structure, player agency, and a visual-first pipeline for Dispatch.
+
+**中文** AdHoc 结合 Telltale 的经历，讨论《Dispatch》的叙事结构、玩家自主性及以视觉为先的制作流程。
 
 <a id="gdc-2026-1035678"></a>
 

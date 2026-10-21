@@ -23,7 +23,7 @@
 
 ## 26th Annual Game Developers Choice Awards
 
-**第26届游戏开发者选择奖颁奖典礼**
+**第26届游戏开发者选择奖**
 
 讲者：Stone Librande  
 机构：Riot Games  
@@ -33,20 +33,27 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035755/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/26th-annual-game-developers-choice-awards/917874>)
 
 **YouTube 演讲**
 
 - [26th Annual Game Developers Choice Awards](<https://www.youtube.com/watch?v=b7gjPzpin8k>) · GDC Festival of Gaming · 2026-10-21 核验
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/26th-annual-game-developers-choice-awards/917874>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** The ceremony recognizes creative, artistic, and technical work through nominations reflecting the professional game-development community.
+
+**中文** 颁奖活动通过业内专业人士提名，表彰游戏创意、艺术与技术工作，体现游戏开发者群体的专业评价。
 
 <a id="gdc-2026-1035756"></a>
 
 ## 28th Annual Independent Games Festival Awards
 
-**第28届独立游戏节颁奖典礼**
+**第28届独立游戏节颁奖礼**
 
 讲者：Stone Librande  
 机构：Riot Games  
@@ -56,14 +63,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035756/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/gdc-main-stage-independent-games-festival-awards/917873>)
 
 **YouTube 演讲**
 
 - [2026 Independent Games Festival Awards](<https://www.youtube.com/watch?v=NoH4EmfB4Z4>) · GDC Festival of Gaming · 2026-10-21 核验
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/gdc-main-stage-independent-games-festival-awards/917873>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** The IGF ceremony celebrates independent development and innovation, with awards selected by industry judges and specialists.
+
+**中文** IGF 颁奖礼表彰独立游戏开发与创新，由业内评审和专业人士评选奖项。
 
 <a id="gdc-2026-1036056"></a>
 

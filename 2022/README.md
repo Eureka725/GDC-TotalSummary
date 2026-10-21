@@ -4,9 +4,9 @@
 
 依据 [GDC Vault 年度归档](<https://gdcvault.com/browse/gdc-22/>) 整理；来源核对日期：2026-10-21。
 
-共 **488** 场独立演讲／活动，**643** 个资料页；双语摘要 **76** 条，已核实 YouTube 视频的演讲 **19** 场。
+共 **488** 场独立演讲／活动，**643** 个资料页；双语摘要 **488** 条，已核实 YouTube 视频的演讲 **36** 场。
 
-[YouTube 公开视频索引](youtube.md)：共 **19** 个已核实播放链接，包含归档内视频及 **0** 个官方发布方补充视频。索引同时提供官方资料／活动页。
+[YouTube 公开视频索引](youtube.md)：共 **36** 个已核实播放链接，包含归档内视频及 **0** 个官方发布方补充视频。索引同时提供官方资料／活动页。
 
 这是当前 Vault 归档的索引，不能据此认定已覆盖大会所有活动。视频与幻灯片按演讲合并，跨方向条目会同时出现；各方向数量不可直接相加。
 
@@ -14,20 +14,20 @@
 
 | 方向 | 演讲数 | 双语摘要 | YouTube 已核实 |
 | --- | ---: | ---: | ---: |
-| [Audio · 游戏音频](<audio.md>) | 18 | 5 | 2 |
-| [Business &amp; Marketing · 商业与市场](<business-marketing.md>) | 58 | 6 | 1 |
-| [Design · 游戏设计](<design.md>) | 56 | 8 | 3 |
-| [Game Narrative · 游戏叙事与表演](<game-narrative.md>) | 17 | 5 | 0 |
-| [Independent Games · 独立游戏](<independent-games.md>) | 30 | 5 | 0 |
-| [Production &amp; Team Leadership · 游戏制作与团队领导力](<production-team-leadership.md>) | 45 | 6 | 1 |
-| [Programming · 游戏程序与生产技术](<programming.md>) | 131 | 5 | 0 |
-| [Visual Arts · 游戏视觉艺术](<visual-arts.md>) | 58 | 9 | 4 |
-| [VR / AR · 虚拟现实与增强现实](<vr-ar.md>) | 21 | 8 | 3 |
-| [Culture &amp; Sustainability · 文化与可持续发展](<culture-sustainability.md>) | 28 | 8 | 4 |
-| [Educators · 游戏教育](<educators.md>) | 8 | 5 | 0 |
-| [Career · 职业发展](<career.md>) | 18 | 6 | 1 |
+| [Audio · 游戏音频](<audio.md>) | 14 | 14 | 2 |
+| [Business &amp; Marketing · 商业与市场](<business-marketing.md>) | 52 | 52 | 3 |
+| [Design · 游戏设计](<design.md>) | 60 | 60 | 3 |
+| [Game Narrative · 游戏叙事与表演](<game-narrative.md>) | 17 | 17 | 0 |
+| [Independent Games · 独立游戏](<independent-games.md>) | 30 | 30 | 0 |
+| [Production &amp; Team Leadership · 游戏制作与团队领导力](<production-team-leadership.md>) | 42 | 42 | 2 |
+| [Programming · 游戏程序与生产技术](<programming.md>) | 139 | 139 | 10 |
+| [Visual Arts · 游戏视觉艺术](<visual-arts.md>) | 61 | 61 | 8 |
+| [VR / AR · 虚拟现实与增强现实](<vr-ar.md>) | 21 | 21 | 3 |
+| [Culture &amp; Sustainability · 文化与可持续发展](<culture-sustainability.md>) | 26 | 26 | 4 |
+| [Educators · 游戏教育](<educators.md>) | 8 | 8 | 0 |
+| [Career · 职业发展](<career.md>) | 18 | 18 | 1 |
 | [Luminaries Speaker Series · 行业人物系列](<luminaries.md>) | 0 | 0 | 0 |
-| [Special Events · 特别活动](<special-events.md>) | 5 | 2 | 1 |
+| [Special Events · 特别活动](<special-events.md>) | 5 | 5 | 1 |
 
 跨年份方向与阅读分类的对应关系见 [分类说明](../docs/DATA.md#方向映射)。
 

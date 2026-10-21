@@ -18,7 +18,7 @@
 - [Game Devs WFH Microtalk: Deepening Awareness Amidst Transition: Collective Care for Remote Teams](#gdc-2020-1026828)
 - [Game Devs WFH Microtalk: Leading, Maintaining Quality, and Enhancing Culture](#gdc-2020-1026829)
 - [How I Built a Healthy and Engaged QA Team from Scratch](#gdc-2020-1026836)
-- [Jumpstarting Your Creativity: From Hobbyist to Professional](#gdc-2020-1026843)
+- [Lessons from 'Duolingo': How to Turn Good Intentions Into Good Numbers](#gdc-2020-1026787)
 - [Production Essentials Summit: Don't Ship a Product, Ship Value: Start Your Minimum Viable Product With a Solution](#gdc-2020-1026626)
 - [Production Essentials Summit: Intrinsically Motivated Teams: The Manager's Toolbox](#gdc-2020-1026584)
 - [Six Pillars of Impactful Onboarding](#gdc-2020-1026855)
@@ -35,12 +35,14 @@
 
 ## Ask Me Anything: Production Q&amp;A with Rod Fergusson
 
+**游戏制作问答：Rod Fergusson**
+
 活动：Summer 2020
 
 讲者：Rod Fergusson  
 机构：Blizzard Entertainment  
 官方方向：Production &amp; Team Management  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
@@ -50,9 +52,15 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+Ask+Me+Anything%3A+Production+Q%26A+with+Rod+Fergusson>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1026797/>) · 2026-10-21 核对
+
+**EN** Rod Fergusson reflects on production and studio leadership through experiences including Gears of War, BioShock Infinite, and Diablo IV.
+
+**中文** Rod Fergusson 结合《战争机器》《生化奇兵：无限》及《暗黑破坏神IV》等项目经历，讨论游戏制作与工作室领导工作。
 
 <a id="gdc-2020-1026799"></a>
 
@@ -167,12 +175,14 @@
 
 ## Diversify Your Kingdom: A Toolkit for More Women in Leadership
 
+**让更多女性进入领导岗位**
+
 活动：Summer 2020
 
 讲者：Sabrina Carmona  
 机构：King  
 官方方向：Production &amp; Team Management  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
@@ -183,20 +193,28 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+Diversify+Your+Kingdom%3A+A+Toolkit+for+More+Women+in+Leadership>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1026821/>) · 2026-10-21 核对
+
+**EN** King combines recruitment changes and tailored development programs to remove barriers to women's leadership and diversify future management.
+
+**中文** King 通过招聘改进和定制的职业发展项目，减少女性进入领导岗位的障碍，并扩大未来管理人才的来源。
 
 <a id="gdc-2020-1026825"></a>
 
 ## Forging 'Hardspace: Shipbreaker': Creating Processes for Original IPs
 
+**《Hardspace: Shipbreaker》：保护原创 IP 的制作流程**
+
 活动：Summer 2020
 
-讲者：Rory McGuire  
+讲者：Elliot Hudson / Rory McGuire  
 机构：Blackbird Interactive  
 官方方向：Production &amp; Team Management  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
@@ -207,9 +225,15 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+Forging+%27Hardspace%3A+Shipbreaker%27%3A+Creating+Processes+for+Original+IPs>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1026825/>) · 2026-10-21 核对
+
+**EN** Blackbird explains how creative rules and production processes protected Shipbreaker's unusual concept from distraction and idea fatigue.
+
+**中文** Blackbird 分享如何通过创作规则与制作流程，保护《Hardspace: Shipbreaker》的独特概念，避免创意疲劳及其他业务机会干扰项目。
 
 <a id="gdc-2020-1026828"></a>
 
@@ -270,12 +294,14 @@
 
 ## How I Built a Healthy and Engaged QA Team from Scratch
 
+**从零建立健康且投入的 QA 团队**
+
 活动：Summer 2020
 
 讲者：Kari Toyama  
 机构：Private Division  
 官方方向：Production &amp; Team Management  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
@@ -286,32 +312,46 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+How+I+Built+a+Healthy+and+Engaged+QA+Team+from+Scratch>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
 
-<a id="gdc-2020-1026843"></a>
+[导读依据](<https://gdcvault.com/play/1026836/>) · 2026-10-21 核对
 
-## Jumpstarting Your Creativity: From Hobbyist to Professional
+**EN** Kari Toyama describes building publisher QA at Private Division and the organizational support required for a sustainable, motivated team.
+
+**中文** Kari Toyama 分享在 Private Division 从零建立发行商 QA 团队的经验，讨论维持团队健康、投入度与组织支持的关键做法。
+
+<a id="gdc-2020-1026787"></a>
+
+## Lessons from 'Duolingo': How to Turn Good Intentions Into Good Numbers
+
+**多邻国：让产品使命与增长指标共存**
 
 活动：Summer 2020
 
-讲者：Charles McGregor  
-机构：Tribe Games  
+讲者：Karin Tsai  
+机构：Duolingo  
 官方方向：Production &amp; Team Management  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1026843/>)（公开页面）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1026787/>)（公开页面）
 
 **YouTube 演讲**
 
-- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+Jumpstarting+Your+Creativity%3A+From+Hobbyist+to+Professional>)（搜索入口）
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+Lessons+from+%27Duolingo%27%3A+How+to+Turn+Good+Intentions+Into+Good+Numbers>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1026787/>) · 2026-10-21 核对
+
+**EN** Duolingo's experiments examine tensions between learning quality, accessibility, engagement, and revenue while preserving the organization's mission.
+
+**中文** 多邻国结合产品实验，讨论学习效果、内容可及性、参与度与收入之间的取舍，以及如何在增长中保留产品使命。
 
 <a id="gdc-2020-1026626"></a>
 
@@ -344,6 +384,8 @@
 
 ## Production Essentials Summit: Intrinsically Motivated Teams: The Manager's Toolbox
 
+**管理者如何支持团队内在动机**
+
 活动：GDC 2020
 
 讲者：Alexandre Moufarek  
@@ -360,20 +402,28 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+Production+Essentials+Summit%3A+Intrinsically+Motivated+Teams%3A+The+Manager%27s+Toolbox>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1026720/>) · 2026-10-21 核对
+
+**EN** Self-Determination Theory frames management choices around competence, autonomy, and relatedness, with examples from everyday team leadership.
+
+**中文** 以自我决定理论为框架，从胜任感、自主性和关系需求出发，分析日常管理行为如何支持或削弱团队动机。
 
 <a id="gdc-2020-1026855"></a>
 
 ## Six Pillars of Impactful Onboarding
+
+**有效入职体验的六个支柱**
 
 活动：Summer 2020
 
 讲者：Lindsay Thacker  
 机构：Riot Games  
 官方方向：Production &amp; Team Management  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
@@ -383,20 +433,28 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+Six+Pillars+of+Impactful+Onboarding>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1026855/>) · 2026-10-21 核对
+
+**EN** Lindsay Peck shares onboarding practices that help new teammates understand expectations, find support, and integrate into a studio.
+
+**中文** Lindsay Peck 分享帮助新成员理解工作预期、获得支持并融入团队的入职做法，讨论工作室如何改善最初阶段的体验。
 
 <a id="gdc-2020-1026803"></a>
 
 ## Skill-Building Series: How to be a Force Multiplier
+
+**制作人如何成为团队的助推者**
 
 活动：Summer 2020
 
 讲者：Erika Mariko Olsen  
 机构：Google  
 官方方向：Production &amp; Team Management  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
@@ -407,9 +465,15 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+Skill-Building+Series%3A+How+to+be+a+Force+Multiplier>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1026803/>) · 2026-10-21 核对
+
+**EN** The session examines producer skills, mindsets, and frameworks that support team effectiveness beyond scheduling and progress tracking.
+
+**中文** 讨论制作人如何通过技能、思维方式及工作框架提升团队效能，扩展排期与进度追踪之外的职责。
 
 <a id="gdc-2020-1026630"></a>
 
@@ -442,12 +506,14 @@
 
 ## Taming the Chaos: Lessons in Project Management
 
+**驾驭混乱：项目管理经验**
+
 活动：Summer 2020
 
 讲者：Clinton Keith  
 机构：Clinton Keith Consulting  
 官方方向：Production &amp; Team Management  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
@@ -457,13 +523,21 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+Taming+the+Chaos%3A+Lessons+in+Project+Management>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1026857/>) · 2026-10-21 核对
+
+**EN** Lessons from varied development teams examine delivering games within schedule and budget while maintaining sustainable working conditions.
+
+**中文** 结合不同开发团队的成败经验，讨论如何协调工期、预算与工作条件，建立更可持续的项目管理方式。
 
 <a id="gdc-2020-1026861"></a>
 
 ## The Players You Didn't Plan For: How Jackbox Games has Adjusted to Life During Quarantine
+
+**意料之外的玩家：Jackbox 的隔离期适应**
 
 活动：Summer 2020
 
@@ -481,13 +555,21 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+The+Players+You+Didn%27t+Plan+For%3A+How+Jackbox+Games+has+Adjusted+to+Life+During+Quarantine>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1026870/>) · 2026-10-21 核对
+
+**EN** Jackbox reflects on streaming audiences, remote social play, home education, and the production challenges of adapting during quarantine.
+
+**中文** Jackbox 回顾直播观众、远程社交及居家教学等新用途，讨论隔离期间应对新玩家需求与远程制作的挑战。
 
 <a id="gdc-2020-1026761"></a>
 
 ## Unity: Speeding up your Workflow for Mobile Apps &amp; Games
+
+**Unity：加快移动应用与游戏的工作流程**
 
 活动：GDC 2020
 
@@ -499,25 +581,36 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1026761/>)（公开页面）
+- [讲者／发布方相关文章](<https://discussions.unity.com/t/speeding-up-your-workflow-for-mobile-apps/784630>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+Unity%3A+Speeding+up+your+Workflow+for+Mobile+Apps+%26+Games>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据讲者／发布方相关文章或大会报道整理的导读；资料范围以出处说明为准。
+
+[导读依据](<https://discussions.unity.com/t/speeding-up-your-workflow-for-mobile-apps/784630>) · 2026-10-21 核对
+
+> 出处说明：采用 Unity 2020 年 Unite Now 同主题、同讲者的公开介绍，作为相关资料导读；尚未确认与 GDC Vault 录制版本相同。
+
+**EN** JC Cimetiere's matching 2020 Unity session follows mobile development from prototyping to polishing using Device Simulator. The official discussion also points to safe-area testing and Adaptive Performance as parts of the workflow.
+
+**中文** JC Cimetiere 的同主题 2020 年 Unity 讲座从原型到打磨介绍移动开发流程，涉及 Device Simulator；官方讨论也说明安全区域测试与 Adaptive Performance 在流程中的用途。
 
 <a id="gdc-2020-1026863"></a>
 
 ## Until You Fall: Building Satisfying VR Combat on a Budget Part 2
 
+**《Until You Fall》：有限预算下的 VR 战斗**
+
 活动：Summer 2020
 
-讲者：Dave Bennett  
+讲者：Dave Bennett / Patrick Jalbert  
 机构：Schell Games  
 官方方向：Production &amp; Team Management  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
@@ -528,9 +621,15 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+Until+You+Fall%3A+Building+Satisfying+VR+Combat+on+a+Budget+Part+2>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1026863/>) · 2026-10-21 核对
+
+**EN** The team examines feature prioritization and interaction trade-offs that preserved satisfying sword combat and presence within a small production budget.
+
+**中文** 团队回顾小规模制作中的功能优先级与交互取舍，讨论如何保留令人满意的剑术战斗和 VR 临场感。
 
 
 <!-- Generated by python -m gdc_index build. -->

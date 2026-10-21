@@ -72,12 +72,14 @@
 
 ## 'Guildlings': Rethinking Mobile Adventure and Rediscovering the RPG
 
+**《Guildlings》：重新思考移动端冒险与角色扮演**
+
 活动：Summer 2020
 
 讲者：Jamie Antonisse  
 机构：Sirvo Studios  
 官方方向：Design  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
@@ -87,20 +89,28 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+%27Guildlings%27%3A+Rethinking+Mobile+Adventure+and+Rediscovering+the+RPG>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1026806/>) · 2026-10-21 核对
+
+**EN** Guildlings' prototypes explore how short mobile play sessions can coexist with sustained storytelling and reworked RPG mechanics.
+
+**中文** 通过多轮原型探索，《Guildlings》尝试协调手机游戏的碎片化体验与叙事投入，并据此重新设计经典 RPG 机制。
 
 <a id="gdc-2020-1026808"></a>
 
 ## 'Teamfight Tactics' Design Lessons
+
+**《云顶之弈》的设计经验**
 
 活动：Summer 2020
 
 讲者：David Abecassis  
 机构：Riot Games  
 官方方向：Design  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
@@ -110,20 +120,28 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+%27Teamfight+Tactics%27+Design+Lessons>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1026808/>) · 2026-10-21 核对
+
+**EN** David Abecassis reviews TFT's five-month development, linking audience research, product discovery, team risk-taking, and timely design pivots.
+
+**中文** David Abecassis 回顾《云顶之弈》五个月的开发过程，讨论用户定位、产品探索，以及期限压力下如何推动团队试错和调整方向。
 
 <a id="gdc-2020-1026810"></a>
 
 ## AR Game Design 101
 
+**AR 游戏设计入门**
+
 活动：Summer 2020
 
-讲者：Laura Warner  
+讲者：Kirsten Koa / Laura Warner  
 机构：Niantic  
 官方方向：Design  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
@@ -134,20 +152,28 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+AR+Game+Design+101>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1026810/>) · 2026-10-21 核对
+
+**EN** Niantic uses Pokémon GO to explain bringing characters into physical spaces and applying game-design principles to AR experiences.
+
+**中文** Niantic 以《Pokémon GO》为例，介绍如何让虚拟角色融入现实空间，并将游戏设计原则用于 AR 体验。
 
 <a id="gdc-2020-1026793"></a>
 
 ## Ask Me Anything: Design Against the Apocalypse Q&amp;A with Chelsea Howe
+
+**面向未来的设计问答：Chelsea Howe**
 
 活动：Summer 2020
 
 讲者：Chelsea Howe  
 机构：Owlchemy Labs  
 官方方向：Design  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
@@ -157,9 +183,15 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+Ask+Me+Anything%3A+Design+Against+the+Apocalypse+Q%26A+with+Chelsea+Howe>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1026793/>) · 2026-10-21 核对
+
+**EN** Chelsea Howe explores deliberate design practices for sustainable products, ethical teams, and lasting relationships with players.
+
+**中文** Chelsea Howe 讨论如何通过有意识的设计选择，建立可持续的产品、符合伦理的团队，以及长期的玩家关系。
 
 <a id="gdc-2020-1026602"></a>
 
@@ -219,12 +251,14 @@
 
 ## Blockers: Analyzing Difficulty Drivers in Candy Crush Games
 
+**《糖果传奇》：分析障碍物的难度因素**
+
 活动：Summer 2020
 
 讲者：Lucien "Yen-Chu" Chen  
 机构：King  
 官方方向：Design  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
@@ -235,9 +269,15 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+Blockers%3A+Analyzing+Difficulty+Drivers+in+Candy+Crush+Games>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1026813/>) · 2026-10-21 核对
+
+**EN** King introduces shared blocker statistics so different disciplines can reason consistently about match-three obstacles and their difficulty.
+
+**中文** King 为三消障碍物建立统一属性体系，帮助设计、美术、制作及开发人员使用共同语言分析行为与难度。
 
 <a id="gdc-2020-1026733"></a>
 
@@ -327,12 +367,14 @@
 
 ## Designing Social Play for 'Sky: Children of the Light'
 
+**《光·遇》的社交玩法设计**
+
 活动：Summer 2020
 
 讲者：John Hughes  
 机构：thatgamecompany  
 官方方向：Design  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
@@ -342,20 +384,28 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+Designing+Social+Play+for+%27Sky%3A+Children+of+the+Light%27>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1026818/>) · 2026-10-21 核对
+
+**EN** Sky's development provides lessons on designing online play that creates meaningful, enduring connections between players.
+
+**中文** 以《光·遇》的开发经验为基础，探讨哪些社交玩法能够促进玩家之间有意义且持久的连接。
 
 <a id="gdc-2020-1026822"></a>
 
 ## Evolution of Gacha Systems in Mobile Free to Play Games
+
+**移动免费游戏抽卡系统的演变**
 
 活动：Summer 2020
 
 讲者：Jakub Remiar  
 机构：Independent  
 官方方向：Design  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
@@ -365,20 +415,28 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+Evolution+of+Gacha+Systems+in+Mobile+Free+to+Play+Games>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1026822/>) · 2026-10-21 核对
+
+**EN** The talk compares gacha variants through currencies, duplicates, collection incentives, and mechanisms that reduce randomness across markets.
+
+**中文** 从代币、重复物品、收集动力和降低随机性的机制出发，比较不同市场中抽卡系统的演变及其设计取舍。
 
 <a id="gdc-2020-1026699"></a>
 
 ## Experimental Gameplay Workshop
 
+**实验玩法工作坊**
+
 活动：GDC 2020
 
-讲者：Nick Walton  
-机构：Oasis Tech Inc  
+讲者：Daniel Benmergui / Gordey Chernyy / Josh Delson / Gwen Frey / Guy-Gianno Garcia Hoelen / Michael Guattery / Robin Hunicke / Michal Hupka / Drew Marquardt / Maria Mishurenko / Shawn Patton / Olive Perry / Sam Polglase / Anselm Pyta / Justin Sales / Matt Stark / Rachel Theil / Patrick Traynor / Alan Walton / Nick Walton  
+机构：Storyteller / Synesthetic Echo / Independent / Chump Squad / Breda University of Applied Sciences / Creative Media &amp; Game Technologies / Puzzsoft / Funomena / Cinq-Mars Media / Schell Games / Wickworks / Studio Seufz / National Student Leadership Conference / Oasis Tech Inc  
 官方方向：Design  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
@@ -388,20 +446,28 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+Experimental+Gameplay+Workshop>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1026699/>) · 2026-10-21 核对
+
+**EN** Developers present unconventional prototypes that challenge familiar mechanics and explore possibilities for new game forms.
+
+**中文** 开发者展示突破常见玩法惯例的实验原型，探索新的机制组合与游戏形式，为其他创作者提供灵感。
 
 <a id="gdc-2020-1026823"></a>
 
 ## Experimental Gameplay Workshop
 
+**实验玩法工作坊**
+
 活动：Summer 2020
 
-讲者：Robin Hunicke  
-机构：Funomena  
+讲者：Maria Mishurenko / Patrick Traynor / Rachel Theil / Matt Stark / Justin Sales / Anselm Pyta / Sam Polglase / Olive Perry / Shawn Patton / Daniel Benmergui / Christopher Cinq-Mars Jarvis / Michal Hupka / Robin Hunicke / Michael Guattery / Guy-Gianno Garcia Hoelen / Gwen Frey / Josh Delson / Gordey Chernyy  
+机构：Synesthetic Echo / Independent / Puzzsoft / National Student Leadership Conference / Studio Seufz / Schell Games / Wickworks / Storyteller / Cinq-Mars Media / Breda University of Applied Sciences / Creative Media &amp; Game Technologies / Funomena / Chump Squad  
 官方方向：Design  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
@@ -411,20 +477,28 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+Experimental+Gameplay+Workshop>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1026823/>) · 2026-10-21 核对
+
+**EN** Developers present unconventional prototypes that challenge familiar mechanics and explore possibilities for new game forms.
+
+**中文** 开发者展示突破常见玩法惯例的实验原型，探索新的机制组合与游戏形式，为其他创作者提供灵感。
 
 <a id="gdc-2020-1026606"></a>
 
 ## Forgiveness Mechanics: Reading Minds for Responsive Gameplay
 
+**容错机制：让游戏理解玩家意图**
+
 活动：GDC 2020
 
 讲者：Seth Coster  
-机构：Butterscotch Shenanigans, Inc  
+机构：Butterscotch Shenanigans / Inc  
 官方方向：Design  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
@@ -434,9 +508,15 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+Forgiveness+Mechanics%3A+Reading+Minds+for+Responsive+Gameplay>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1026606/>) · 2026-10-21 核对
+
+**EN** Levelhead examples show how forgiving input systems can honor player intent and make controls feel responsive despite imperfect timing.
+
+**中文** 以《Levelhead》等作品为例，说明容错输入系统如何在操作时机不精确时仍响应玩家意图，改善控制手感。
 
 <a id="gdc-2020-1026832"></a>
 
@@ -498,6 +578,8 @@
 
 ## How to Restrain Inflation in Game? Monitoring and Alerting of Economic System.
 
+**游戏经济：通胀监测与预警**
+
 活动：GDC 2020
 
 讲者：Yongcheng Liu / Qinfang Ying  
@@ -513,9 +595,15 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+How+to+Restrain+Inflation+in+Game%3F+Monitoring+and+Alerting+of+Economic+System.>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1026913/>) · 2026-10-21 核对
+
+**EN** NetEase uses economic dashboards to track currency and item flows, player trading, prices, and anomalies requiring intervention.
+
+**中文** 网易通过可视化监测货币与物品的产出、消耗、存量、价格及玩家交易，帮助团队发现经济异常并进行调控。
 
 <a id="gdc-2020-1026711"></a>
 
@@ -548,12 +636,14 @@
 
 ## Mastering Kombat: Designing Mortal Kombat 11's Empowering Tutorial Mode
 
+**《真人快打11》的教学模式设计**
+
 活动：GDC 2020
 
 讲者：Brian Keschinger  
 机构：NetherRealm Studios  
 官方方向：Design  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
@@ -563,20 +653,28 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+Mastering+Kombat%3A+Designing+Mortal+Kombat+11%27s+Empowering+Tutorial+Mode>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1026766/>) · 2026-10-21 核对
+
+**EN** NetherRealm builds tutorials around different player needs, flexible learning paths, and complementary visual and audio instruction.
+
+**中文** NetherRealm 根据不同玩家的学习需求，设计灵活的教学路径，并结合视觉与听觉提示，帮助玩家理解格斗系统。
 
 <a id="gdc-2020-1026588"></a>
 
 ## Matchmaking for Engagement: Lessons from 'Halo 5'
+
+**《光环5》：以玩家参与度检验匹配策略**
 
 活动：GDC 2020
 
 讲者：Josh Menke  
 机构：343 Industries  
 官方方向：Design  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
@@ -587,20 +685,28 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+Matchmaking+for+Engagement%3A+Lessons+from+%27Halo+5%27>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1026621/>) · 2026-10-21 核对
+
+**EN** Halo 5 data illustrates how to test matchmaking assumptions about latency, skill, streaks, and waiting time.
+
+**中文** 结合《光环5》的数据，讨论如何检验延迟、水平差距、连胜连败和等待时间等匹配因素与玩家参与度的关系。
 
 <a id="gdc-2020-1026846"></a>
 
 ## Mining Your Own Design: Crafting the Crafting System in 'Astroneer'
 
+**《Astroneer》：从既有设计中重塑制造系统**
+
 活动：Summer 2020
 
-讲者：Aaron Biddlecom  
+讲者：Aaron Biddlecom / Elijah O'Rear  
 机构：System Era Softworks  
 官方方向：Design  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
@@ -611,20 +717,28 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+Mining+Your+Own+Design%3A+Crafting+the+Crafting+System+in+%27Astroneer%27>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1026846/>) · 2026-10-21 核对
+
+**EN** Astroneer's crafting overhaul draws on existing design constraints and player expectations to change a core system during live development.
+
+**中文** 《Astroneer》在重做制造系统时，重新梳理既有设计约束与玩家预期，讨论如何在持续开发的游戏中调整核心系统。
 
 <a id="gdc-2020-1026851"></a>
 
 ## Random Is the Enemy: Collating Collectible Card/Board Games
+
+**收藏卡牌与桌游的配包设计**
 
 活动：Summer 2020
 
 讲者：Eric Engelhard  
 机构：WizKids Games  
 官方方向：Design  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
@@ -635,20 +749,28 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+Random+Is+the+Enemy%3A+Collating+Collectible+Card%2FBoard+Games>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1026851/>) · 2026-10-21 核对
+
+**EN** Pseudo-random collation balances rarity, collection cost, and unpredictability to shape a more deliberate booster-opening experience.
+
+**中文** 通过伪随机配包协调稀有度、收集成本与不可预测性，使收藏卡牌或桌游的开包体验具有更明确的设计目标。
 
 <a id="gdc-2020-1026804"></a>
 
 ## Skill-Building Series: Making The Designer-Writer Collaboration Work
+
+**让设计师与编剧协作顺畅**
 
 活动：Summer 2020
 
 讲者：Susan O'Connor  
 机构：Susan O'Connor Writing Studio  
 官方方向：Design  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
@@ -658,20 +780,28 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+Skill-Building+Series%3A+Making+The+Designer-Writer+Collaboration+Work>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1026804/>) · 2026-10-21 核对
+
+**EN** Susan O'Connor draws on indie and AAA projects to identify communication practices that align narrative and game-design priorities.
+
+**中文** Susan O'Connor 结合独立及大型项目经验，讨论如何改善编剧与设计师的沟通，让叙事和玩法目标保持一致。
 
 <a id="gdc-2020-1026594"></a>
 
 ## Stop &amp; Think: Teaching Players About Media Manipulation in 'Headliner'
+
+**《Headliner》：通过玩法理解媒体操纵**
 
 活动：GDC 2020
 
 讲者：Jakub Kasztalski  
 机构：Unbound Creations LLC  
 官方方向：Design  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
@@ -682,13 +812,21 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+Stop+%26+Think%3A+Teaching+Players+About+Media+Manipulation+in+%27Headliner%27>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1026724/>) · 2026-10-21 核对
+
+**EN** Headliner uses editorial choices, personal consequences, and ethical dilemmas to encourage reflection on news framing and media manipulation.
+
+**中文** 《Headliner》通过新闻编辑选择、角色处境和道德困境，引导玩家反思报道视角，并识别媒体操纵手法。
 
 <a id="gdc-2020-1026727"></a>
 
 ## The Revolutionary Future of Games: Interactive Streaming (Presented by Genvid Technologies, Inc.)
+
+**互动直播：让观众参与游戏**
 
 活动：GDC 2020
 
@@ -705,20 +843,28 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+The+Revolutionary+Future+of+Games%3A+Interactive+Streaming+%28Presented+by+Genvid+Technologies%2C+Inc.%29>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1026727/>) · 2026-10-21 核对
+
+**EN** Genvid and Deadhaus Sonata illustrate how interactive streaming can give viewers influence over the games they watch.
+
+**中文** 结合 Genvid SDK 与《Deadhaus Sonata》，讨论互动直播如何让观众影响正在观看的游戏，从旁观转向参与。
 
 <a id="gdc-2020-1026690"></a>
 
 ## UX Summit: Microtalks
 
+**UX 微演讲**
+
 活动：GDC 2020
 
-讲者：Christoffer Holmgrd  
-机构：Die Gute Fabrik  
+讲者：Alexis Clay / Christoffer Holmgrd / John Hopson / Yongcheng Liu / scar Losada / Sisi Yuan  
+机构：Alexclay.io / Die Gute Fabrik / ArenaNet / Netease / Inc.  
 官方方向：UX Summit  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
@@ -729,13 +875,21 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+UX+Summit%3A+Microtalks>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1026731/>) · 2026-10-21 核对
+
+**EN** Short case studies cover text presentation, playtest feedback, Arabic interfaces, mobile adaptation, and the pacing of player information.
+
+**中文** 通过短篇案例讨论文本呈现、测试反馈、阿拉伯语界面、移动端适配及向玩家传递信息的节奏。
 
 <a id="gdc-2020-1026757"></a>
 
 ## What Does It Take to Catch a Cheater in 2020? (Presented by Denuvo by Irdeto)
+
+**2020 年反作弊技术与设计考量**
 
 活动：GDC 2020
 
@@ -752,20 +906,28 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+What+Does+It+Take+to+Catch+a+Cheater+in+2020%3F+%28Presented+by+Denuvo+by+Irdeto%29>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1026757/>) · 2026-10-21 核对
+
+**EN** Denuvo examines cheat techniques and how hardware virtualization, platform roadmaps, and game-design choices affect multiplayer anti-cheat systems.
+
+**中文** Denuvo 分析作弊技术，并讨论硬件虚拟化、平台发展及游戏设计选择如何影响多人游戏反作弊方案。
 
 <a id="gdc-2020-1026916"></a>
 
 ## Will You Marry Me?: Research from the Marriage System in NetEase Games
+
+**网易游戏婚姻系统研究**
 
 活动：GDC 2020
 
 讲者：Xinwei Chang  
 机构：NetEase  
 官方方向：Design  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
@@ -775,9 +937,15 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+Will+You+Marry+Me%3F%3A+Research+from+the+Marriage+System+in+NetEase+Games>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1026916/>) · 2026-10-21 核对
+
+**EN** NetEase compares in-game weddings with Chinese traditions and uses qualitative and quantitative research to examine player behavior and social effects.
+
+**中文** 网易比较游戏婚礼与现实婚俗，并通过定性和定量研究，讨论婚姻系统对玩家行为及社交体验的影响。
 
 
 <!-- Generated by python -m gdc_index build. -->

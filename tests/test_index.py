@@ -264,6 +264,39 @@ class EditorialTests(unittest.TestCase):
         self.assertIn("尚未收录已核实", output)
         self.assertIn("官方资料与相关文章", output)
 
+    def test_summary_evidence_is_validated_and_rendered_with_scope(self):
+        data = dataset()
+        item = data["sessions"][0]
+        item["summary"] = {"en": "A source-based note.", "zh": "依据来源的导读。", "status": "draft", "basis": "speaker-article", "source_hash": item["source_hash"],
+                           "evidence": {"url": "https://example.org/archive", "access": "indexed-history", "checked_at": "2026-10-21", "content_hash": "a" * 64, "note": "相关资料，不能认定为相同演讲版本。"}}
+        self.assertEqual(validate_dataset(data, TRACKS), [])
+        output = render_session(item, 2026)
+        self.assertIn("依据讲者／发布方相关文章或大会报道", output)
+        self.assertIn("历史页面索引", output)
+        self.assertIn("https://example.org/archive", output)
+        self.assertIn("不能认定为相同演讲版本", output)
+        item["summary"]["evidence"]["url"] = "file:///private/source.html"
+        self.assertTrue(any("evidence URL" in error for error in validate_dataset(data, TRACKS)))
+
+    def test_summary_evidence_requires_fingerprint_date_and_access(self):
+        data = dataset()
+        data["sessions"][0]["summary"]["evidence"] = {"url": "https://example.org/source", "access": "unknown", "checked_at": "not-a-date", "content_hash": "invalid"}
+        errors = validate_dataset(data, TRACKS)
+        self.assertTrue(any("evidence access" in error for error in errors))
+        self.assertTrue(any("evidence content hash" in error for error in errors))
+        self.assertTrue(any("evidence checked_at" in error for error in errors))
+        data["sessions"][0]["summary"]["evidence"]["content_hash"] = None
+        self.assertTrue(any("evidence content hash" in error for error in validate_dataset(data, TRACKS)))
+
+    def test_youtube_version_note_is_visible_and_validated(self):
+        data = dataset()
+        item = data["sessions"][0]
+        item["links"]["youtube"] = [{"title": "Official talk", "url": "https://youtu.be/XxvLyd4lKZM", "channel": "Publisher", "evidence_url": "https://example.org/gdc-2026", "checked_at": "2026-10-21", "note": "发布方标明的重新演绎版本"}]
+        self.assertEqual(validate_dataset(data, TRACKS), [])
+        self.assertIn("版本说明：发布方标明的重新演绎版本", render_session(item, 2026))
+        item["links"]["youtube"][0]["note"] = 123
+        self.assertTrue(any("version note" in error for error in validate_dataset(data, TRACKS)))
+
     def test_generated_files_are_reproducible_and_check_is_read_only(self):
         with temp_workspace() as temporary:
             root = Path(temporary)

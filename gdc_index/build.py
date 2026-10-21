@@ -58,7 +58,8 @@ def render_session(item: dict, year: int) -> str:
         parts.append(f"- {link(article['title'], article['url'])}")
     parts.extend(["", "**YouTube 演讲**", ""])
     for video in item["links"]["youtube"]:
-        parts.append(f"- {link(video['title'], video['url'])} · {text(video['channel'])} · {video['checked_at']} 核验")
+        note = f" · 版本说明：{text(video['note'])}" if video.get("note") else ""
+        parts.append(f"- {link(video['title'], video['url'])} · {text(video['channel'])} · {video['checked_at']} 核验{note}")
     if not item["links"]["youtube"]:
         search = "https://www.youtube.com/results?" + urlencode({"search_query": f"GDC {year} {item['title']}"})
         parts.append(f"- 尚未收录已核实的视频链接。{link('按演讲名搜索 YouTube', search)}（搜索入口）")
@@ -67,6 +68,16 @@ def render_session(item: dict, year: int) -> str:
     if summary["en"] or summary["zh"]:
         if summary["basis"] == "official-overview":
             parts.extend(["依据官方公开简介整理的导读；未声称覆盖完整演讲。", ""])
+        elif summary["basis"] == "speaker-article":
+            parts.extend(["依据讲者／发布方相关文章或大会报道整理的导读；资料范围以出处说明为准。", ""])
+        elif summary["basis"] == "talk":
+            parts.extend(["依据公开演讲资料整理的导读；不代表演讲全文翻译。", ""])
+        evidence = summary.get("evidence")
+        if evidence:
+            historical = " · 历史页面索引，原页面可能已变更或失效" if evidence["access"] == "indexed-history" else ""
+            parts.extend([f"{link('导读依据', evidence['url'])} · {evidence['checked_at']} 核对{historical}", ""])
+            if evidence.get("note"):
+                parts.extend([f"> 出处说明：{text(evidence['note'])}", ""])
         parts.extend([f"**EN** {text(summary['en'])}", "", f"**中文** {text(summary['zh'])}", ""])
     else:
         parts.extend(["待依据官方公开简介、演讲或讲者文章整理。", ""])
@@ -119,7 +130,8 @@ def rendered_files(root: Path) -> dict[Path, str]:
             for video in item["links"]["youtube"]:
                 sources = [link("GDC Vault", source["url"]) for source in item["sources"]]
                 sources += [link(article["title"], article["url"]) for article in item["links"]["articles"]]
-                videos.append(f"| {text(item['title'])} | {' / '.join(sources)} | {link(video['title'], video['url'])} | {text(video['channel'])} | {video['checked_at']} |")
+                note = f" · 版本说明：{text(video['note'])}" if video.get("note") else ""
+                videos.append(f"| {text(item['title'])} | {' / '.join(sources)} | {link(video['title'], video['url'])}{note} | {text(video['channel'])} | {video['checked_at']} |")
         videos.extend(["", "## 官方发布方补充演讲", "",
                        "以下视频由官方 GDC 活动页链接的发布方提供，当前年度 Vault 目录中尚未匹配到对应条目，因此单独列出，不计入 Vault 演讲数量。中文标题为参考译名。", "",
                        "| 演讲／参考译名 | 官方资料／文章 | YouTube 视频 | 发布频道 | 核验日期 |", "| --- | --- | --- | --- | --- |"])

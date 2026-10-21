@@ -4,7 +4,7 @@
 
 依据 [GDC Vault 年度归档](<https://gdcvault.com/browse/gdc-20/>) 整理；来源核对日期：2026-10-21。
 
-共 **209** 场独立演讲／活动，**297** 个资料页；双语摘要 **73** 条，已核实 YouTube 视频的演讲 **22** 场。
+共 **209** 场独立演讲／活动，**297** 个资料页；双语摘要 **209** 条，已核实 YouTube 视频的演讲 **22** 场。
 
 [YouTube 公开视频索引](youtube.md)：共 **22** 个已核实播放链接，包含归档内视频及 **0** 个官方发布方补充视频。索引同时提供官方资料／活动页。
 
@@ -14,18 +14,18 @@
 
 | 方向 | 演讲数 | 双语摘要 | YouTube 已核实 |
 | --- | ---: | ---: | ---: |
-| [Audio · 游戏音频](<audio.md>) | 14 | 5 | 1 |
-| [Business &amp; Marketing · 商业与市场](<business-marketing.md>) | 22 | 5 | 1 |
-| [Design · 游戏设计](<design.md>) | 30 | 9 | 4 |
-| [Game Narrative · 游戏叙事与表演](<game-narrative.md>) | 6 | 5 | 1 |
-| [Independent Games · 独立游戏](<independent-games.md>) | 7 | 5 | 0 |
-| [Production &amp; Team Leadership · 游戏制作与团队领导力](<production-team-leadership.md>) | 20 | 8 | 3 |
-| [Programming · 游戏程序与生产技术](<programming.md>) | 52 | 11 | 2 |
-| [Visual Arts · 游戏视觉艺术](<visual-arts.md>) | 16 | 8 | 3 |
-| [VR / AR · 虚拟现实与增强现实](<vr-ar.md>) | 9 | 6 | 2 |
-| [Culture &amp; Sustainability · 文化与可持续发展](<culture-sustainability.md>) | 27 | 6 | 4 |
+| [Audio · 游戏音频](<audio.md>) | 13 | 13 | 1 |
+| [Business &amp; Marketing · 商业与市场](<business-marketing.md>) | 21 | 21 | 1 |
+| [Design · 游戏设计](<design.md>) | 30 | 30 | 4 |
+| [Game Narrative · 游戏叙事与表演](<game-narrative.md>) | 6 | 6 | 1 |
+| [Independent Games · 独立游戏](<independent-games.md>) | 7 | 7 | 0 |
+| [Production &amp; Team Leadership · 游戏制作与团队领导力](<production-team-leadership.md>) | 20 | 20 | 3 |
+| [Programming · 游戏程序与生产技术](<programming.md>) | 52 | 52 | 2 |
+| [Visual Arts · 游戏视觉艺术](<visual-arts.md>) | 16 | 16 | 3 |
+| [VR / AR · 虚拟现实与增强现实](<vr-ar.md>) | 9 | 9 | 2 |
+| [Culture &amp; Sustainability · 文化与可持续发展](<culture-sustainability.md>) | 26 | 26 | 4 |
 | [Educators · 游戏教育](<educators.md>) | 0 | 0 | 0 |
-| [Career · 职业发展](<career.md>) | 10 | 6 | 1 |
+| [Career · 职业发展](<career.md>) | 13 | 13 | 1 |
 | [Luminaries Speaker Series · 行业人物系列](<luminaries.md>) | 0 | 0 | 0 |
 | [Special Events · 特别活动](<special-events.md>) | 2 | 2 | 1 |
 

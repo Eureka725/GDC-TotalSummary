@@ -32,6 +32,8 @@ python -m gdc_index export --year 2026 --missing-only --output .cache/queue-2026
 
 每个 `items` 条目可以编辑 `title_zh`、`summary` 和 `links`。保留 `id` 与 `source_hash`。新摘要应同时提供英文导读和中文导读，表达相同信息；`basis` 填写 `official-overview`、`talk` 或 `speaker-article`，`status` 初始为 `draft`，人工校对后为 `reviewed`。读过简介只能形成简介导读，不应声称观看了完整演讲。
 
+正文为空、仅有“Session description placeholder”等占位文本时，不得据此填写摘要。应继续核对官方议程、讲者或发布方文章、官方演讲资料，并为新稿填写 `summary.evidence`，记录实际 URL、访问方式、核对日期与所用文本的 SHA-256。历史页面的检索索引须标为 `indexed-history`；使用其他活动的相关版本时，在 `note` 中明确说明，阅读页面会同时显示。完整官方原文仍只放在 `.cache/`，不随摘要提交。
+
 ```bash
 python -m gdc_index import .cache/queue-2026.json
 python -m gdc_index validate
@@ -63,6 +65,8 @@ python -m gdc_index build
 ```
 
 核对演讲题目、讲者、举办年份和发布者。YouTube 上传年份可能与演讲年份不同，不能只按上传时间判断。演讲可能在 YouTube 使用不同标题，需要通过官方活动页、讲者说明或视频简介确认对应关系。优先收录官方／讲者发布的完整演讲，剪辑、访谈或预告不能冒充完整演讲。
+
+发布方若明确说明视频为演讲的重新演绎版本，可使用可选的 `note` 写明版本说明；方向页和 YouTube 索引都会显示。同主题、同讲者但未能确认属于该届 GDC 的视频，可作为明确标注的相关阅读保存在 `links.articles`，不计入该年度已核实演讲视频。
 
 `evidence_url` 指向支持对应关系的官方页面或视频详情；`checked_at` 是核对日期，不是发布日期。频道页面、播放列表和搜索结果不属于直接视频 URL，校验器会拒绝把它们当成演讲视频。未找到视频时保留空数组，阅读页面会自动给出明确标注的搜索入口。
 

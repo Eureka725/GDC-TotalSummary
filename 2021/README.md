@@ -4,7 +4,7 @@
 
 依据 [GDC Vault 年度归档](<https://gdcvault.com/browse/gdc-21/>) 整理；来源核对日期：2026-10-21。
 
-共 **434** 场独立演讲／活动，**614** 个资料页；双语摘要 **80** 条，已核实 YouTube 视频的演讲 **23** 场。
+共 **434** 场独立演讲／活动，**614** 个资料页；双语摘要 **434** 条，已核实 YouTube 视频的演讲 **23** 场。
 
 [YouTube 公开视频索引](youtube.md)：共 **23** 个已核实播放链接，包含归档内视频及 **0** 个官方发布方补充视频。索引同时提供官方资料／活动页。
 
@@ -14,18 +14,18 @@
 
 | 方向 | 演讲数 | 双语摘要 | YouTube 已核实 |
 | --- | ---: | ---: | ---: |
-| [Audio · 游戏音频](<audio.md>) | 24 | 7 | 1 |
-| [Business &amp; Marketing · 商业与市场](<business-marketing.md>) | 68 | 7 | 2 |
-| [Design · 游戏设计](<design.md>) | 78 | 10 | 6 |
-| [Game Narrative · 游戏叙事与表演](<game-narrative.md>) | 12 | 5 | 0 |
-| [Independent Games · 独立游戏](<independent-games.md>) | 23 | 7 | 2 |
-| [Production &amp; Team Leadership · 游戏制作与团队领导力](<production-team-leadership.md>) | 34 | 5 | 0 |
-| [Programming · 游戏程序与生产技术](<programming.md>) | 92 | 9 | 5 |
-| [Visual Arts · 游戏视觉艺术](<visual-arts.md>) | 45 | 7 | 1 |
-| [VR / AR · 虚拟现实与增强现实](<vr-ar.md>) | 17 | 6 | 1 |
-| [Culture &amp; Sustainability · 文化与可持续发展](<culture-sustainability.md>) | 22 | 8 | 4 |
-| [Educators · 游戏教育](<educators.md>) | 7 | 5 | 1 |
-| [Career · 职业发展](<career.md>) | 16 | 5 | 1 |
+| [Audio · 游戏音频](<audio.md>) | 24 | 24 | 1 |
+| [Business &amp; Marketing · 商业与市场](<business-marketing.md>) | 68 | 68 | 2 |
+| [Design · 游戏设计](<design.md>) | 78 | 78 | 6 |
+| [Game Narrative · 游戏叙事与表演](<game-narrative.md>) | 12 | 12 | 0 |
+| [Independent Games · 独立游戏](<independent-games.md>) | 23 | 23 | 2 |
+| [Production &amp; Team Leadership · 游戏制作与团队领导力](<production-team-leadership.md>) | 34 | 34 | 0 |
+| [Programming · 游戏程序与生产技术](<programming.md>) | 92 | 92 | 5 |
+| [Visual Arts · 游戏视觉艺术](<visual-arts.md>) | 45 | 45 | 1 |
+| [VR / AR · 虚拟现实与增强现实](<vr-ar.md>) | 17 | 17 | 1 |
+| [Culture &amp; Sustainability · 文化与可持续发展](<culture-sustainability.md>) | 22 | 22 | 4 |
+| [Educators · 游戏教育](<educators.md>) | 7 | 7 | 1 |
+| [Career · 职业发展](<career.md>) | 16 | 16 | 1 |
 | [Luminaries Speaker Series · 行业人物系列](<luminaries.md>) | 0 | 0 | 0 |
 | [Special Events · 特别活动](<special-events.md>) | 4 | 4 | 0 |
 

@@ -213,6 +213,8 @@
 
 ## 'Pokmon GO' Gigantamax Battles: Designing a Scalable Battle System
 
+**《Pokémon GO》超极巨对战：可扩展战斗架构**
+
 讲者：Ben Li  
 机构：Scopely  
 官方方向：Game &amp; Production Technology  
@@ -221,14 +223,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035936/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/pokemon-go-gigantamax-battles-designing-a-scalable-battle-system/915402>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+%27Pokmon+GO%27+Gigantamax+Battles%3A+Designing+a+Scalable+Battle+System>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/pokemon-go-gigantamax-battles-designing-a-scalable-battle-system/915402>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** The team rebuilds Pokémon GO's battle architecture during live service, addressing synchronization, state management, scalability, and operating costs.
+
+**中文** 团队在持续运营中重建《Pokémon GO》的战斗架构，重点处理同步、状态管理、扩展性及运维成本问题。
 
 <a id="gdc-2026-1036032"></a>
 
@@ -609,6 +618,8 @@
 
 ## Build Faster, Iterate More: AI-Powered Prototyping with the Model Context Protocol (MCP)
 
+**通过 MCP 加速 AI 辅助原型迭代**
+
 讲者：Brent Vincent  
 机构：Roblox  
 官方方向：Game &amp; Production Technology  
@@ -617,14 +628,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035783/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/build-faster-iterate-more-ai-powered-prototyping-with-the-model-context-protocol-mcp/915811>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Build+Faster%2C+Iterate+More%3A+AI-Powered+Prototyping+with+the+Model+Context+Protocol+%28MCP%29>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/build-faster-iterate-more-ai-powered-prototyping-with-the-model-context-protocol-mcp/915811>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** The speakers use MCP to connect language models with engine functions, illustrating automation across content, testing, and build workflows.
+
+**中文** 讲者利用 MCP 连接语言模型与引擎功能，通过案例讨论内容制作、测试及构建流程中的自动化应用。
 
 <a id="gdc-2026-1036060"></a>
 
@@ -680,6 +698,8 @@
 
 ## Career Forum: Machine Learning
 
+**机器学习职业发展论坛**
+
 讲者：Alexis Rolland  
 机构：Ubisoft, La Forge  
 官方方向：Game &amp; Production Technology  
@@ -688,14 +708,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035789/>)（需会员）
+- [讲者／发布方相关文章](<https://www.linkedin.com/posts/elvis-liu-6a34315_gdc2026-gameai-machinelearning-activity-7436894741532688384-_Jej>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Career+Forum%3A+Machine+Learning>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据讲者／发布方相关文章或大会报道整理的导读；资料范围以出处说明为准。
+
+[导读依据](<https://www.linkedin.com/posts/elvis-liu-6a34315_gdc2026-gameai-machinelearning-activity-7436894741532688384-_Jej>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Elvis Liu introduces his move from academia to studio AI leadership within a forum on machine-learning careers and game production.
+
+**中文** 讲者 Elvis Liu 介绍自己从学术界转向工作室 AI 负责人的经历，为机器学习职业发展与游戏制作相关讨论提供切入点。
 
 <a id="gdc-2026-1035614"></a>
 
@@ -977,6 +1004,8 @@
 
 ## Fixed Wing Flight in 'Keeper': Pathfinding, Locomotion, and Animation of a Bird Companion
 
+**《Keeper》鸟类伙伴的固定翼飞行**
+
 讲者：James Collins  
 机构：Double Fine Productions  
 官方方向：Game &amp; Production Technology  
@@ -985,18 +1014,27 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035835/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/fixed-wing-flight-in-keeper-pathfinding-locomotion-and-animation-of-a-bird-companion/913823>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Fixed+Wing+Flight+in+%27Keeper%27%3A+Pathfinding%2C+Locomotion%2C+and+Animation+of+a+Bird+Companion>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/fixed-wing-flight-in-keeper-pathfinding-locomotion-and-animation-of-a-bird-companion/913823>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Twig's flight combines pathfinding, spline fitting, physics, and animation collaboration to maintain convincing motion within a small team's scope.
+
+**中文** 鸟类伙伴 Twig 的飞行结合寻路、样条拟合、物理与动画协作，在小团队的制作范围内实现可信的移动表现。
 
 <a id="gdc-2026-1035837"></a>
 
 ## Flipping the Script: Overhauling Sucker Punch's Writing Pipeline for 'Ghost of Yotei'
+
+**《羊蹄山之魂》编剧流程的重建**
 
 讲者：Roland Munsil  
 机构：Sucker Punch Productions  
@@ -1006,14 +1044,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035837/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/flipping-the-script-overhauling-sucker-punchs-writing-pipeline-for-ghost-of-ytei/913693>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Flipping+the+Script%3A+Overhauling+Sucker+Punch%27s+Writing+Pipeline+for+%27Ghost+of+Yotei%27>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/flipping-the-script-overhauling-sucker-punchs-writing-pipeline-for-ghost-of-ytei/913693>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Sucker Punch integrates scripts directly into mission authoring, extending the workflow to recording, reviews, auditing, and localization.
+
+**中文** Sucker Punch 将剧本直接接入任务制作，并进一步把录音、审查、校验和本地化纳入同一工作流程。
 
 <a id="gdc-2026-1036061"></a>
 
@@ -1094,6 +1139,8 @@
 
 ## From the Ground Up: Rethinking Quality in Games
 
+**重新思考游戏质量工作**
+
 讲者：Aniruddha Pawar  
 机构：Ubisoft  
 官方方向：Game &amp; Production Technology  
@@ -1102,18 +1149,27 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035845/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/from-the-ground-up-rethinking-quality-in-games/915041>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+From+the+Ground+Up%3A+Rethinking+Quality+in+Games>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/from-the-ground-up-rethinking-quality-in-games/915041>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Ubisoft combines technical testing, role development, automation, and data to expand quality work beyond finding defects.
+
+**中文** Ubisoft 将技术测试、岗位能力培养、自动化和数据结合起来，讨论质量团队如何承担查找缺陷之外的职责。
 
 <a id="gdc-2026-1035849"></a>
 
 ## Game AI Fireside Chat with Damian Isla and Jeff Orkin: Celebrating 20+ Years of Behavior Trees and Automated Planning Systems
+
+**游戏 AI 对谈：行为树与自动规划的二十余年**
 
 讲者：Steve Rabin  
 机构：Electronic Arts  
@@ -1123,14 +1179,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035849/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/game-ai-fireside-chat-with-damian-isla-and-jeff-orkin-celebrating-20-years-of-behavior-trees-and-automated-planning-systems/917672>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Game+AI+Fireside+Chat+with+Damian+Isla+and+Jeff+Orkin%3A+Celebrating+20%2B+Years+of+Behavior+Trees+and+Automated+Planning+Systems>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/game-ai-fireside-chat-with-damian-isla-and-jeff-orkin-celebrating-20-years-of-behavior-trees-and-automated-planning-systems/917672>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Damian Isla and Jeff Orkin revisit the origins of behavior trees and automated planning, their evolution, and future design challenges.
+
+**中文** Damian Isla 与 Jeff Orkin 回顾行为树和自动规划系统的起源、后续演变，以及这些架构面临的未来设计问题。
 
 <a id="gdc-2026-1035698"></a>
 
@@ -1163,6 +1226,8 @@
 
 ## Generative Recommender Post-Trained by Reinforcement Learning in Video Games
 
+**用强化学习后训练的生成式游戏推荐系统**
+
 讲者：Dong Fang  
 机构：LIGHTSPEED STUDIOS  
 官方方向：Game &amp; Production Technology  
@@ -1171,14 +1236,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035863/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/generative-recommender-post-trained-by-reinforcement-learning-in-video-games/915223>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Generative+Recommender+Post-Trained+by+Reinforcement+Learning+in+Video+Games>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/generative-recommender-post-trained-by-reinforcement-learning-in-video-games/915223>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** The framework combines language-model recommendations and reinforcement learning, addressing multiple recommendation tasks, player changes, latency, scalability, and fairness.
+
+**中文** 将语言模型推荐与强化学习结合，尝试统一多类推荐任务，并讨论玩家兴趣变化、延迟、扩展性和公平性等部署问题。
 
 <a id="gdc-2026-1035644"></a>
 
@@ -1286,6 +1358,8 @@
 
 ## Implementing a Built-In Multiplayer UGC Experience in 'Genshin Impact'
 
+**在《原神》内实现多人 UGC 体验**
+
 讲者：Xin Ning  
 机构：miHoYo  
 官方方向：Game &amp; Production Technology  
@@ -1294,14 +1368,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035883/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/implementing-a-built-in-multiplayer-ugc-experience-in-genshin-impact/917102>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Implementing+a+Built-In+Multiplayer+UGC+Experience+in+%27Genshin+Impact%27>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/implementing-a-built-in-multiplayer-ugc-experience-in-genshin-impact/917102>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Miliastra Wonderland reuses the existing game architecture and content while addressing performance and multiplayer challenges introduced by user-created experiences.
+
+**中文** 千星奇域复用既有游戏架构与内容，同时处理从开发者制作内容扩展到多人 UGC 体验后出现的性能与架构挑战。
 
 <a id="gdc-2026-1036035"></a>
 
@@ -1434,6 +1515,8 @@
 
 ## Machine Learning Forum: Ask the Experts
 
+**机器学习论坛：向专家提问**
+
 讲者：Alessandro Sestini  
 机构：Electronic Arts, SEED  
 官方方向：Game &amp; Production Technology  
@@ -1442,14 +1525,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035903/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/machine-learning-forum-ask-the-experts/917494>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Machine+Learning+Forum%3A+Ask+the+Experts>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/machine-learning-forum-ask-the-experts/917494>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** The forum invites questions on game-industry machine learning across simulation, content, tools, pipelines, services, and research applications.
+
+**中文** 论坛围绕游戏行业机器学习展开问答，覆盖模拟、内容制作、工具、流程、服务及研究成果应用等方向。
 
 <a id="gdc-2026-1035651"></a>
 
@@ -1834,6 +1924,8 @@
 
 ## SoftMax: Neural Simulation of Skeletal Physics
 
+**SoftMax：骨骼物理的神经模拟**
+
 讲者：Xin Qiao  
 机构：LIGHTSPEED STUDIOS  
 官方方向：Game &amp; Production Technology  
@@ -1842,14 +1934,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035958/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/softmax-neural-simulation-of-skeletal-physics/915222>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+SoftMax%3A+Neural+Simulation+of+Skeletal+Physics>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/softmax-neural-simulation-of-skeletal-physics/915222>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** FateTrigger's secondary-physics pipeline combines quantization-aware training, custom inference, and load-balanced detail levels for many dynamic characters.
+
+**中文** 《FateTrigger》的次级物理流程结合量化感知训练、自定义推理及负载均衡细节层级，处理大量动态角色的模拟需求。
 
 <a id="gdc-2026-1035719"></a>
 
@@ -1932,6 +2031,8 @@
 
 ## Tech Art Panel Discussion
 
+**技术美术讨论：工具、自动化与创作意图**
+
 讲者：Camille Kay  
 机构：Epic Games  
 官方方向：Game &amp; Production Technology  
@@ -1940,18 +2041,27 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035972/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/tech-art-panel-discussion/917551>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Tech+Art+Panel+Discussion>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/tech-art-panel-discussion/917551>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Technical artists examine modern toolchains, real-time optimization, and automated workflows while preserving a project's artistic direction.
+
+**中文** 技术美术讨论现代工具链、实时内容优化与自动化流程，分析如何在提高制作效率时保留项目的艺术方向。
 
 <a id="gdc-2026-1035973"></a>
 
 ## Test Automation Is an Essential Investment for All
+
+**游戏测试自动化的投入价值**
 
 讲者：Andrew Fray  
 机构：Automated AF  
@@ -1961,14 +2071,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035973/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/test-automation-is-an-essential-investment-for-all/914467>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Test+Automation+Is+an+Essential+Investment+for+All>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/test-automation-is-an-essential-investment-for-all/914467>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Automation specialists share benefits, failures, and implementation lessons across different budgets, platforms, genres, and QA practices.
+
+**中文** 自动化测试专家结合不同预算、平台与类型的经验，讨论相关投入的收益、失败教训及其与 QA 工作方式的关系。
 
 <a id="gdc-2026-1035653"></a>
 
@@ -2349,6 +2466,8 @@
 
 ## Using Telemetry (the Right Way) is a Game-Changer for Game Tools
 
+**正确使用遥测改进游戏工具**
+
 讲者：David Lightbown  
 机构：Ubisoft  
 官方方向：Game &amp; Production Technology  
@@ -2357,14 +2476,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1036004/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/telemetry-a-game-changer-for-game-tools-design-and-development/915356>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Using+Telemetry+%28the+Right+Way%29+is+a+Game-Changer+for+Game+Tools>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/telemetry-a-game-changer-for-game-tools-design-and-development/915356>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** The talk combines telemetry with observing users, explaining measurement limits and ways to track meaningful improvements in tool usability.
+
+**中文** 将遥测与使用者观察结合，说明指标能够回答和无法回答的问题，以及如何跟踪工具易用性的实际改进。
 
 <a id="gdc-2026-1035661"></a>
 

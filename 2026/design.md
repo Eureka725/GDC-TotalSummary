@@ -55,6 +55,8 @@
 
 ## 'Battlefield 6': Game Feel is the Message
 
+**《战地6》：以游戏手感传达体验**
+
 讲者：Jac Carlsson  
 机构：EA DICE  
 官方方向：Design  
@@ -63,18 +65,27 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035771/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/battlefield-6-game-feel-is-the-message/915257>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+%27Battlefield+6%27%3A+Game+Feel+is+the+Message>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/battlefield-6-game-feel-is-the-message/915257>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Jac Carlsson connects movement, perception, procedural animation, and audiovisual feedback to responsive gunplay and perceived latency.
+
+**中文** Jac Carlsson 将身体运动、感知、程序化动画与视听反馈联系起来，讨论射击手感及玩家感受到的延迟。
 
 <a id="gdc-2026-1035795"></a>
 
 ## 'Clair Obscur: Expedition 33': Delivering a Wide Scope of Features &amp; Content When You Only Have Four Programmers
+
+**《光与影：33号远征队》：四名程序员如何支持丰富内容**
 
 讲者：Tom Guillermin  
 机构：Sandfall Interactive  
@@ -84,18 +95,27 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035795/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/clair-obscur-expedition-33-delivering-a-wide-scope-of-features-content-when-you-only-have-four-programmers/915267>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+%27Clair+Obscur%3A+Expedition+33%27%3A+Delivering+a+Wide+Scope+of+Features+%26+Content+When+You+Only+Have+Four+Programmers>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/clair-obscur-expedition-33-delivering-a-wide-scope-of-features-content-when-you-only-have-four-programmers/915267>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Sandfall prioritizes existing Unreal capabilities and designer autonomy to support extensive gameplay content with a small programming team.
+
+**中文** Sandfall 在有限程序资源下优先利用 Unreal 既有能力，并提高设计师独立制作与组合玩法内容的空间。
 
 <a id="gdc-2026-1035801"></a>
 
 ## 'CorgiSpace': What I Learned from Making 15 Games This Year
+
+**《CorgiSpace》：持续制作小游戏带来的经验**
 
 讲者：Adam Saltsman  
 机构：Finji  
@@ -105,14 +125,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035801/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/corgispace-what-i-learned-from-making-15-games-this-year/917436>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+%27CorgiSpace%27%3A+What+I+Learned+from+Making+15+Games+This+Year>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/corgispace-what-i-learned-from-making-15-games-this-year/917436>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Adam Saltsman reflects on simple experiments, separating ideas from formulas, listening to emerging designs, and enjoying the creative process.
+
+**中文** Adam Saltsman 从持续制作小游戏中总结经验：尝试简单而不明显的方向，区分创意与套路，观察作品自身的发展，并保留创作乐趣。
 
 <a id="gdc-2026-1035675"></a>
 
@@ -144,6 +171,8 @@
 
 ## 'Genshin Impact' Miliastra Wonderland: Co-Creating a Virtual World with Users
 
+**《原神》千星奇域：与用户共同创作**
+
 讲者：Xin Ning  
 机构：miHoYo  
 官方方向：Design  
@@ -152,18 +181,27 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035864/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/genshin-impact-miliastra-wonderland-co-creating-a-virtual-world-with-users/917205>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+%27Genshin+Impact%27+Miliastra+Wonderland%3A+Co-Creating+a+Virtual+World+with+Users>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/genshin-impact-miliastra-wonderland-co-creating-a-virtual-world-with-users/917205>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** The team explains Miliastra Wonderland's UGC goals, core functions, phased technical implementation, and planned PCG and AI integration.
+
+**中文** 团队介绍千星奇域的 UGC 目标、核心功能和分阶段技术实现，并讨论未来结合程序化生成与 AI 的计划。
 
 <a id="gdc-2026-1035906"></a>
 
 ## 'Marvel Rivals': Putting the Super into Hero Shooter
+
+**《漫威争锋》：把超级英雄特色转化为玩法**
 
 讲者：Guangyun Chen  
 机构：NetEase Games  
@@ -173,14 +211,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035906/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/marvel-rivals-putting-the-super-into-hero-shooter/915554>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+%27Marvel+Rivals%27%3A+Putting+the+Super+into+Hero+Shooter>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/marvel-rivals-putting-the-super-into-hero-shooter/915554>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Marvel Rivals translates character identities and powers into shooter mechanics while addressing encounter design and long-term balance.
+
+**中文** 《漫威争锋》将角色身份与超能力转化为英雄射击玩法，同时讨论战斗设计与长期平衡的方法。
 
 <a id="gdc-2026-1035732"></a>
 
@@ -212,6 +257,8 @@
 
 ## 'SILENT HILL f': The Challenges of Creating a Melee-Only Horror Game
 
+**《寂静岭f》：近战恐怖游戏的节奏设计**
+
 讲者：Al Yang  
 机构：Neobards Entertainment  
 官方方向：Design  
@@ -220,18 +267,27 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035955/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/silent-hill-f-the-challenges-of-creating-a-melee-only-horror-game/914711>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+%27SILENT+HILL+f%27%3A+The+Challenges+of+Creating+a+Melee-Only+Horror+Game>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/silent-hill-f-the-challenges-of-creating-a-melee-only-horror-game/914711>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** The team examines how melee-only combat changes horror pacing, connecting progression, enemy AI, core systems, and protagonist design.
+
+**中文** 团队分析仅使用近战如何改变恐怖战斗节奏，并结合成长系统、敌人 AI、核心机制与主角设计说明取舍。
 
 <a id="gdc-2026-1035754"></a>
 
 ## 15 More Games in 15 More Years
+
+**又十五年，又十五款游戏**
 
 讲者：Stone Librande  
 机构：Riot Games  
@@ -241,18 +297,27 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035754/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/15-more-games-in-15-more-years/914567>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+15+More+Games+in+15+More+Years>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/15-more-games-in-15-more-years/914567>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Stone Librande revisits personalized tabletop games and explains how small audiences and unusual constraints shaped his design philosophy.
+
+**中文** Stone Librande 回顾为亲友制作的个性化桌游，讨论小规模受众与特殊限制如何影响自己的设计方法。
 
 <a id="gdc-2026-1035769"></a>
 
 ## Balancing TCGs with Power Sorting
+
+**用强度排序平衡集换式卡牌**
 
 讲者：Nate Heiss  
 机构：Heiss Games LLC  
@@ -262,18 +327,27 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035769/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/balancing-tcgs-with-power-sorting/915558>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Balancing+TCGs+with+Power+Sorting>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/balancing-tcgs-with-power-sorting/915558>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Comparative power sorting uses existing cards as reference points to assess complex abilities when formula-based balancing is insufficient.
+
+**中文** 以现有卡牌作为参照，通过比较式强度排序评估复杂能力，讨论公式化平衡难以处理的卡牌设计问题。
 
 <a id="gdc-2026-1035791"></a>
 
 ## Catching Culture Currents: Riding Resonant Trends in 'Roblox' and Beyond
+
+**捕捉 Roblox 与其他平台的文化趋势**
 
 讲者：Piercen Harbut  
 机构：Bee Swarm Simulator  
@@ -283,14 +357,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035791/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/catching-culture-currents-riding-resonant-trends-in-roblox-and-beyond/915731>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Catching+Culture+Currents%3A+Riding+Resonant+Trends+in+%27Roblox%27+and+Beyond>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/catching-culture-currents-riding-resonant-trends-in-roblox-and-beyond/915731>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Roblox creators analyze emerging communities, memes, and online behaviors as signals for developing culturally resonant game concepts.
+
+**中文** Roblox 创作者分析新兴社群、网络梗和线上行为，讨论如何将文化信号转化为能引起玩家共鸣的游戏概念。
 
 <a id="gdc-2026-1035708"></a>
 
@@ -322,6 +403,8 @@
 
 ## Constructive Destruction: Fusing Voxel Tech and 3D Action Platforming in 'Donkey Kong Bananza'
 
+**《咚奇刚 蕉力全开》：体素与破坏玩法**
+
 讲者：Kenta Motokura  
 机构：Nintendo Co., Ltd.  
 官方方向：Design  
@@ -330,14 +413,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035798/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/constructive-destruction-fusing-voxel-tech-and-3d-action-platforming-in-donkey-kong-bananza/916931>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Constructive+Destruction%3A+Fusing+Voxel+Tech+and+3D+Action+Platforming+in+%27Donkey+Kong+Bananza%27>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/constructive-destruction-fusing-voxel-tech-and-3d-action-platforming-in-donkey-kong-bananza/916931>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Nintendo explains how voxel technology and destructible spaces shaped the game's 3D action-platforming design.
+
+**中文** 任天堂介绍体素技术和可破坏空间如何参与塑造游戏的三维动作平台玩法，以及团队由此作出的设计选择。
 
 <a id="gdc-2026-1035646"></a>
 
@@ -498,6 +588,8 @@
 
 ## Designing the Final Level of 'Split Fiction'
 
+**《双影奇境》最终关卡的设计**
+
 讲者：Hannes Gille  
 机构：Hazelight  
 官方方向：Design  
@@ -506,14 +598,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035814/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/designing-the-final-level-of-split-fiction/917468>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Designing+the+Final+Level+of+%27Split+Fiction%27>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/designing-the-final-level-of-split-fiction/917468>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Hazelight examines dual-world cooperative puzzles, revealing the central concept and simplifying interactions to strengthen communication and shared surprises.
+
+**中文** Hazelight 讨论双重世界中的合作谜题、核心概念的揭示方式，以及如何通过简化交互加强沟通与共同发现的体验。
 
 <a id="gdc-2026-1035815"></a>
 
@@ -594,6 +693,8 @@
 
 ## Fireside Chat with Amir Rao of Supergiant Games
 
+**与 Supergiant Games 的 Amir Rao 对谈**
+
 讲者：Trent Kusters  
 机构：League of Geeks  
 官方方向：Design  
@@ -602,14 +703,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035834/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/fireside-chat-with-amir-rao-of-supergiant-games/917642>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Fireside+Chat+with+Amir+Rao+of+Supergiant+Games>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/fireside-chat-with-amir-rao-of-supergiant-games/917642>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Amir Rao reflects on Supergiant's game design, narrative, sequel development, and the leadership and production philosophy behind the studio.
+
+**中文** Amir Rao 回顾 Supergiant 的玩法与叙事创新、续作开发，以及支撑工作室的领导与制作理念。
 
 <a id="gdc-2026-1035713"></a>
 
@@ -667,6 +775,8 @@
 
 ## Game Economy Lessons with Supercell &amp; Metacore
 
+**Supercell 与 Metacore 的游戏经济经验**
+
 讲者：Charlie Hsu  
 机构：Supercell  
 官方方向：Design  
@@ -675,18 +785,27 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035851/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/game-economy-lessons-with-supercell-metacore/914988>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Game+Economy+Lessons+with+Supercell+%26+Metacore>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/game-economy-lessons-with-supercell-metacore/914988>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Merge Mansion and Clash Royale illustrate how genre, players, organizational structure, and production needs shape different economy-design choices.
+
+**中文** 通过《Merge Mansion》与《Clash Royale》比较不同经济设计，讨论类型、玩家、组织结构和制作需求如何影响具体选择。
 
 <a id="gdc-2026-1035856"></a>
 
 ## Games About Games Microtalks
+
+**关于游戏的游戏：微演讲**
 
 讲者：Jon Perry  
 机构：Quibble Media, LLC  
@@ -696,14 +815,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035856/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/games-about-games-microtalks/913836>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Games+About+Games+Microtalks>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/games-about-games-microtalks/913836>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Creators discuss the narrative and production challenges of games that examine game history, developers, players, and invented platforms.
+
+**中文** 创作者讨论以游戏历史、开发者、玩家或虚构平台为题材的作品，以及这类自我反思式游戏面临的叙事和制作挑战。
 
 <a id="gdc-2026-1035752"></a>
 
@@ -734,6 +860,8 @@
 
 ## Matchmaker as Code: A Constraint-Based Approach to Cross-Platform Multiplayer
 
+**将匹配器写成代码：跨平台多人匹配**
+
 讲者：Albert Puertolas  
 机构：Gameloft  
 官方方向：Design  
@@ -742,14 +870,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035910/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/matchmaker-as-code-a-constraint-based-approach-to-cross-platform-multiplayer/914852>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Matchmaker+as+Code%3A+A+Constraint-Based+Approach+to+Cross-Platform+Multiplayer>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/matchmaker-as-code-a-constraint-based-approach-to-cross-platform-multiplayer/914852>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Gameloft's Asphalt team replaces rigid matching logic with constraints and graph-based candidate evaluation to support parties, teams, and cross-play.
+
+**中文** Gameloft 的《Asphalt》团队以约束和图式候选评估替代僵化的匹配逻辑，支持组队、阵营及跨平台过滤需求。
 
 <a id="gdc-2026-1036027"></a>
 
@@ -884,6 +1019,8 @@
 
 ## State of Level Design 2026
 
+**2026 年关卡设计现状**
+
 讲者：Dan Qiao  
 机构：Obsidian Entertainment  
 官方方向：Design  
@@ -892,14 +1029,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035961/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/state-of-level-design-2026/917869>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+State+of+Level+Design+2026>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/state-of-level-design-2026/917869>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** The moderated panel reviews recent level-design developments and the challenges practitioners expect to face next.
+
+**中文** 由主持人引导的业内讨论回顾近期关卡设计变化，并分析从业者即将面临的挑战。
 
 <a id="gdc-2026-1035741"></a>
 
@@ -983,6 +1127,8 @@
 
 ## You're the Controller: Creating Intuitive VR Handtracking Interactions
 
+**用双手作为控制器：直观的 VR 手部交互**
+
 讲者：Celine Tricart  
 机构：COVEN  
 官方方向：Design  
@@ -991,14 +1137,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1036017/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/youre-the-controller-creating-intuitive-vr-handtracking-interactions/915337>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+You%27re+the+Controller%3A+Creating+Intuitive+VR+Handtracking+Interactions>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/youre-the-controller-creating-intuitive-vr-handtracking-interactions/915337>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Repeated playtests inform gesture controls, staged tutorials, and progression that establishes mastery before introducing more complex interactions.
+
+**中文** 通过持续测试改进手势操作、分阶段教学与进度设计，让玩家掌握基础动作后再接触更复杂的交互。
 
 
 <!-- Generated by python -m gdc_index build. -->

@@ -71,6 +71,8 @@
 
 ## 'Helldivers' and the Art of the Living Game: Designing for Community Ownership
 
+**《绝地潜兵》：把社区所有权融入游戏设计**
+
 讲者：Cooper Fleishman  
 机构：Thriving in Games Group  
 官方方向：Culture &amp; Sustainability  
@@ -79,18 +81,27 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035869/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/helldivers-and-the-art-of-the-living-game-designing-for-community-ownership/918330>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+%27Helldivers%27+and+the+Art+of+the+Living+Game%3A+Designing+for+Community+Ownership>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/helldivers-and-the-art-of-the-living-game-designing-for-community-ownership/918330>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Cooper Fleishman analyzes shared resources, emergent roles, and a managed galactic war as systems enabling player-driven community action.
+
+**中文** Cooper Fleishman 分析共享资源、自发形成的队伍角色与银河战争管理机制，讨论这些系统如何支持玩家主导的社区行动。
 
 <a id="gdc-2026-1035765"></a>
 
 ## Artists, Do You Want to Fight for Your Future?
+
+**美术从业者如何争取自己的未来？**
 
 讲者：Andrew Maximov  
 机构：ImagineMore.Art  
@@ -100,18 +111,27 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035765/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/artists-do-you-want-to-fight-for-your-future/918117>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Artists%2C+Do+You+Want+to+Fight+for+Your+Future%3F>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/artists-do-you-want-to-fight-for-your-future/918117>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Andrew examines AI-driven workplace changes and proposes ways artists can organize, develop influence, and shape future creative practice.
+
+**中文** Andrew 结合 AI 带来的工作变化，讨论美术从业者如何组织协作、扩大影响力，并参与塑造未来的创作方式。
 
 <a id="gdc-2026-1035768"></a>
 
 ## Backed by Data, Built with Care: Telling Authentic LGBTQ Stories in Video Games
+
+**以数据与关怀塑造真实的 LGBTQ 叙事**
 
 讲者：Sabrina Mah  
 机构：GLAAD  
@@ -121,18 +141,27 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035768/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/backed-by-data-built-with-care-telling-authentic-lgbtq-stories-in-video-games/914631>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Backed+by+Data%2C+Built+with+Care%3A+Telling+Authentic+LGBTQ+Stories+in+Video+Games>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/backed-by-data-built-with-care-telling-authentic-lgbtq-stories-in-video-games/914631>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** GLAAD combines player research and consulting examples to discuss audiences, authentic characterization, and responsible LGBTQ story development.
+
+**中文** GLAAD 结合玩家研究与咨询案例，讨论受众需求、真实可信的角色塑造，以及 LGBTQ 内容开发中的实践方法。
 
 <a id="gdc-2026-1035787"></a>
 
 ## Building the Cultural World of 'Indiana Jones and the Great Circle'
+
+**《夺宝奇兵：古老之圈》的文化世界构建**
 
 讲者：Kate Edwards  
 机构：Geogrify/SetJetters  
@@ -142,14 +171,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035787/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/building-the-cultural-world-of-indiana-jones-and-the-great-circle/914941>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Building+the+Cultural+World+of+%27Indiana+Jones+and+the+Great+Circle%27>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/building-the-cultural-world-of-indiana-jones-and-the-great-circle/914941>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Kate Edwards discusses researching real cultures and historical settings to support the game's geographically diverse worldbuilding.
+
+**中文** Kate Edwards 讨论真实文化与历史背景的研究工作，说明文化适配如何支持游戏中不同地域的世界构建。
 
 <a id="gdc-2026-1035734"></a>
 
@@ -332,6 +368,8 @@
 
 ## How Tabletop Games Could Help Us Improve the Pro-Social Design of Digital Games
 
+**从桌游学习数字游戏的亲社会设计**
+
 讲者：Robert Hornbek  
 机构：Thriving in Games Group  
 官方方向：Culture &amp; Sustainability  
@@ -340,14 +378,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035878/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/how-tabletop-games-could-help-us-improve-the-pro-social-design-of-digital-games/918329>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+How+Tabletop+Games+Could+Help+Us+Improve+the+Pro-Social+Design+of+Digital+Games>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/how-tabletop-games-could-help-us-improve-the-pro-social-design-of-digital-games/918329>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Robert Hornbek examines tabletop player dynamics and their potential application to more cooperative digital experiences and communities.
+
+**中文** Robert Hornbek 分析桌游中的玩家互动，讨论这些经验如何帮助数字游戏设计更具合作性的体验与社区。
 
 <a id="gdc-2026-1035726"></a>
 
@@ -558,6 +603,8 @@
 
 ## Surprise and Delight as Social Infrastructure
 
+**把惊喜与愉悦设计成社区基础设施**
+
 讲者：Nathan Sawatzky  
 机构：Thriving in Games Group Inc  
 官方方向：Culture &amp; Sustainability  
@@ -566,14 +613,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035968/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/surprise-and-delight-as-social-infrastructure/917866>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Surprise+and+Delight+as+Social+Infrastructure>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/surprise-and-delight-as-social-infrastructure/917866>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Nate Sawatzky connects lore, updates, playful interactions, and player creativity with social norms and community belonging.
+
+**中文** Nate Sawatzky 将世界设定、更新、趣味互动与玩家创造力联系起来，讨论如何通过设计建立社区规范及归属感。
 
 <a id="gdc-2026-1035978"></a>
 

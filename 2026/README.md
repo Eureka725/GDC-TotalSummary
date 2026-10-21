@@ -4,7 +4,7 @@
 
 依据 [GDC Vault 年度归档](<https://gdcvault.com/browse/gdc-26/>) 整理；来源核对日期：2026-10-21。
 
-共 **374** 场独立演讲／活动，**456** 个资料页；双语摘要 **237** 条，已核实 YouTube 视频的演讲 **6** 场。
+共 **374** 场独立演讲／活动，**456** 个资料页；双语摘要 **374** 条，已核实 YouTube 视频的演讲 **6** 场。
 
 [YouTube 公开视频索引](youtube.md)：共 **19** 个已核实播放链接，包含归档内视频及 **13** 个官方发布方补充视频。索引同时提供官方资料／活动页。
 
@@ -14,20 +14,20 @@
 
 | 方向 | 演讲数 | 双语摘要 | YouTube 已核实 |
 | --- | ---: | ---: | ---: |
-| [Audio · 游戏音频](<audio.md>) | 30 | 15 | 1 |
-| [Business &amp; Marketing · 商业与市场](<business-marketing.md>) | 57 | 25 | 1 |
-| [Design · 游戏设计](<design.md>) | 40 | 23 | 0 |
-| [Game Narrative · 游戏叙事与表演](<game-narrative.md>) | 17 | 8 | 0 |
+| [Audio · 游戏音频](<audio.md>) | 30 | 30 | 1 |
+| [Business &amp; Marketing · 商业与市场](<business-marketing.md>) | 57 | 57 | 1 |
+| [Design · 游戏设计](<design.md>) | 40 | 40 | 0 |
+| [Game Narrative · 游戏叙事与表演](<game-narrative.md>) | 17 | 17 | 0 |
 | [Independent Games · 独立游戏](<independent-games.md>) | 20 | 20 | 0 |
-| [Production &amp; Team Leadership · 游戏制作与团队领导力](<production-team-leadership.md>) | 27 | 15 | 1 |
-| [Programming · 游戏程序与生产技术](<programming.md>) | 95 | 81 | 0 |
-| [Visual Arts · 游戏视觉艺术](<visual-arts.md>) | 25 | 8 | 0 |
-| [VR / AR · 虚拟现实与增强现实](<vr-ar.md>) | 11 | 8 | 0 |
-| [Culture &amp; Sustainability · 文化与可持续发展](<culture-sustainability.md>) | 29 | 23 | 0 |
+| [Production &amp; Team Leadership · 游戏制作与团队领导力](<production-team-leadership.md>) | 27 | 27 | 1 |
+| [Programming · 游戏程序与生产技术](<programming.md>) | 95 | 95 | 0 |
+| [Visual Arts · 游戏视觉艺术](<visual-arts.md>) | 25 | 25 | 0 |
+| [VR / AR · 虚拟现实与增强现实](<vr-ar.md>) | 11 | 11 | 0 |
+| [Culture &amp; Sustainability · 文化与可持续发展](<culture-sustainability.md>) | 29 | 29 | 0 |
 | [Educators · 游戏教育](<educators.md>) | 5 | 5 | 0 |
 | [Career · 职业发展](<career.md>) | 7 | 7 | 0 |
-| [Luminaries Speaker Series · 行业人物系列](<luminaries.md>) | 14 | 1 | 1 |
-| [Special Events · 特别活动](<special-events.md>) | 8 | 6 | 2 |
+| [Luminaries Speaker Series · 行业人物系列](<luminaries.md>) | 14 | 14 | 1 |
+| [Special Events · 特别活动](<special-events.md>) | 8 | 8 | 2 |
 
 跨年份方向与阅读分类的对应关系见 [分类说明](../docs/DATA.md#方向映射)。
 

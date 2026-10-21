@@ -219,6 +219,24 @@ def validate_dataset(data: dict, tracks: list[dict]) -> list[str]:
                 errors.append(f"{name}: summary does not match source hash")
         elif status == "missing" and (summary.get("en") or summary.get("zh")):
             errors.append(f"{name}: a nonempty summary cannot have missing status")
+        evidence = summary.get("evidence")
+        if evidence is not None:
+            if not isinstance(evidence, dict):
+                errors.append(f"{name}: summary evidence must be an object")
+            else:
+                if not valid_url(evidence.get("url", "")):
+                    errors.append(f"{name}: invalid summary evidence URL")
+                if evidence.get("access") not in {"public", "indexed-history"}:
+                    errors.append(f"{name}: invalid summary evidence access")
+                fingerprint = evidence.get("content_hash", "")
+                if not isinstance(fingerprint, str) or not re.fullmatch(r"[a-f0-9]{64}", fingerprint):
+                    errors.append(f"{name}: invalid summary evidence content hash")
+                if not isinstance(evidence.get("note", ""), str):
+                    errors.append(f"{name}: summary evidence note must be text")
+                try:
+                    date.fromisoformat(evidence.get("checked_at", ""))
+                except (TypeError, ValueError):
+                    errors.append(f"{name}: invalid summary evidence checked_at")
         sources = item.get("sources", [])
         if not sources:
             errors.append(f"{name}: missing official sources")
@@ -241,6 +259,8 @@ def validate_dataset(data: dict, tracks: list[dict]) -> list[str]:
                 errors.append(f"{name}: expected a direct YouTube video URL, title and channel")
             if not valid_url(video.get("evidence_url", "")):
                 errors.append(f"{name}: missing YouTube verification evidence")
+            if not isinstance(video.get("note", ""), str):
+                errors.append(f"{name}: YouTube version note must be text")
             try:
                 date.fromisoformat(video.get("checked_at", ""))
             except (TypeError, ValueError):

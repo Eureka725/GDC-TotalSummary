@@ -2,7 +2,7 @@
 
 [年度目录](README.md) · [项目首页](../README.md)
 
-共 28 场。资料来源核对日期：2026-10-21。
+共 26 场。资料来源核对日期：2026-10-21。
 
 > 本文件由结构化数据生成。摘要是基于所标注来源的中英文导读；初稿待校对。
 
@@ -21,9 +21,6 @@
 - [Fair Play Summit: Review of Player Dynamic's Systems](#gdc-2022-1027768)
 - [Fair Play Summit: Using AI for Trust &amp; Safety](#gdc-2022-1027717)
 - [Gaming For Cars? You bet! Car Audio Cardio Roundtable (Presented by the IGDA)](#gdc-2022-1027603)
-- [Greater Accessibility with Fewer New Features and Less Scope](#gdc-2022-1027617)
-- [How Games Can Be Journalism](#gdc-2022-1027793)
-- [How to Make Art that Pisses Off Dictatorships and Makes You a Refugee](#gdc-2022-1027788)
 - [It's Been 10 Years Since Tropes vs Women in Video Games: What's Changed?](#gdc-2022-1027630)
 - [Landscape of Extremist Behavior in Games](#gdc-2022-1027635)
 - [Leveling up for Climate: 3 Ways Gaming Companies Can Take Action for the Planet](#gdc-2022-1027719)
@@ -31,9 +28,10 @@
 - [Motherhood in the Games Industry](#gdc-2022-1027644)
 - [My First Game Credit Roundtable (Presented by the IGDA)](#gdc-2022-1027647)
 - [Physiological Effects of Crunch: A Look at the Science](#gdc-2022-1027660)
+- [Respectful Nonbinary Representation &amp; Localization](#gdc-2022-1027733)
+- [Solo Development, Myths, Reality and Survival Strategies](#gdc-2022-1027781)
+- [Three Opportunities to Improve Character Design in the Games Industry](#gdc-2022-1027690)
 - [Use Your Game Developer Superpowers to Fight the Climate Crisis Workshop](#gdc-2022-1027696)
-- [Voices in the Machine: Making Space for Yourself in AAA](#gdc-2022-1028047)
-- [What Being Neurodivergent Means in Game Development](#gdc-2022-1027729)
 - [What the UK Games Industry Learned from Its Census](#gdc-2022-1027786)
 - [Women in Games in LATAM: Where Are We Standing?](#gdc-2022-1027705)
 
@@ -207,6 +205,8 @@
 
 ## Fair Play Summit: Disrupting the Disruptors: How To Prevent Cheating By Addressing Player Motivation
 
+**公平游戏峰会：干预破坏者——从玩家动机预防作弊**
+
 活动：Game Developers Conference 2022
 
 讲者：Clint Sereday / Nemanja Mulasmajic  
@@ -223,13 +223,21 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2022+Fair+Play+Summit%3A+Disrupting+the+Disruptors%3A+How+To+Prevent+Cheating+By+Addressing+Player+Motivation>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1027582/>) · 2026-10-21 核对
+
+**EN** This session approaches cheating through the reasons players choose to do it. The discussion identifies motivations and considers responses that can inform prevention and community management.
+
+**中文** 从玩家为何走向作弊这一问题入手，拆解不同动机，并讨论针对这些动机的应对方式如何参与作弊预防与社区管理。
 
 <a id="gdc-2022-1027772"></a>
 
 ## Fair Play Summit: How to Encourage Social and Emotional Learning In-Game in a Data and Research Driven Manner
+
+**公平游戏峰会：用数据与研究推动游戏中的社会情绪学习**
 
 活动：Game Developers Conference 2022
 
@@ -246,20 +254,28 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2022+Fair+Play+Summit%3A+How+to+Encourage+Social+and+Emotional+Learning+In-Game+in+a+Data+and+Research+Driven+Manner>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1027772/>) · 2026-10-21 核对
+
+**EN** Star Stable Online provides a case study in combining social-emotional learning research with player messaging. The speakers examine audience selection using AI and statistics, alongside ways to assess interventions aimed at disruptive behavior.
+
+**中文** 以《Star Stable Online》为例，讨论如何把社会情绪学习研究用于玩家沟通，结合 AI 与统计分析选择目标人群，并评估针对破坏性行为的干预措施。
 
 <a id="gdc-2022-1027625"></a>
 
 ## Fair Play Summit: How to Talk About Positive Behavior
+
+**公平游戏峰会：如何谈论积极行为**
 
 活动：Game Developers Conference 2022
 
 讲者：Weszt Hart  
 机构：Riot Games  
 官方方向：Fair Play Summit  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
@@ -270,9 +286,15 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2022+Fair+Play+Summit%3A+How+to+Talk+About+Positive+Behavior>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1027714/>) · 2026-10-21 核对
+
+**EN** Riot Games introduces a developing taxonomy for describing positive and prosocial player behavior. The session considers why a shared vocabulary matters when designers want to identify and intentionally support those actions.
+
+**中文** Riot Games 介绍仍在完善的积极与亲社会行为分类体系，讨论设计团队为何需要共同语言，才能识别值得鼓励的玩家行为，并在设计中有意识地支持它们。
 
 <a id="gdc-2022-1027713"></a>
 
@@ -305,12 +327,14 @@
 
 ## Fair Play Summit: Review of Player Dynamic's Systems
 
+**公平游戏峰会：玩家互动系统综述**
+
 活动：Game Developers Conference 2022
 
 讲者：Natasha Miller  
 机构：Blizzard Entertainment  
 官方方向：Fair Play Summit  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
@@ -320,20 +344,28 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2022+Fair+Play+Summit%3A+Review+of+Player+Dynamic%27s+Systems>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1027768/>) · 2026-10-21 核对
+
+**EN** This overview groups player-dynamics systems by punishment, encouragement, and reform. It compares their components, strengths, and limitations, using game examples and available evidence about their effects.
+
+**中文** 将玩家互动管理系统分为惩罚不良行为、鼓励积极行为和促进改正三类，结合游戏例子比较其组成、优缺点，以及已有的影响证据。
 
 <a id="gdc-2022-1027717"></a>
 
 ## Fair Play Summit: Using AI for Trust &amp; Safety
+
+**公平游戏峰会：用AI支持信任与安全**
 
 活动：Game Developers Conference 2022
 
 讲者：Katie Zigelman  
 机构：Spectrum Labs AI  
 官方方向：Fair Play Summit  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
@@ -343,13 +375,21 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2022+Fair+Play+Summit%3A+Using+AI+for+Trust+%26+Safety>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1027717/>) · 2026-10-21 核对
+
+**EN** Katie Zigelman discusses AI as one part of cross-functional trust and safety work. The session connects detection and moderation technology with community management, consistent policies, and practices that support constructive participation.
+
+**中文** Katie Zigelman 讨论 AI 在跨职能信任与安全工作中的位置，把检测审核技术与社区管理、政策一致执行及积极参与机制联系起来，说明数据与协作如何共同参与治理。
 
 <a id="gdc-2022-1027603"></a>
 
 ## Gaming For Cars? You bet! Car Audio Cardio Roundtable (Presented by the IGDA)
+
+**汽车也能玩游戏？车载音频圆桌**
 
 活动：Game Developers Conference 2022
 
@@ -361,95 +401,34 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027603/>)（公开页面）
+- [导读来源](<https://igda.org/events/list/?posts_per_page=189&tribe-bar-date=2022-01-01>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2022+Gaming+For+Cars%3F+You+bet%21+Car+Audio+Cardio+Roundtable+%28Presented+by+the+IGDA%29>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
 
-<a id="gdc-2022-1027617"></a>
+[导读依据](<https://igda.org/events/list/?posts_per_page=189&tribe-bar-date=2022-01-01>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
 
-## Greater Accessibility with Fewer New Features and Less Scope
+**EN** The IGDA's interactive-audio group examines how autonomous vehicles could create work for game-audio professionals. Contributors from Audiokinetic, Bose Automotive and the MIDI Association discuss the emerging automotive context.
 
-活动：Game Developers Conference 2022
-
-讲者：Francisco Souki  
-机构：Schell Games  
-官方方向：Advocacy  
-元数据：来自官方目录，讲者等信息待详情复核
-
-**官方资料与相关文章**
-
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027617/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027799/>)（公开页面）
-
-**YouTube 演讲**
-
-- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2022+Greater+Accessibility+with+Fewer+New+Features+and+Less+Scope>)（搜索入口）
-
-**双语摘要 · 待整理**
-
-待依据官方公开简介、演讲或讲者文章整理。
-
-<a id="gdc-2022-1027793"></a>
-
-## How Games Can Be Journalism
-
-活动：Game Developers Conference 2022
-
-讲者：Nicholas Fortugno  
-机构：Playmatics  
-官方方向：Advocacy  
-元数据：来自官方目录，讲者等信息待详情复核
-
-**官方资料与相关文章**
-
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027793/>)（公开页面）
-
-**YouTube 演讲**
-
-- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2022+How+Games+Can+Be+Journalism>)（搜索入口）
-
-**双语摘要 · 待整理**
-
-待依据官方公开简介、演讲或讲者文章整理。
-
-<a id="gdc-2022-1027788"></a>
-
-## How to Make Art that Pisses Off Dictatorships and Makes You a Refugee
-
-活动：Game Developers Conference 2022
-
-讲者：Andrew Maximov  
-机构：Promethean AI  
-官方方向：Advocacy  
-元数据：来自官方目录，讲者等信息待详情复核
-
-**官方资料与相关文章**
-
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027788/>)（公开页面）
-
-**YouTube 演讲**
-
-- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2022+How+to+Make+Art+that+Pisses+Off+Dictatorships+and+Makes+You+a+Refugee>)（搜索入口）
-
-**双语摘要 · 待整理**
-
-待依据官方公开简介、演讲或讲者文章整理。
+**中文** IGDA 互动音频小组讨论自动驾驶汽车可能为游戏音频从业者带来的机会，邀请 Audiokinetic、Bose Automotive 与 MIDI Association 的专家交流车载音频的发展情境。
 
 <a id="gdc-2022-1027630"></a>
 
 ## It's Been 10 Years Since Tropes vs Women in Video Games: What's Changed?
+
+**《电子游戏中的套路与女性》十年后：改变了什么？**
 
 活动：Game Developers Conference 2022
 
 讲者：Anita Sarkeesian  
 机构：The Games and Online Harassment Hotline  
 官方方向：Advocacy  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
@@ -460,20 +439,28 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2022+It%27s+Been+10+Years+Since+Tropes+vs+Women+in+Video+Games%3A+What%27s+Changed%3F>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1027727/>) · 2026-10-21 核对
+
+**EN** Anita Sarkeesian revisits Tropes vs Women in Video Games, from its production to the responses it received. The talk assesses changes in women's representation and the industry, while considering work still ahead.
+
+**中文** Anita Sarkeesian 回顾《电子游戏中的套路与女性》的制作、反馈与争议，讨论十年间女性呈现和游戏行业发生的变化，以及她认为仍待推进的问题。
 
 <a id="gdc-2022-1027635"></a>
 
 ## Landscape of Extremist Behavior in Games
 
+**游戏中的极端主义行为图景**
+
 活动：Game Developers Conference 2022
 
-讲者：Rachel Kowert  
-机构：Take This  
+讲者：Rachel Kowert / Alex Newhouse  
+机构：Take This / Center on Terrorism / Extremism / and Counterterrorism  
 官方方向：Advocacy  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
@@ -484,13 +471,21 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2022+Landscape+of+Extremist+Behavior+in+Games>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1028083/>) · 2026-10-21 核对
+
+**EN** This session uses platform data and network visualizations to examine extremist communities and signaling across games. The discussion considers recruitment, shared identity, and the need for collaboration across platforms and developers.
+
+**中文** 通过平台数据与网络可视化分析游戏中的极端主义社群、身份表达和招募行为，并讨论跨平台、跨开发商合作应对这一问题的必要性。
 
 <a id="gdc-2022-1027719"></a>
 
 ## Leveling up for Climate: 3 Ways Gaming Companies Can Take Action for the Planet
+
+**为气候升级：游戏公司为地球行动的三种方式**
 
 活动：Game Developers Conference 2022
 
@@ -507,20 +502,28 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2022+Leveling+up+for+Climate%3A+3+Ways+Gaming+Companies+Can+Take+Action+for+the+Planet>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1027719/>) · 2026-10-21 核对
+
+**EN** Playing for the Planet Alliance members discuss environmental work in games, including platform decarbonization and green activities in live titles. The panel considers how other companies might organize their own actions.
+
+**中文** Playing for the Planet 联盟成员介绍游戏行业的环保实践，包括游戏平台减碳和在线游戏中的绿色活动，并讨论其他公司可以如何组织自身行动。
 
 <a id="gdc-2022-1027795"></a>
 
 ## Leveraging Games in the Fight to Protect Local Cultures
 
+**借助游戏保护地方文化**
+
 活动：Game Developers Conference 2022
 
-讲者：Catherine P. Foster  
-机构：Cultural Antiquities Task Force, U.S. Department of State  
+讲者：Catherine P. Foster / Kate Edwards / Paul J. Fischer / Victor Bankler / Vania Castagnino / Joaquin Concha / Mateo Alayza  
+机构：Cultural Antiquities Task Force / U.S. Department of State / Geogrify / Global Game Jam / U.S. Department of State) / University of Skvde / An Otter Team / Sweden Game Arena / An Otter Team / Kay Pacha Studio / Hermanos Magia / University of Lima  
 官方方向：Advocacy  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
@@ -530,9 +533,15 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2022+Leveraging+Games+in+the+Fight+to+Protect+Local+Cultures>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1027795/>) · 2026-10-21 核对
+
+**EN** This panel examines the Cultural Heritage Game Jam and games addressing heritage protection. The winning Purunmachu team discusses translating concerns about looting, preservation, and community values into an interactive work.
+
+**中文** 圆桌回顾文化遗产 Game Jam 及相关作品，获奖项目《Purunmachu》团队介绍如何把文物掠夺、保护与社群价值等议题转化为互动体验。
 
 <a id="gdc-2022-1027644"></a>
 
@@ -566,35 +575,48 @@
 
 ## My First Game Credit Roundtable (Presented by the IGDA)
 
+**我的第一条游戏署名圆桌**
+
 活动：Game Developers Conference 2022
 
 讲者：Katie Golden  
 机构：Riot Games  
 官方方向：Advocacy  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
 - [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027647/>)（公开页面）
+- [公开演讲资料](<https://media.gdcvault.com/GDC%2B2022/Speaker%2BSlides/My%2BFirst%2BGame_Golden_Katie.pdf>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2022+My+First+Game+Credit+Roundtable+%28Presented+by+the+IGDA%29>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据公开演讲资料整理的导读；不代表演讲全文翻译。
+
+[导读依据](<https://media.gdcvault.com/GDC%2B2022/Speaker%2BSlides/My%2BFirst%2BGame_Golden_Katie.pdf>) · 2026-10-21 核对
+
+> 出处说明：资料 PDF 明确说明未录制演讲，提供的是圆桌讨论笔记；IGDA 官方公告另有确认。
+
+**EN** The roundtable notes examine how a first game credit affects recognition and career development. Participants also raise naming conventions, name changes and missing credits in live games as issues for future policy work.
+
+**中文** 圆桌笔记讨论首次游戏署名对认可感和职业发展的意义，并提出姓名规范、姓名变更和持续运营游戏漏署名等后续政策问题。
 
 <a id="gdc-2022-1027660"></a>
 
 ## Physiological Effects of Crunch: A Look at the Science
+
+**加班的生理影响：看看科学证据**
 
 活动：Game Developers Conference 2022
 
 讲者：Ian Schreiber  
 机构：Independent  
 官方方向：Advocacy  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
@@ -605,20 +627,122 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2022+Physiological+Effects+of+Crunch%3A+A+Look+at+the+Science>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1027780/>) · 2026-10-21 核对
+
+**EN** Ian Schreiber reviews published research on long working hours and associated sleep loss. The session asks how duration and intensity relate to measurable effects on mental and physical functioning.
+
+**中文** Ian Schreiber 回顾关于长工时及相关睡眠不足的已发表研究，讨论加班持续时间和强度如何与可测量的身心影响联系起来。
+
+<a id="gdc-2022-1027733"></a>
+
+## Respectful Nonbinary Representation &amp; Localization
+
+**尊重非二元性别的呈现与本地化**
+
+活动：Game Developers Conference 2022
+
+讲者：Benjamin Williams  
+机构：Microsoft  
+官方方向：Advocacy  
+元数据：已核对公开详情页
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027733/>)（公开页面）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2022+Respectful+Nonbinary+Representation+%26+Localization>)（搜索入口）
+
+**双语摘要 · AI 辅助初稿，待校对**
+
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1027733/>) · 2026-10-21 核对
+
+**EN** Xbox's Gaming for Everyone team discusses nonbinary characters and player expression across cultures. The session considers respectful representation alongside locally appropriate ways of translating and adapting that content.
+
+**中文** Xbox 的 Gaming for Everyone 团队讨论非二元角色与玩家自我表达，介绍尊重相关身份的呈现方式，以及在不同文化和语言中进行合适本地化的考虑。
+
+<a id="gdc-2022-1027781"></a>
+
+## Solo Development, Myths, Reality and Survival Strategies
+
+**单人开发：神话、现实与生存策略**
+
+活动：Game Developers Conference 2022
+
+讲者：Tomas sala / Megan Fox / Neil Jones / Joe Winter / Eric Bartelson  
+机构：T.L Sala Holding Amsterdam / Glass Bottom Games / Aerial Knight LLC / Resting Relic / PreMortem Games  
+官方方向：Advocacy  
+元数据：已核对公开详情页
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027781/>)（公开页面）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2022+Solo+Development%2C+Myths%2C+Reality+and+Survival+Strategies>)（搜索入口）
+
+**双语摘要 · AI 辅助初稿，待校对**
+
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1027781/>) · 2026-10-21 核对
+
+**EN** Solo developers compare the motivations, support, and difficult realities behind their released games. The panel examines mental health, market outcomes, and how individual journeys complicate the idea of an entirely solitary creator.
+
+**中文** 多位单人开发者通过已发行作品的经历，交流动机、支持网络、心理状态与市场现实，并讨论个人创作旅程如何让“独自完成游戏”的概念变得更复杂。
+
+<a id="gdc-2022-1027690"></a>
+
+## Three Opportunities to Improve Character Design in the Games Industry
+
+**改进游戏角色设计的三次机会**
+
+活动：Game Developers Conference 2022
+
+讲者：Jessica Tompkins  
+机构：Electronic Arts  
+官方方向：Advocacy  
+元数据：已核对公开详情页
+
+**官方资料与相关文章**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027690/>)（公开页面）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027720/>)（公开页面）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2022+Three+Opportunities+to+Improve+Character+Design+in+the+Games+Industry>)（搜索入口）
+
+**双语摘要 · AI 辅助初稿，待校对**
+
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1027720/>) · 2026-10-21 核对
+
+**EN** Research on historical character-design trends and interviews with nineteen designers examines how stereotypes become routine studio practice. The talk identifies opportunities for practitioners and educators to question those patterns.
+
+**中文** 结合角色设计历史研究与十九位设计师访谈，分析刻板印象如何成为工作室惯例，并讨论从业者和教育者可以在哪些环节挑战这些模式、采用更包容的设计。
 
 <a id="gdc-2022-1027696"></a>
 
 ## Use Your Game Developer Superpowers to Fight the Climate Crisis Workshop
 
+**用游戏开发者的超能力应对气候危机工作坊**
+
 活动：Game Developers Conference 2022
 
-讲者：Grant Shonkwiler  
-机构：Shonkventures  
+讲者：Grant Shonkwiler / Chance Glasco / Trevin York / Arnaud Fayolle / Paula Angela Escuadra  
+机构：Shonkventures / Good Dog Studios / Mindblown Labs / Ubisoft / Positive Play / Xbox Game Studios Cloud Publishing  
 官方方向：Climate Crisis Workshop  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
@@ -628,66 +752,28 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2022+Use+Your+Game+Developer+Superpowers+to+Fight+the+Climate+Crisis+Workshop>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
 
-<a id="gdc-2022-1028047"></a>
+[导读依据](<https://gdcvault.com/play/1027696/>) · 2026-10-21 核对
 
-## Voices in the Machine: Making Space for Yourself in AAA
+**EN** This workshop combines lectures and activities on bringing climate-change and resilience messaging into games. Teams and individuals explore design approaches linking understanding of the crisis with player-facing experiences.
 
-活动：Game Developers Conference 2022
-
-讲者：Navid Khavari  
-机构：Ubisoft  
-官方方向：Advocacy  
-元数据：来自官方目录，讲者等信息待详情复核
-
-**官方资料与相关文章**
-
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1028047/>)（公开页面）
-
-**YouTube 演讲**
-
-- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2022+Voices+in+the+Machine%3A+Making+Space+for+Yourself+in+AAA>)（搜索入口）
-
-**双语摘要 · 待整理**
-
-待依据官方公开简介、演讲或讲者文章整理。
-
-<a id="gdc-2022-1027729"></a>
-
-## What Being Neurodivergent Means in Game Development
-
-活动：Game Developers Conference 2022
-
-讲者：Monica Fan  
-机构：Schell Games  
-官方方向：Advocacy  
-元数据：来自官方目录，讲者等信息待详情复核
-
-**官方资料与相关文章**
-
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027729/>)（公开页面）
-
-**YouTube 演讲**
-
-- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2022+What+Being+Neurodivergent+Means+in+Game+Development>)（搜索入口）
-
-**双语摘要 · 待整理**
-
-待依据官方公开简介、演讲或讲者文章整理。
+**中文** 工作坊通过讲授与活动，讨论如何把气候变化和气候韧性信息融入游戏，帮助团队与个人将对相关议题的理解转化为面向玩家的设计方法。
 
 <a id="gdc-2022-1027786"></a>
 
 ## What the UK Games Industry Learned from Its Census
+
+**英国游戏行业从人口普查中学到了什么**
 
 活动：Game Developers Conference 2022
 
 讲者：Mark Taylor  
 机构：University of Sheffield  
 官方方向：Advocacy  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
@@ -697,20 +783,28 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2022+What+the+UK+Games+Industry+Learned+from+Its+Census>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1027786/>) · 2026-10-21 核对
+
+**EN** Results from the 2019 and 2021 UK Games Industry Censuses examine the workforce's makeup. The session considers different dimensions of diversity, especially socioeconomic background, and workers' views of their sector.
+
+**中文** 介绍 2019 和 2021 年英国游戏行业人口普查结果，从不同维度分析从业者构成，尤其关注社会经济背景，并讨论工作人员对所在行业的感受。
 
 <a id="gdc-2022-1027705"></a>
 
 ## Women in Games in LATAM: Where Are We Standing?
 
+**拉丁美洲游戏行业中的女性：我们身处何处？**
+
 活动：Game Developers Conference 2022
 
-讲者：Micaela Mantegna  
-机构：Berkman Klein Center at Harvard  
+讲者：Micaela Mantegna / Maria Jazmin Giolito / Vania Catorceno / Renata Rapyo / Sandra Castro Pinzn / Margarita C. Pino Yancovic / Diana Rodrguez Aparicio / Sol Snchez / Shirley McPhaul-Castro  
+机构：Berkman Klein Center at Harvard / Game Audio Latam &amp; Independent / Jalasoft / Rogue Snail / Timba Games / Foton Games / Big Monster Games / Somber Pixel / Puerto Rico Science Technology &amp; Research Trust  
 官方方向：Advocacy  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
@@ -721,9 +815,15 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2022+Women+in+Games+in+LATAM%3A+Where+Are+We+Standing%3F>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1027790/>) · 2026-10-21 核对
+
+**EN** Women from across Latin America discuss regional initiatives for diversity, equity, and inclusion. The panel examines entry barriers, opportunities, and strategies for supporting women's growth in the games industry.
+
+**中文** 来自拉丁美洲多地的女性讨论地区多样性、公平与包容举措，交流进入行业时的特殊障碍、机会，以及支持女性在游戏领域成长的策略。
 
 
 <!-- Generated by python -m gdc_index build. -->

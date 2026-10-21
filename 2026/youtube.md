@@ -8,12 +8,12 @@
 
 | 演讲／活动 | 官方资料／文章 | YouTube 视频 | 发布频道 | 核验日期 |
 | --- | --- | --- | --- | --- |
-| 26th Annual Game Developers Choice Awards | [GDC Vault](<https://gdcvault.com/play/1035755/>) | [26th Annual Game Developers Choice Awards](<https://www.youtube.com/watch?v=b7gjPzpin8k>) | GDC Festival of Gaming | 2026-10-21 |
-| 28th Annual Independent Games Festival Awards | [GDC Vault](<https://gdcvault.com/play/1035756/>) | [2026 Independent Games Festival Awards](<https://www.youtube.com/watch?v=NoH4EmfB4Z4>) | GDC Festival of Gaming | 2026-10-21 |
+| 26th Annual Game Developers Choice Awards | [GDC Vault](<https://gdcvault.com/play/1035755/>) / [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/26th-annual-game-developers-choice-awards/917874>) | [26th Annual Game Developers Choice Awards](<https://www.youtube.com/watch?v=b7gjPzpin8k>) | GDC Festival of Gaming | 2026-10-21 |
+| 28th Annual Independent Games Festival Awards | [GDC Vault](<https://gdcvault.com/play/1035756/>) / [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/gdc-main-stage-independent-games-festival-awards/917873>) | [2026 Independent Games Festival Awards](<https://www.youtube.com/watch?v=NoH4EmfB4Z4>) | GDC Festival of Gaming | 2026-10-21 |
 | 3rd Annual Game Developer's Concert | [GDC Vault](<https://gdcvault.com/play/1036021/>) | [GDC Concert 2026: Expedition 33, Hades II, DOOM (2016), and more; feat. Austin Wintory &amp; Troy Baker](<https://www.youtube.com/watch?v=xae7FYq7g2U>) | GDC Festival of Gaming | 2026-10-21 |
 | An Odyssey in Building Games That Last | [GDC Vault](<https://gdcvault.com/play/1035762/>) | [GDC 2026 Keynote - An Odyssey in Building Games That Last](<https://www.youtube.com/watch?v=XxvLyd4lKZM>) | GDC Festival of Gaming | 2026-10-21 |
-| Driving Innovation &amp; RTX Advances with John Spitzer, Vice President at Nvidia | [GDC Vault](<https://gdcvault.com/play/1035821/>) / [NVIDIA 官方 GDC 2026 资料与回放](<https://www.nvidia.com/en-us/events/gdc/>) | [Driving Innovation and RTX Advances with John Spitzer, VP of Developer and Performance Technology](<https://www.youtube.com/watch?v=YwsiMOzB2rc>) | NVIDIA Game Developer | 2026-10-21 |
-| Steam Annual Update: The Latest on Steam in 2026 | [GDC Vault](<https://gdcvault.com/play/1035962/>) | [Steam Platform 2026: How Valve is Helping Game Developers Succeed on PC Gaming](<https://www.youtube.com/watch?v=h1ivZzEyNFY>) | GDC Festival of Gaming | 2026-10-21 |
+| Driving Innovation &amp; RTX Advances with John Spitzer, Vice President at Nvidia | [GDC Vault](<https://gdcvault.com/play/1035821/>) / [NVIDIA 官方 GDC 2026 资料与回放](<https://www.nvidia.com/en-us/events/gdc/>) / [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/advances-in-rtx-driving-innovation-with-john-spitzer-vice-president-at-nvidia/917562>) | [Driving Innovation and RTX Advances with John Spitzer, VP of Developer and Performance Technology](<https://www.youtube.com/watch?v=YwsiMOzB2rc>) | NVIDIA Game Developer | 2026-10-21 |
+| Steam Annual Update: The Latest on Steam in 2026 | [GDC Vault](<https://gdcvault.com/play/1035962/>) / [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/steam-annual-update-the-latest-on-steam-in-2026/918301>) | [Steam Platform 2026: How Valve is Helping Game Developers Succeed on PC Gaming](<https://www.youtube.com/watch?v=h1ivZzEyNFY>) | GDC Festival of Gaming | 2026-10-21 |
 
 ## 官方发布方补充演讲
 

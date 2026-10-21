@@ -141,12 +141,14 @@
 
 ## Art of 'Sky: Children of the Light'
 
+**《光·遇》的艺术设计**
+
 活动：Summer 2020
 
 讲者：Yuichiro Tanabe  
 机构：ThatGameCompany  
 官方方向：Visual Arts  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
@@ -157,9 +159,15 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+Art+of+%27Sky%3A+Children+of+the+Light%27>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1026812/>) · 2026-10-21 核对
+
+**EN** Sky's art direction connects lighting, environmental themes, level progression, and character design to shared emotional experiences.
+
+**中文** 《光·遇》通过光照、环境主题、关卡情绪递进与角色设计，传达积极情感，并支持不同年龄玩家之间的连接。
 
 <a id="gdc-2020-1026759"></a>
 
@@ -192,12 +200,14 @@
 
 ## Destructible Environments in 'Control': Lessons in Procedural Destruction
 
+**《Control》的程序化可破坏环境**
+
 活动：Summer 2020
 
 讲者：Johannes Richter  
 机构：Remedy  
 官方方向：Visual Arts  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
@@ -207,20 +217,28 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+Destructible+Environments+in+%27Control%27%3A+Lessons+in+Procedural+Destruction>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1030643/>) · 2026-10-21 核对
+
+**EN** Control's Houdini-based destruction pipeline balances artistic goals, asset preparation, runtime performance, and the limitations of procedural content.
+
+**中文** 介绍《Control》基于 Houdini 的可破坏内容流程，讨论从资产制作到实际破坏时如何平衡视觉目标、性能与程序化方案的限制。
 
 <a id="gdc-2020-1026701"></a>
 
 ## Fast Denoising With Self Stabilizing Recurrent Blurs (Presented by NVIDIA)
+
+**基于自稳定循环模糊的快速降噪**
 
 活动：GDC 2020
 
 讲者：Dmitry Zhdan  
 机构：NVIDIA  
 官方方向：Visual Arts  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
@@ -230,20 +248,28 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+Fast+Denoising+With+Self+Stabilizing+Recurrent+Blurs+%28Presented+by+NVIDIA%29>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1026701/>) · 2026-10-21 核对
+
+**EN** NVIDIA outlines recurrent-blur denoising improvements, including specular handling, disocclusion recovery, temporal accumulation, and spatial weighting.
+
+**中文** NVIDIA 介绍循环模糊降噪的改进，涉及镜面反射处理、遮挡变化区域重建、时间累积及空间权重控制。
 
 <a id="gdc-2020-1026841"></a>
 
 ## Inspiring 249 Million Strangers: Art Direction for a Global Audience
+
+**面向全球用户的美术指导**
 
 活动：Summer 2020
 
 讲者：Riana McKeith  
 机构：King  
 官方方向：Visual Arts  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
@@ -254,20 +280,28 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+Inspiring+249+Million+Strangers%3A+Art+Direction+for+a+Global+Audience>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1026841/>) · 2026-10-21 核对
+
+**EN** King's IP development balances art testing, intuition, cross-disciplinary alignment, and familiar visual elements with a distinctive identity.
+
+**中文** King 的 IP 开发在美术测试、直觉和跨职能协作之间寻找平衡，将熟悉的视觉元素组合成具有独特身份的作品。
 
 <a id="gdc-2020-1026714"></a>
 
 ## Making Ray Traced Content in Unreal Engine 4 (Presented by NVIDIA)
+
+**在 UE4 中制作光线追踪内容**
 
 活动：GDC 2020
 
 讲者：Richard Cowgill  
 机构：NVIDIA  
 官方方向：Visual Arts  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
@@ -277,13 +311,21 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+Making+Ray+Traced+Content+in+Unreal+Engine+4+%28Presented+by+NVIDIA%29>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1026714/>) · 2026-10-21 核对
+
+**EN** NVIDIA outlines ray-tracing content considerations for UE4, including materials, meshes, foliage, detail levels, and lighting transitions.
+
+**中文** NVIDIA 介绍 UE4 光线追踪内容制作中的材质、网格、植被、细节层级及光照调整，说明其与光栅化方案的配合方式。
 
 <a id="gdc-2020-1026760"></a>
 
 ## Power to the Artists: The Evolution of 2D Game Tools (Presented by Unity Technologies)
+
+**Unity 二维美术工具的演变**
 
 活动：GDC 2020
 
@@ -300,20 +342,28 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+Power+to+the+Artists%3A+The+Evolution+of+2D+Game+Tools+%28Presented+by+Unity+Technologies%29>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1026760/>) · 2026-10-21 核对
+
+**EN** Unity demonstrates how dynamic lights, materials, shaders, and post-processing combine to expand 2D visual styles and workflows.
+
+**中文** Unity 演示动态光照、材质、着色器与后期处理如何组合使用，拓展二维游戏的视觉表现与美术流程。
 
 <a id="gdc-2020-1026852"></a>
 
 ## Resurrecting Dan: The Art of MediEvil PS4
+
+**《MediEvil》PS4 重制版的美术**
 
 活动：Summer 2020
 
 讲者：Norm Badillo  
 机构：OtherOcean  
 官方方向：Visual Arts  
-元数据：来自官方目录，讲者等信息待详情复核
+元数据：已核对公开详情页
 
 **官方资料与相关文章**
 
@@ -324,9 +374,15 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+Resurrecting+Dan%3A+The+Art+of+MediEvil+PS4>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1026852/>) · 2026-10-21 核对
+
+**EN** Other Ocean traces MediEvil's art-style exploration through concepts, models, discarded ideas, and test rooms connecting artists with engineers.
+
+**中文** Other Ocean 回顾《MediEvil》PS4 版的风格探索，展示概念、模型、被舍弃的方案，以及帮助美术与工程协作的测试空间。
 
 <a id="gdc-2020-1026579"></a>
 
@@ -387,6 +443,8 @@
 
 ## Technical Artist Summit: Improving Productivity Through Art Tools UX in Game Development
 
+**通过美术工具 UX 提高生产力**
+
 活动：GDC 2020
 
 讲者：Sean Low  
@@ -402,9 +460,15 @@
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+Technical+Artist+Summit%3A+Improving+Productivity+Through+Art+Tools+UX+in+Game+Development>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://gdcvault.com/play/1026768/>) · 2026-10-21 核对
+
+**EN** The session connects artist-centered interfaces, stability, and extensible architecture using examples from DCC software and game engines.
+
+**中文** 结合 DCC 与游戏引擎案例，讨论美术工具如何兼顾面向使用者的界面、稳定性和可扩展架构。
 
 <a id="gdc-2020-1026756"></a>
 

@@ -68,6 +68,8 @@
 
 ## 'Metro: Awakening': Development Postmortem
 
+**《地铁：觉醒》开发复盘**
+
 讲者：Martin de Ronde  
 机构：Vertigo Games  
 官方方向：Production  
@@ -76,14 +78,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035913/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/metro-awakening-development-post-mortem/917486>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+%27Metro%3A+Awakening%27%3A+Development+Postmortem>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/metro-awakening-development-post-mortem/917486>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Vertigo reviews adapting Metro to VR alongside stakeholder expectations and the creative, technical, and organizational constraints of production.
+
+**中文** Vertigo 回顾将《地铁》体验转化为 VR 的过程，讨论多方预期以及制作中的创意、技术和组织约束。
 
 <a id="gdc-2026-1035762"></a>
 
@@ -142,6 +151,8 @@
 
 ## Building and Sustaining a Global Development Team: Lessons in Sustainable Game Production
 
+**建设并维持全球开发团队**
+
 讲者：Brad Hendricks  
 机构：Blind Squirrel Games  
 官方方向：Team Leadership  
@@ -150,18 +161,27 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035785/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/building-and-sustaining-a-global-development-team-lessons-in-sustainable-game-production/914207>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Building+and+Sustaining+a+Global+Development+Team%3A+Lessons+in+Sustainable+Game+Production>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/building-and-sustaining-a-global-development-team-lessons-in-sustainable-game-production/914207>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Blind Squirrel explains distributed-production processes, tools, cross-cultural coordination, and approaches to scaling without exhausting teams.
+
+**中文** Blind Squirrel 介绍分布式制作中的流程、工具与跨文化协作，讨论扩大团队规模时如何兼顾质量与可持续工作方式。
 
 <a id="gdc-2026-1035790"></a>
 
 ## Casting Authentic Voices Across Cultures: Navigating Multilingual Casting for AAA Games
+
+**跨文化的多语言角色选角**
 
 讲者：Tim Friedlander  
 机构：soundBOX:Studio Group  
@@ -171,14 +191,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035790/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/casting-authentic-voices-across-cultures-navigating-multilingual-casting-for-aaa-games/914453>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Casting+Authentic+Voices+Across+Cultures%3A+Navigating+Multilingual+Casting+for+AAA+Games>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/casting-authentic-voices-across-cultures-navigating-multilingual-casting-for-aaa-games/914453>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** The panel addresses native-speaking talent, union coordination, actor logistics, and cultural consistency across multilingual game casts.
+
+**中文** 讨论多语言游戏选角中的母语演员寻找、工会协作、演员安排与文化一致性，强调角色表达与制作流程的配合。
 
 <a id="gdc-2026-1035792"></a>
 
@@ -209,6 +236,8 @@
 
 ## Crafting the Core Sonic Identity of 'Battlefield 6': From Concept to Execution
 
+**《战地6》核心声音身份的建立**
+
 讲者：Mari Saastamoinen Minto  
 机构：EA DICE  
 官方方向：Production  
@@ -217,14 +246,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035802/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/crafting-the-core-sonic-identity-of-battlefield-6-from-concept-to-execution/915535>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Crafting+the+Core+Sonic+Identity+of+%27Battlefield+6%27%3A+From+Concept+to+Execution>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/crafting-the-core-sonic-identity-of-battlefield-6-from-concept-to-execution/915535>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** The audio team connects franchise identity, acoustics, dynamic mixing, implementation choices, and team culture in defining Battlefield 6's sound.
+
+**中文** 音频团队将系列风格、声学、动态混音、实现取舍与团队文化结合起来，介绍《战地6》声音方向的形成过程。
 
 <a id="gdc-2026-1035657"></a>
 
@@ -280,6 +316,8 @@
 
 ## Does it Make You Feel Like a Wandering Ronin? Creative Direction for 'Ghost of Ytei'
 
+**《羊蹄山之魂》的创意指导**
+
 讲者：Nate Fox  
 机构：Sucker Punch Productions  
 官方方向：Team Leadership  
@@ -288,18 +326,27 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035820/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/does-it-make-you-feel-like-a-wandering-ronin-creative-direction-for-ghost-of-ytei/915861>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Does+it+Make+You+Feel+Like+a+Wandering+Ronin%3F+Creative+Direction+for+%27Ghost+of+Ytei%27>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/does-it-make-you-feel-like-a-wandering-ronin-creative-direction-for-ghost-of-ytei/915861>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Sucker Punch balances shared creative vision with targeted direction, using playtests, design pillars, presentations, and course corrections.
+
+**中文** Sucker Punch 通过测试、设计支柱、演示和阶段性调整传递共同愿景，并讨论团队自主创作与集中指导之间的平衡。
 
 <a id="gdc-2026-1035862"></a>
 
 ## GenAI at Studios: Leadership, Tools, and Trust
+
+**工作室中的生成式 AI：领导、工具与信任**
 
 讲者：Mitu Khandaker  
 机构：NYU Game Center  
@@ -309,18 +356,27 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035862/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/genai-at-studios-leadership-tools-and-trust/917659>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+GenAI+at+Studios%3A+Leadership%2C+Tools%2C+and+Trust>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/genai-at-studios-leadership-tools-and-trust/917659>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Small-studio leaders share production experiences with generative AI, examining practical value, workflow friction, and communication of trade-offs.
+
+**中文** 小型工作室负责人分享生成式 AI 接入制作流程的经历，讨论实际用途、工作摩擦，以及如何向团队沟通相关取舍。
 
 <a id="gdc-2026-1035865"></a>
 
 ## Getting the Sequel Right with 'Kingdom Come Deliverance II'
+
+**《天国：拯救II》：如何做好续作**
 
 讲者：Prokop Jirsa  
 机构：Warhorse studios  
@@ -330,14 +386,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035865/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/getting-the-sequel-right-with-kingdom-come-deliverance-ii/917598>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Getting+the+Sequel+Right+with+%27Kingdom+Come+Deliverance+II%27>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/getting-the-sequel-right-with-kingdom-come-deliverance-ii/917598>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Warhorse reflects on changes in design and production as the studio grows while preserving the identity of its first major success.
+
+**中文** Warhorse 回顾工作室成长过程中设计与制作方式的变化，讨论如何在提升专业化程度的同时保留前作的独特性。
 
 <a id="gdc-2026-1035696"></a>
 
@@ -419,6 +482,8 @@
 
 ## Outsourcing Without the Overhead: Practical Tips for Smarter Collaboration
 
+**减少外部协作的额外负担**
+
 讲者：Mathieu Lavoie  
 机构：Side  
 官方方向：Team Leadership  
@@ -427,18 +492,27 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035925/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/outsourcing-without-the-overhead-practical-tips-for-smarter-collaboration/915668>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Outsourcing+Without+the+Overhead%3A+Practical+Tips+for+Smarter+Collaboration>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/outsourcing-without-the-overhead-practical-tips-for-smarter-collaboration/915668>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Contributors and managers compare ownership, goal definition, schedules, and budgets when coordinating external development work.
+
+**中文** 外部贡献者与管理者讨论责任归属、目标定义、排期和预算，分享减少联合开发与外包协作摩擦的方法。
 
 <a id="gdc-2026-1035930"></a>
 
 ## Performance Capture in the Trenches: 'Battlefield 6' Cinematics
+
+**《战地6》过场动画的表演捕捉**
 
 讲者：Pasha Sol  
 机构：Electronic Arts  
@@ -448,14 +522,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035930/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/pcap-in-the-trenches-battlefield-6-cinematics-at-scale/916913>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Performance+Capture+in+the+Trenches%3A+%27Battlefield+6%27+Cinematics>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/pcap-in-the-trenches-battlefield-6-cinematics-at-scale/916913>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** EA Create Capture discusses physical staging, virtual-production workflows, team coordination, and leadership under cinematic production constraints.
+
+**中文** EA Create Capture 介绍实体布景、实时虚拟制作及团队协调，回顾高要求、紧工期的过场动画制作中的管理经验。
 
 <a id="gdc-2026-1035748"></a>
 
@@ -586,6 +667,8 @@
 
 ## The Future of Game Knowledge: Search Less. Ship More.
 
+**DocGPT：让游戏团队更容易获取内部知识**
+
 讲者：Roxane Zaim  
 机构：Ubisoft  
 官方方向：Production  
@@ -594,18 +677,27 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035983/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/the-future-of-game-knowledge-search-less-ship-more/914982>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+The+Future+of+Game+Knowledge%3A+Search+Less.+Ship+More.>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/the-future-of-game-knowledge-search-less-ship-more/914982>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Ubisoft's DocGPT connects fragmented internal knowledge with natural-language assistance for onboarding, testing, pipeline understanding, and project visibility.
+
+**中文** Ubisoft 的 DocGPT 通过自然语言辅助连接分散的内部知识，支持新人入职、测试、理解制作流程及掌握项目状态。
 
 <a id="gdc-2026-1035984"></a>
 
 ## The Goldilocks Principle: Right-Sizing Process for Growing Teams
+
+**为成长中的团队匹配合适流程**
 
 讲者：Ella Vance  
 机构：The New York Times  
@@ -615,14 +707,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035984/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/the-goldilocks-principle-right-sizing-process-for-growing-teams/915685>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+The+Goldilocks+Principle%3A+Right-Sizing+Process+for+Growing+Teams>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/the-goldilocks-principle-right-sizing-process-for-growing-teams/915685>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** NYT Games uses growth stages and diagnostic questions to adjust planning, communication, and decision-making without overwhelming creative teams.
+
+**中文** NYT Games 通过成长阶段和诊断问题调整规划、沟通与决策机制，讨论如何让流程与团队规模相匹配。
 
 <a id="gdc-2026-1035727"></a>
 
@@ -654,6 +753,8 @@
 
 ## WHEN YOUR AAA GAME ISN'T FUN: The ARC Raiders Story of Starting Over with Intent
 
+**《ARC Raiders》：当大型游戏不够好玩时重新出发**
+
 讲者：Caio Braga  
 机构：Embark Studios  
 官方方向：Team Leadership  
@@ -662,14 +763,21 @@
 **官方资料与相关文章**
 
 - [GDC Vault · 视频资料页](<https://gdcvault.com/play/1036010/>)（需会员）
+- [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/when-your-aaa-game-isnt-fun-the-arc-raiders-story-of-starting-over-with-intent/918328>)
 
 **YouTube 演讲**
 
 - 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+WHEN+YOUR+AAA+GAME+ISN%27T+FUN%3A+The+ARC+Raiders+Story+of+Starting+Over+with+Intent>)（搜索入口）
 
-**双语摘要 · 待整理**
+**双语摘要 · AI 辅助初稿，待校对**
 
-待依据官方公开简介、演讲或讲者文章整理。
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+[导读依据](<https://schedule.gdconf.com/session/when-your-aaa-game-isnt-fun-the-arc-raiders-story-of-starting-over-with-intent/918328>) · 2026-10-21 核对 · 历史页面索引，原页面可能已变更或失效
+
+**EN** Embark uses structured tests, audience definitions, clear design intent, and team autonomy to diagnose problems and reset development.
+
+**中文** Embark 通过结构化测试、用户定位、清晰的设计意图与团队自主性，诊断玩法问题并重新确定开发方向。
 
 
 <!-- Generated by python -m gdc_index build. -->
