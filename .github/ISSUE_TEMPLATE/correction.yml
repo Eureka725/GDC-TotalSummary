@@ -1,0 +1,16 @@
+name: 摘要／译名／链接纠错
+description: 修正事实、翻译、分类或链接
+title: "[纠错] "
+body:
+  - type: input
+    id: session
+    attributes:
+      label: 演讲 ID 或页面
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: 问题、建议改法和依据
+    validations:
+      required: true

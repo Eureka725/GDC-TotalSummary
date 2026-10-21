@@ -1,0 +1,17 @@
+{
+  "2020": [
+    {"slug": "gdc-20", "name": "GDC 2020", "url": "https://gdcvault.com/browse/gdc-20/"},
+    {"slug": "gdc-summer-20", "name": "Summer 2020", "url": "https://gdcvault.com/browse/gdc-summer-20/"}
+  ],
+  "2021": [
+    {"slug": "gdc-21", "name": "Game Developers Conference 2021", "url": "https://gdcvault.com/browse/gdc-21/"},
+    {"slug": "gdc-showcase-21", "name": "Showcase 2021", "url": "https://gdcvault.com/browse/gdc-showcase-21/"}
+  ],
+  "2022": [
+    {"slug": "gdc-22", "name": "Game Developers Conference 2022", "url": "https://gdcvault.com/browse/gdc-22/"}
+  ],
+  "2023": [
+    {"slug": "gdc-23", "name": "Game Developers Conference 2023", "url": "https://gdcvault.com/browse/gdc-23/"},
+    {"slug": "gdc-showcase-23", "name": "Showcase 2023", "url": "https://gdcvault.com/browse/gdc-showcase-23/"}
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "year": 2026,
+  "videos": [
+    {
+      "title": "The Future of Path Tracing | Best Practices, Optimizations & Future Standards",
+      "title_zh": "路径追踪的未来：实践、优化与未来标准",
+      "url": "https://www.youtube.com/watch?v=0IrzX4LDIx8",
+      "channel": "NVIDIA Game Developer",
+      "checked_at": "2026-10-21",
+      "article_url": "https://www.nvidia.com/en-us/events/gdc/",
+      "evidence_url": "https://www.youtube.com/playlist?list=PL4FII4B-zM0cfs8pQHOaq6H8fjgIQ5InZ"
+    },
+    {
+      "title": "AI NPCs in Games | University Study, Player Behavior & NVIDIA In-Game Inferencing SDK Integration",
+      "title_zh": "游戏 AI NPC：大学研究、玩家行为及 NVIDIA 游戏内推理 SDK 接入",
+      "url": "https://www.youtube.com/watch?v=F3eSYYRU2is",
+      "channel": "NVIDIA Game Developer",
+      "checked_at": "2026-10-21",
+      "article_url": "https://www.nvidia.com/en-us/events/gdc/",
+      "evidence_url": "https://www.youtube.com/playlist?list=PL4FII4B-zM0cfs8pQHOaq6H8fjgIQ5InZ"
+    },
+    {
+      "title": "Building an AI Assistant for Total War: PHARAOH | NVIDIA ACE Developer Deep Dive",
+      "title_zh": "为《全面战争：法老》开发 AI 助手：NVIDIA ACE 技术详解",
+      "url": "https://www.youtube.com/watch?v=X2Bw30BvrHo",
+      "channel": "NVIDIA Game Developer",
+      "checked_at": "2026-10-21",
+      "article_url": "https://www.nvidia.com/en-us/events/gdc/",
+      "evidence_url": "https://www.youtube.com/playlist?list=PL4FII4B-zM0cfs8pQHOaq6H8fjgIQ5InZ"
+    },
+    {
+      "title": "PUBG: BATTLEGROUNDS Ally AI Companion Deep Dive | NVIDIA ACE Conversational Pipeline Explained",
+      "title_zh": "《PUBG》Ally AI 伙伴：NVIDIA ACE 对话流程详解",
+      "url": "https://www.youtube.com/watch?v=JaD6ZFNQgU8",
+      "channel": "NVIDIA Game Developer",
+      "checked_at": "2026-10-21",
+      "article_url": "https://www.nvidia.com/en-us/events/gdc/",
+      "evidence_url": "https://www.youtube.com/playlist?list=PL4FII4B-zM0cfs8pQHOaq6H8fjgIQ5InZ"
+    },
+    {
+      "title": "Real-Time Generative Video Re-Styling for Gaming in the Next-Generation Datacenter",
+      "title_zh": "下一代数据中心中面向游戏的实时生成式视频风格转换",
+      "url": "https://www.youtube.com/watch?v=1uT1RupBIfU",
+      "channel": "NVIDIA Game Developer",
+      "checked_at": "2026-10-21",
+      "article_url": "https://www.nvidia.com/en-us/events/gdc/",
+      "evidence_url": "https://www.youtube.com/playlist?list=PL4FII4B-zM0cfs8pQHOaq6H8fjgIQ5InZ"
+    },
+    {
+      "title": "Supercharging Godot Development: Rapid Path Tracing Integration with Cursor",
+      "title_zh": "利用 Cursor 为 Godot 快速接入路径追踪",
+      "url": "https://www.youtube.com/watch?v=rYmpJYfaYm0",
+      "channel": "NVIDIA Game Developer",
+      "checked_at": "2026-10-21",
+      "article_url": "https://www.nvidia.com/en-us/events/gdc/",
+      "evidence_url": "https://www.youtube.com/playlist?list=PL4FII4B-zM0cfs8pQHOaq6H8fjgIQ5InZ"
+    },
+    {
+      "title": "Real-Time Path Tracing in RE ENGINE for Resident Evil Requiem and PRAGMATA",
+      "title_zh": "《生化危机：安魂曲》与《PRAGMATA》的 RE ENGINE 实时路径追踪",
+      "url": "https://www.youtube.com/watch?v=Gq1QdlQSzn0",
+      "channel": "NVIDIA Game Developer",
+      "checked_at": "2026-10-21",
+      "article_url": "https://www.nvidia.com/en-us/events/gdc/",
+      "evidence_url": "https://www.youtube.com/playlist?list=PL4FII4B-zM0cfs8pQHOaq6H8fjgIQ5InZ"
+    },
+    {
+      "title": "Path Traced Hair & Skin in AAA Games using Vulkan",
+      "title_zh": "使用 Vulkan 实现 AAA 游戏的路径追踪毛发与皮肤",
+      "url": "https://www.youtube.com/watch?v=mTR8NxkYzw0",
+      "channel": "NVIDIA Game Developer",
+      "checked_at": "2026-10-21",
+      "article_url": "https://www.nvidia.com/en-us/events/gdc/",
+      "evidence_url": "https://www.youtube.com/playlist?list=PL4FII4B-zM0cfs8pQHOaq6H8fjgIQ5InZ"
+    },
+    {
+      "title": "Slang Shading Language Demo & Single-Source Graphics Pipeline Explained",
+      "title_zh": "Slang 着色语言演示与单一源码图形流程详解",
+      "url": "https://www.youtube.com/watch?v=dfRownfn6NY",
+      "channel": "NVIDIA Game Developer",
+      "checked_at": "2026-10-21",
+      "article_url": "https://www.nvidia.com/en-us/events/gdc/",
+      "evidence_url": "https://www.youtube.com/playlist?list=PL4FII4B-zM0cfs8pQHOaq6H8fjgIQ5InZ"
+    },
+    {
+      "title": "Scaling Playtest Reach with GeForce NOW",
+      "title_zh": "通过 GeForce NOW 扩大游戏测试覆盖范围",
+      "url": "https://www.youtube.com/watch?v=my_ANrdjF9M",
+      "channel": "NVIDIA Game Developer",
+      "checked_at": "2026-10-21",
+      "article_url": "https://www.nvidia.com/en-us/events/gdc/",
+      "evidence_url": "https://www.youtube.com/playlist?list=PL4FII4B-zM0cfs8pQHOaq6H8fjgIQ5InZ"
+    },
+    {
+      "title": "How to Build Practical Applications Powered by RTX Neural Shaders",
+      "title_zh": "基于 RTX 神经着色器构建实际应用",
+      "url": "https://www.youtube.com/watch?v=9rFsZ1NLQeQ",
+      "channel": "NVIDIA Game Developer",
+      "checked_at": "2026-10-21",
+      "article_url": "https://www.nvidia.com/en-us/events/gdc/",
+      "evidence_url": "https://www.youtube.com/playlist?list=PL4FII4B-zM0cfs8pQHOaq6H8fjgIQ5InZ"
+    },
+    {
+      "title": "Scaling Game Performance Analysis with NVIDIA Nsight",
+      "title_zh": "利用 NVIDIA Nsight 扩展游戏性能分析",
+      "url": "https://www.youtube.com/watch?v=4HohF_YHchI",
+      "channel": "NVIDIA Game Developer",
+      "checked_at": "2026-10-21",
+      "article_url": "https://www.nvidia.com/en-us/events/gdc/",
+      "evidence_url": "https://www.youtube.com/playlist?list=PL4FII4B-zM0cfs8pQHOaq6H8fjgIQ5InZ"
+    },
+    {
+      "title": "What's New in RTX for Unreal Engine 5",
+      "title_zh": "面向虚幻引擎5的 RTX 最新进展",
+      "url": "https://www.youtube.com/watch?v=so9lm3hAHes",
+      "channel": "NVIDIA Game Developer",
+      "checked_at": "2026-10-21",
+      "article_url": "https://www.nvidia.com/en-us/events/gdc/",
+      "evidence_url": "https://www.youtube.com/playlist?list=PL4FII4B-zM0cfs8pQHOaq6H8fjgIQ5InZ"
+    }
+  ]
+}

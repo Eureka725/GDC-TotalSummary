@@ -1,0 +1,11 @@
+[project]
+name = "gdc-community-index"
+version = "0.1.0"
+description = "A bilingual, source-linked GDC session index with annual and historical archives"
+requires-python = ">=3.11"
+dependencies = []
+license = "MIT"
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"

@@ -1,0 +1,11 @@
+# Local source snapshots and temporary exports
+.cache/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+dist/
+.DS_Store
+Thumbs.db

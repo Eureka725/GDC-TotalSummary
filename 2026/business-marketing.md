@@ -1,0 +1,1382 @@
+# GDC 2026 · Business & Marketing · 商业与市场
+
+[年度目录](README.md) · [项目首页](../README.md)
+
+共 57 场。资料来源核对日期：2026-10-21。
+
+> 本文件由结构化数据生成。摘要是基于所标注来源的中英文导读；初稿待校对。
+
+## 目录
+
+- ['Balatro' Community Playbook: From Launch to Letting Go](#gdc-2026-1035770)
+- ['Dead by Daylight': Reflecting on 10 Years of Terror](#gdc-2026-1035807)
+- ['Marvel Rivals': The Untold Launch and LiveOps Journey Behind Tens of Millions of Players](#gdc-2026-1035907)
+- ['Neopets': From Web-Browser to Everywhere](#gdc-2026-1035919)
+- [Beyond the Logo: Crafting Comprehensive Brand Systems for Games](#gdc-2026-1035775)
+- [Bringing Back a Legend: The Global Multi-Platform Publishing Strategy of Delta Force (Presented by Tencent Games)](#gdc-2026-1036026)
+- [Building a Winning Discord Strategy to Fuel the Success of Your Game (Presented by Discord)](#gdc-2026-1035637)
+- [Building Growth Through Partnership: A Practical Avia Playbook for Brand + Performance on Meta (Presented by AviaGames)](#gdc-2026-1035620)
+- [Community is Not a Feature: It's Your Growth Strategy (Presented by Community Clubhouse)](#gdc-2026-1035629)
+- [Critique My Page: Live at GDC](#gdc-2026-1035805)
+- [Discord Ads: The Emerging Must-Buy Platform for Gaming Marketers (Presented by Discord)](#gdc-2026-1035638)
+- [Discovery Decoded: Your Guide to the Meta Horizon Store (Presented by Meta)](#gdc-2026-1035658)
+- [DIY Protection for Game Developers: If You Create It, Protect It](#gdc-2026-1035819)
+- [Economics of a $1B Cosmetic Economy](#gdc-2026-1035823)
+- [Finding Signal in the Noise: Unlocking Growth in a Turbulent Games Market](#gdc-2026-1035666)
+- [From Discovery to Launch: An Inside Look at the Publisher-Developer Relationship](#gdc-2026-1035841)
+- [From Win to WalletRethinking Player Experience in Skill-Based Gaming (Presented by AviaGames)](#gdc-2026-1035621)
+- [Game On: Why the Best is Yet to Come for Gaming's Future](#gdc-2026-1035854)
+- [Gaming Success on Discord: Data-Driven Insights into Community Growth and Player Engagement (Presented by Discord)](#gdc-2026-1035640)
+- [How Do I Get My Game on IGN?](#gdc-2026-1035872)
+- [How I Raised X Million](#gdc-2026-1035876)
+- [Influencing Fandom: Making Games That Market Themselves](#gdc-2026-1035721)
+- [Inside Indie (Self) Publishing](#gdc-2026-1035886)
+- [Launching 'Phasmophobia' on Consoles (and Somehow Not F**king It Up)](#gdc-2026-1035896)
+- [Lessons Learned in Running a Game the Hard Way: How Blizzard Revitalized 'Overwatch'](#gdc-2026-1035900)
+- [LiveOps Moneyball: 10 Monetization Trends Driving 1.5x Revenue Growth](#gdc-2026-1035902)
+- [Marketing is Art: Working with Your Team to Get What You Need](#gdc-2026-1035905)
+- [Mastering Steam: Why Discovery is Hard and How to Break Through the Noise](#gdc-2026-1035704)
+- [Maximize Your Game's Potential on the App Store (Presented by Apple)](#gdc-2026-1035612)
+- [Monetization Systems That Work for Players and Studios](#gdc-2026-1035918)
+- [No More Walled Gardens! D2C Playbook for Every Developer](#gdc-2026-1035920)
+- [Player-Value First: Doubling a Seven-Year-Old Live Game](#gdc-2026-1035934)
+- [Playing with the Shoggoth: Safety in Games with Generative AI (Presented by GameSafe)](#gdc-2026-1036047)
+- [Press Startup: How to Raise Serious Funds, Ship Killer Products and Build Lasting Value like a Tech Business](#gdc-2026-1035939)
+- [Rating the Future: Evolving Content Standards Across UGC Games](#gdc-2026-1035943)
+- [Recent Bets &amp; Outcomes from Supercell's 'Clash Royale'](#gdc-2026-1035944)
+- [Refreshing the Core Mechanics Fun After 1 Year of LiveOps in 'Infinity Nikki'](#gdc-2026-1035945)
+- [Remaster, Reboot, Reinvent: Case Studies in 'Wizardry' IP Revival](#gdc-2026-1035694)
+- [Short Form Futures: How AI Turned MMO Players into TikTok Creators](#gdc-2026-1035954)
+- [Six Figures in 30 Days: How We Turned a Funding Crisis into a Kickstarter Success](#gdc-2026-1035956)
+- [Steam Annual Update: The Latest on Steam in 2026](#gdc-2026-1035962)
+- [Sustaining Revenue in Single-Player Games with a Lean GaaS Strategy: What Works, What Doesn't](#gdc-2026-1035969)
+- [The Data Driven Advantage: Optimizing VR Games with Analytics (Presented by Meta)](#gdc-2026-1035659)
+- [The Invisible Layer: Redesigning Communication and Navigation in 'Candy Crush Soda Saga'](#gdc-2026-1035986)
+- [The Monetization Paradox: How Doing the Opposite of What's Expected Drove Revenue Growth](#gdc-2026-1035715)
+- [The Player-Centric Engine: CRM's Role in Enabling Cross-Functional Growth for 'Candy Crush Saga'](#gdc-2026-1035991)
+- [The State of AI-Native Games](#gdc-2026-1035996)
+- [The State of PC and Console Games in 2026](#gdc-2026-1035723)
+- [The Year in Live Service Games: 2026 Edition](#gdc-2026-1036002)
+- [Toxic Players After Punishment: Rehabilitation and Prosocial Play (Presented by GameSafe)](#gdc-2026-1036042)
+- [VR LiveOps: Sustaining Player Engagement &amp; Monetization (Presented by Meta)](#gdc-2026-1035663)
+- [We Built the Wrong Games First: Failing Forward to 'UG', VR's Fastest-Growing Game (Presented by Meta)](#gdc-2026-1035665)
+- [Weaponized Play: How Extremist Networks are Targeting Children in Online Games (Presented by GameSafe)](#gdc-2026-1036048)
+- [Welcome Back: Updating the Returning Player Experience in 'Diablo Immortal'](#gdc-2026-1036006)
+- [What I've Seen in Over 600 VR Launches: What to Do, What to Avoid, and Where to Make Impact Early](#gdc-2026-1036007)
+- [Why Good Games Fail: The Startup Audit Every Studio Needs](#gdc-2026-1035717)
+- [You Owe It to Your Players: Creating Value with Effective Monetization in Mid-Core Free-to-Play](#gdc-2026-1035716)
+
+---
+
+<a id="gdc-2026-1035770"></a>
+
+## 'Balatro' Community Playbook: From Launch to Letting Go
+
+讲者：Emma Smith-Bodie  
+机构：Playstack  
+官方方向：Discovery &amp; Marketing  
+元数据：来自官方目录，讲者等信息待详情复核
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035770/>)（需会员）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+%27Balatro%27+Community+Playbook%3A+From+Launch+to+Letting+Go>)（搜索入口）
+
+**双语摘要 · 待整理**
+
+待依据官方公开简介、演讲或讲者文章整理。
+
+<a id="gdc-2026-1035807"></a>
+
+## 'Dead by Daylight': Reflecting on 10 Years of Terror
+
+讲者：Mathieu Cote  
+机构：Behaviour Interactive Inc.  
+官方方向：Discovery &amp; Marketing  
+元数据：来自官方目录，讲者等信息待详情复核
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035807/>)（需会员）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+%27Dead+by+Daylight%27%3A+Reflecting+on+10+Years+of+Terror>)（搜索入口）
+
+**双语摘要 · 待整理**
+
+待依据官方公开简介、演讲或讲者文章整理。
+
+<a id="gdc-2026-1035907"></a>
+
+## 'Marvel Rivals': The Untold Launch and LiveOps Journey Behind Tens of Millions of Players
+
+讲者：Yachen Bian  
+机构：NetEase Games  
+官方方向：Discovery &amp; Marketing  
+元数据：来自官方目录，讲者等信息待详情复核
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035907/>)（需会员）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+%27Marvel+Rivals%27%3A+The+Untold+Launch+and+LiveOps+Journey+Behind+Tens+of+Millions+of+Players>)（搜索入口）
+
+**双语摘要 · 待整理**
+
+待依据官方公开简介、演讲或讲者文章整理。
+
+<a id="gdc-2026-1035919"></a>
+
+## 'Neopets': From Web-Browser to Everywhere
+
+讲者：Dominic Law  
+机构：Neopets  
+官方方向：Discovery &amp; Marketing  
+元数据：来自官方目录，讲者等信息待详情复核
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035919/>)（需会员）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+%27Neopets%27%3A+From+Web-Browser+to+Everywhere>)（搜索入口）
+
+**双语摘要 · 待整理**
+
+待依据官方公开简介、演讲或讲者文章整理。
+
+<a id="gdc-2026-1035775"></a>
+
+## Beyond the Logo: Crafting Comprehensive Brand Systems for Games
+
+讲者：Alanna Cervenak  
+机构：PlayStation Studios Creative Arts  
+官方方向：Discovery &amp; Marketing  
+元数据：来自官方目录，讲者等信息待详情复核
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035775/>)（需会员）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Beyond+the+Logo%3A+Crafting+Comprehensive+Brand+Systems+for+Games>)（搜索入口）
+
+**双语摘要 · 待整理**
+
+待依据官方公开简介、演讲或讲者文章整理。
+
+<a id="gdc-2026-1036026"></a>
+
+## Bringing Back a Legend: The Global Multi-Platform Publishing Strategy of Delta Force (Presented by Tencent Games)
+
+讲者：Jingshen Wei / Lingjin Meng / Qinfu Zhao  
+机构：Team Jade / Tencent Games  
+官方方向：Business Strategy  
+元数据：已核对公开详情页
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1036026/>)（公开页面）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Bringing+Back+a+Legend%3A+The+Global+Multi-Platform+Publishing+Strategy+of+Delta+Force+%28Presented+by+Tencent+Games%29>)（搜索入口）
+
+**双语摘要 · AI 辅助初稿，待校对**
+
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+**EN** Delta Force's publishing team describes building a global marketing and public-relations pipeline for a multi-platform release.
+
+**中文** 《三角洲行动》发行团队分享如何为多平台产品从零建立全球营销和公关流程。
+
+<a id="gdc-2026-1035637"></a>
+
+## Building a Winning Discord Strategy to Fuel the Success of Your Game (Presented by Discord)
+
+讲者：Tom Jacques / Mason Sciotti / Emory Irpan / Mark Mandel / Sota Proffitt  
+机构：Discord  
+官方方向：Business Strategy  
+元数据：已核对公开详情页
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035637/>)（公开页面）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Building+a+Winning+Discord+Strategy+to+Fuel+the+Success+of+Your+Game+%28Presented+by+Discord%29>)（搜索入口）
+
+**双语摘要 · AI 辅助初稿，待校对**
+
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+**EN** Discord outlines combining community and platform services into a coordinated strategy supporting a game's lifecycle.
+
+**中文** Discord 介绍如何协调社区经营与平台服务，形成覆盖游戏生命周期的整体策略。
+
+<a id="gdc-2026-1035620"></a>
+
+## Building Growth Through Partnership: A Practical Avia Playbook for Brand + Performance on Meta (Presented by AviaGames)
+
+讲者：Ping Wang / Benny Chu / David Cheang / Minyu Sun  
+机构：AviaGames / Meta  
+官方方向：Business Strategy  
+元数据：已核对公开详情页
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035620/>)（公开页面）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Building+Growth+Through+Partnership%3A+A+Practical+Avia+Playbook+for+Brand+%2B+Performance+on+Meta+%28Presented+by+AviaGames%29>)（搜索入口）
+
+**双语摘要 · AI 辅助初稿，待校对**
+
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+**EN** AviaGames and Meta discuss aligning brand and performance marketing through shared goals, creative development, testing, and measurement.
+
+**中文** AviaGames 与 Meta 分享如何通过共同目标、创意制作、测试和衡量，协同品牌营销与效果投放。
+
+<a id="gdc-2026-1035629"></a>
+
+## Community is Not a Feature: It's Your Growth Strategy (Presented by Community Clubhouse)
+
+讲者：Chip Thurston / Cisco Maldonado  
+机构：Fastspring / Midwest Games  
+官方方向：Business Strategy  
+元数据：已核对公开详情页
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035629/>)（公开页面）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Community+is+Not+a+Feature%3A+It%27s+Your+Growth+Strategy+%28Presented+by+Community+Clubhouse%29>)（搜索入口）
+
+**双语摘要 · AI 辅助初稿，待校对**
+
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+**EN** Community Clubhouse discusses treating community strength as a foundation for sustained game growth.
+
+**中文** Community Clubhouse 讨论如何将社区建设作为游戏持续增长的基础。
+
+<a id="gdc-2026-1035805"></a>
+
+## Critique My Page: Live at GDC
+
+讲者：Derek Lieu / Chris Zukowski  
+机构：Derek Lieu Creative / Howtomarketagame.com  
+官方方向：Discovery &amp; Marketing  
+元数据：已核对公开详情页
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035805/>)（公开页面）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Critique+My+Page%3A+Live+at+GDC>)（搜索入口）
+
+**双语摘要 · AI 辅助初稿，待校对**
+
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+**EN** Derek Lieu and Chris Zukowski offer live feedback on improving underperforming Steam store pages.
+
+**中文** Derek Lieu 与 Chris Zukowski 现场点评 Steam 商店页，讨论提升页面表现的方法。
+
+<a id="gdc-2026-1035638"></a>
+
+## Discord Ads: The Emerging Must-Buy Platform for Gaming Marketers (Presented by Discord)
+
+讲者：Meena Mutha  
+机构：Discord  
+官方方向：Business Strategy  
+元数据：已核对公开详情页
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035638/>)（公开页面）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Discord+Ads%3A+The+Emerging+Must-Buy+Platform+for+Gaming+Marketers+%28Presented+by+Discord%29>)（搜索入口）
+
+**双语摘要 · AI 辅助初稿，待校对**
+
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+**EN** Discord presents its advertising platform and opportunities for gaming brands to reach player communities.
+
+**中文** Discord 介绍广告平台，以及游戏品牌触达玩家社区的方式。
+
+<a id="gdc-2026-1035658"></a>
+
+## Discovery Decoded: Your Guide to the Meta Horizon Store (Presented by Meta)
+
+讲者：Mahncy Mehrota  
+机构：Meta  
+官方方向：Business Strategy  
+元数据：已核对公开详情页
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035658/>)（公开页面）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Discovery+Decoded%3A+Your+Guide+to+the+Meta+Horizon+Store+%28Presented+by+Meta%29>)（搜索入口）
+
+**双语摘要 · AI 辅助初稿，待校对**
+
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+**EN** Meta explains Horizon Store discovery through ranking signals, metadata, and editorial promotion.
+
+**中文** Meta 介绍 Horizon 商店通过排序信号、元数据及人工推广进行内容发现的机制。
+
+<a id="gdc-2026-1035819"></a>
+
+## DIY Protection for Game Developers: If You Create It, Protect It
+
+讲者：Benjamin Siders  
+机构：Lewis Rice LLC  
+官方方向：Business Strategy  
+元数据：来自官方目录，讲者等信息待详情复核
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035819/>)（需会员）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+DIY+Protection+for+Game+Developers%3A+If+You+Create+It%2C+Protect+It>)（搜索入口）
+
+**双语摘要 · 待整理**
+
+待依据官方公开简介、演讲或讲者文章整理。
+
+<a id="gdc-2026-1035823"></a>
+
+## Economics of a $1B Cosmetic Economy
+
+讲者：Phillip Black  
+机构：Game Economist Consulting  
+官方方向：Business Strategy  
+元数据：来自官方目录，讲者等信息待详情复核
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035823/>)（需会员）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Economics+of+a+%241B+Cosmetic+Economy>)（搜索入口）
+
+**双语摘要 · 待整理**
+
+待依据官方公开简介、演讲或讲者文章整理。
+
+<a id="gdc-2026-1035666"></a>
+
+## Finding Signal in the Noise: Unlocking Growth in a Turbulent Games Market
+
+讲者：Yoshio Osaki  
+机构：IDG Intelligence  
+官方方向：Business Strategy  
+元数据：已核对公开详情页
+
+**官方资料与相关文章**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035666/>)（公开页面）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035833/>)（需会员）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Finding+Signal+in+the+Noise%3A+Unlocking+Growth+in+a+Turbulent+Games+Market>)（搜索入口）
+
+**双语摘要 · AI 辅助初稿，待校对**
+
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+**EN** Yoshio Osaki discusses market disruption and potential growth opportunities amid changing game-industry conditions.
+
+**中文** Yoshio Osaki 讨论游戏行业变化中的市场动荡，以及潜在增长机会。
+
+<a id="gdc-2026-1035841"></a>
+
+## From Discovery to Launch: An Inside Look at the Publisher-Developer Relationship
+
+讲者：Patrick Johnson  
+机构：Playstack  
+官方方向：Business Strategy  
+元数据：来自官方目录，讲者等信息待详情复核
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035841/>)（需会员）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+From+Discovery+to+Launch%3A+An+Inside+Look+at+the+Publisher-Developer+Relationship>)（搜索入口）
+
+**双语摘要 · 待整理**
+
+待依据官方公开简介、演讲或讲者文章整理。
+
+<a id="gdc-2026-1035621"></a>
+
+## From Win to WalletRethinking Player Experience in Skill-Based Gaming (Presented by AviaGames)
+
+讲者：Yanjuan Chen / Justin Butler / Michael Vella / Qi Zhao  
+机构：AviaGames / PayPal  
+官方方向：Business Strategy  
+元数据：已核对公开详情页
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035621/>)（公开页面）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+From+Win+to+WalletRethinking+Player+Experience+in+Skill-Based+Gaming+%28Presented+by+AviaGames%29>)（搜索入口）
+
+**双语摘要 · AI 辅助初稿，待校对**
+
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+**EN** AviaGames and PayPal examine how payment and payout speed, reliability, and transparency affect player trust.
+
+**中文** AviaGames 与 PayPal 讨论支付及提现的速度、可靠性和透明度如何影响玩家信任。
+
+<a id="gdc-2026-1035854"></a>
+
+## Game On: Why the Best is Yet to Come for Gaming's Future
+
+讲者：Simon Zhu  
+机构：Independent  
+官方方向：Business Strategy  
+元数据：已核对公开详情页
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035854/>)（公开页面）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Game+On%3A+Why+the+Best+is+Yet+to+Come+for+Gaming%27s+Future>)（搜索入口）
+
+**双语摘要 · AI 辅助初稿，待校对**
+
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+**EN** Simon Zhu reflects on investment experience and lessons supporting studios to discuss gaming's future growth.
+
+**中文** Simon Zhu 结合投资和支持工作室的经验，讨论游戏行业未来的增长。
+
+<a id="gdc-2026-1035640"></a>
+
+## Gaming Success on Discord: Data-Driven Insights into Community Growth and Player Engagement (Presented by Discord)
+
+讲者：Timothy Lu  
+机构：Discord  
+官方方向：Business Strategy  
+元数据：已核对公开详情页
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035640/>)（公开页面）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Gaming+Success+on+Discord%3A+Data-Driven+Insights+into+Community+Growth+and+Player+Engagement+%28Presented+by+Discord%29>)（搜索入口）
+
+**双语摘要 · AI 辅助初稿，待校对**
+
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+**EN** Discord analyzes internal platform data to discuss game discovery, community growth, and player engagement.
+
+**中文** Discord 结合平台内部数据，讨论游戏发现、社区增长与玩家参与。
+
+<a id="gdc-2026-1035872"></a>
+
+## How Do I Get My Game on IGN?
+
+讲者：Peer Schneider  
+机构：IGN Entertainment  
+官方方向：Discovery &amp; Marketing  
+元数据：来自官方目录，讲者等信息待详情复核
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035872/>)（需会员）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+How+Do+I+Get+My+Game+on+IGN%3F>)（搜索入口）
+
+**双语摘要 · 待整理**
+
+待依据官方公开简介、演讲或讲者文章整理。
+
+<a id="gdc-2026-1035876"></a>
+
+## How I Raised X Million
+
+讲者：Nicole Lazzaro  
+机构：XEODesign  
+官方方向：Business Strategy  
+元数据：来自官方目录，讲者等信息待详情复核
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035876/>)（需会员）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+How+I+Raised+X+Million>)（搜索入口）
+
+**双语摘要 · 待整理**
+
+待依据官方公开简介、演讲或讲者文章整理。
+
+<a id="gdc-2026-1035721"></a>
+
+## Influencing Fandom: Making Games That Market Themselves
+
+讲者：Emily Pitcher  
+机构：SonderingEmily  
+官方方向：Discovery &amp; Marketing  
+元数据：已核对公开详情页
+
+**官方资料与相关文章**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035721/>)（公开页面）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035885/>)（公开页面）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Influencing+Fandom%3A+Making+Games+That+Market+Themselves>)（搜索入口）
+
+**双语摘要 · AI 辅助初稿，待校对**
+
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+**EN** Emily Pitcher examines how game-design decisions can encourage fandom and support organic marketing.
+
+**中文** Emily Pitcher 讨论游戏设计决策如何促进粉丝文化，并支持自然传播。
+
+<a id="gdc-2026-1035886"></a>
+
+## Inside Indie (Self) Publishing
+
+讲者：Rebekah Saltsman  
+机构：Finji  
+官方方向：Business Strategy  
+元数据：已核对公开详情页
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035886/>)（公开页面）
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1036020/>)（公开页面）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Inside+Indie+%28Self%29+Publishing>)（搜索入口）
+
+**双语摘要 · AI 辅助初稿，待校对**
+
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+**EN** Finji discusses indie publishing and self-publishing through the concerns of publishers, platforms, and developers.
+
+**中文** Finji 从发行商、平台及开发者的关注点出发，讨论独立发行与自行发行。
+
+<a id="gdc-2026-1035896"></a>
+
+## Launching 'Phasmophobia' on Consoles (and Somehow Not F**king It Up)
+
+讲者：Asim Tanvir  
+机构：Kinetic Games  
+官方方向：Discovery &amp; Marketing  
+元数据：来自官方目录，讲者等信息待详情复核
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035896/>)（需会员）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Launching+%27Phasmophobia%27+on+Consoles+%28and+Somehow+Not+F%2A%2Aking+It+Up%29>)（搜索入口）
+
+**双语摘要 · 待整理**
+
+待依据官方公开简介、演讲或讲者文章整理。
+
+<a id="gdc-2026-1035900"></a>
+
+## Lessons Learned in Running a Game the Hard Way: How Blizzard Revitalized 'Overwatch'
+
+讲者：Aaron Keller  
+机构：Blizzard Entertainment  
+官方方向：Business Strategy  
+元数据：来自官方目录，讲者等信息待详情复核
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035900/>)（需会员）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Lessons+Learned+in+Running+a+Game+the+Hard+Way%3A+How+Blizzard+Revitalized+%27Overwatch%27>)（搜索入口）
+
+**双语摘要 · 待整理**
+
+待依据官方公开简介、演讲或讲者文章整理。
+
+<a id="gdc-2026-1035902"></a>
+
+## LiveOps Moneyball: 10 Monetization Trends Driving 1.5x Revenue Growth
+
+讲者：Stan Minasov  
+机构：AppMagic  
+官方方向：Product Management  
+元数据：来自官方目录，讲者等信息待详情复核
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035902/>)（需会员）
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1036057/>)（需会员）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+LiveOps+Moneyball%3A+10+Monetization+Trends+Driving+1.5x+Revenue+Growth>)（搜索入口）
+
+**双语摘要 · 待整理**
+
+待依据官方公开简介、演讲或讲者文章整理。
+
+<a id="gdc-2026-1035905"></a>
+
+## Marketing is Art: Working with Your Team to Get What You Need
+
+讲者：Joe Tirado  
+机构：System Era Softworks/Latinos In Gaming  
+官方方向：Discovery &amp; Marketing  
+元数据：来自官方目录，讲者等信息待详情复核
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035905/>)（需会员）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Marketing+is+Art%3A+Working+with+Your+Team+to+Get+What+You+Need>)（搜索入口）
+
+**双语摘要 · 待整理**
+
+待依据官方公开简介、演讲或讲者文章整理。
+
+<a id="gdc-2026-1035704"></a>
+
+## Mastering Steam: Why Discovery is Hard and How to Break Through the Noise
+
+讲者：Ichiro Lambe  
+机构：Totally Human Media Corp  
+官方方向：Discovery &amp; Marketing  
+元数据：已核对公开详情页
+
+**官方资料与相关文章**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035704/>)（公开页面）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035909/>)（需会员）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Mastering+Steam%3A+Why+Discovery+is+Hard+and+How+to+Break+Through+the+Noise>)（搜索入口）
+
+**双语摘要 · AI 辅助初稿，待校对**
+
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+**EN** This Steam marketing session examines why discovery is difficult and challenges outdated promotional assumptions.
+
+**中文** 本场 Steam 营销分享分析内容发现的困难，并反思过时的推广假设。
+
+<a id="gdc-2026-1035612"></a>
+
+## Maximize Your Game's Potential on the App Store (Presented by Apple)
+
+讲者：Abhishek Radhakrishnan / Kelli King / Nadia Thorne  
+机构：Apple / Black Salt Games  
+官方方向：Business Strategy  
+元数据：已核对公开详情页
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035612/>)（公开页面）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Maximize+Your+Game%27s+Potential+on+the+App+Store+%28Presented+by+Apple%29>)（搜索入口）
+
+**双语摘要 · AI 辅助初稿，待校对**
+
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+**EN** Apple outlines store features and practical approaches for reaching players with different game-business models.
+
+**中文** Apple 介绍面向不同游戏商业模式的商店功能，以及触达玩家的实际方法。
+
+<a id="gdc-2026-1035918"></a>
+
+## Monetization Systems That Work for Players and Studios
+
+讲者：Lee Ridout  
+机构：Sackbird Studios  
+官方方向：Product Management  
+元数据：来自官方目录，讲者等信息待详情复核
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035918/>)（需会员）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Monetization+Systems+That+Work+for+Players+and+Studios>)（搜索入口）
+
+**双语摘要 · 待整理**
+
+待依据官方公开简介、演讲或讲者文章整理。
+
+<a id="gdc-2026-1035920"></a>
+
+## No More Walled Gardens! D2C Playbook for Every Developer
+
+讲者：Michael Lewis  
+机构：OFC Ads  
+官方方向：Business Strategy  
+元数据：来自官方目录，讲者等信息待详情复核
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035920/>)（需会员）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+No+More+Walled+Gardens%21+D2C+Playbook+for+Every+Developer>)（搜索入口）
+
+**双语摘要 · 待整理**
+
+待依据官方公开简介、演讲或讲者文章整理。
+
+<a id="gdc-2026-1035934"></a>
+
+## Player-Value First: Doubling a Seven-Year-Old Live Game
+
+讲者：Jan Richter  
+机构：Sixteen Tons Entertainment  
+官方方向：Product Management  
+元数据：来自官方目录，讲者等信息待详情复核
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035934/>)（需会员）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Player-Value+First%3A+Doubling+a+Seven-Year-Old+Live+Game>)（搜索入口）
+
+**双语摘要 · 待整理**
+
+待依据官方公开简介、演讲或讲者文章整理。
+
+<a id="gdc-2026-1036047"></a>
+
+## Playing with the Shoggoth: Safety in Games with Generative AI (Presented by GameSafe)
+
+讲者：Reed Berkowitz  
+机构：Curiouser LLC  
+官方方向：Product Management  
+元数据：已核对公开详情页
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1036047/>)（公开页面）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Playing+with+the+Shoggoth%3A+Safety+in+Games+with+Generative+AI+%28Presented+by+GameSafe%29>)（搜索入口）
+
+**双语摘要 · AI 辅助初稿，待校对**
+
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+**EN** GameSafe discusses player-safety challenges when generative language models become part of live gameplay.
+
+**中文** GameSafe 讨论生成式语言模型进入实时玩法后，玩家安全面临的新挑战。
+
+<a id="gdc-2026-1035939"></a>
+
+## Press Startup: How to Raise Serious Funds, Ship Killer Products and Build Lasting Value like a Tech Business
+
+讲者：Paul Kilduff-Taylor  
+机构：Mode 7  
+官方方向：Business Strategy  
+元数据：来自官方目录，讲者等信息待详情复核
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035939/>)（需会员）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Press+Startup%3A+How+to+Raise+Serious+Funds%2C+Ship+Killer+Products+and+Build+Lasting+Value+like+a+Tech+Business>)（搜索入口）
+
+**双语摘要 · 待整理**
+
+待依据官方公开简介、演讲或讲者文章整理。
+
+<a id="gdc-2026-1035943"></a>
+
+## Rating the Future: Evolving Content Standards Across UGC Games
+
+讲者：Hannah Gallagher  
+机构：Meta  
+官方方向：Discovery &amp; Marketing  
+元数据：来自官方目录，讲者等信息待详情复核
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035943/>)（需会员）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Rating+the+Future%3A+Evolving+Content+Standards+Across+UGC+Games>)（搜索入口）
+
+**双语摘要 · 待整理**
+
+待依据官方公开简介、演讲或讲者文章整理。
+
+<a id="gdc-2026-1035944"></a>
+
+## Recent Bets &amp; Outcomes from Supercell's 'Clash Royale'
+
+讲者：James Back  
+机构：Supercell  
+官方方向：Product Management  
+元数据：来自官方目录，讲者等信息待详情复核
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035944/>)（需会员）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Recent+Bets+%26+Outcomes+from+Supercell%27s+%27Clash+Royale%27>)（搜索入口）
+
+**双语摘要 · 待整理**
+
+待依据官方公开简介、演讲或讲者文章整理。
+
+<a id="gdc-2026-1035945"></a>
+
+## Refreshing the Core Mechanics Fun After 1 Year of LiveOps in 'Infinity Nikki'
+
+讲者：PR Peng  
+机构：Infold Games (Papergames)  
+官方方向：Product Management  
+元数据：来自官方目录，讲者等信息待详情复核
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035945/>)（需会员）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Refreshing+the+Core+Mechanics+Fun+After+1+Year+of+LiveOps+in+%27Infinity+Nikki%27>)（搜索入口）
+
+**双语摘要 · 待整理**
+
+待依据官方公开简介、演讲或讲者文章整理。
+
+<a id="gdc-2026-1035694"></a>
+
+## Remaster, Reboot, Reinvent: Case Studies in 'Wizardry' IP Revival
+
+讲者：Hiroaki Murao  
+机构：Drecom Co. / Ltd.  
+官方方向：Business Strategy  
+元数据：已核对公开详情页
+
+**官方资料与相关文章**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035694/>)（公开页面）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035947/>)（需会员）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Remaster%2C+Reboot%2C+Reinvent%3A+Case+Studies+in+%27Wizardry%27+IP+Revival>)（搜索入口）
+
+**双语摘要 · AI 辅助初稿，待校对**
+
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+**EN** Drecom reflects on reviving Wizardry through remastering, rebooting, and renewed use of a legacy franchise.
+
+**中文** Drecom 回顾通过重制、重启及重新开发经典 IP，复兴《Wizardry》的实践。
+
+<a id="gdc-2026-1035954"></a>
+
+## Short Form Futures: How AI Turned MMO Players into TikTok Creators
+
+讲者：Chang Liu  
+机构：NetEase  
+官方方向：Product Management  
+元数据：来自官方目录，讲者等信息待详情复核
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035954/>)（需会员）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Short+Form+Futures%3A+How+AI+Turned+MMO+Players+into+TikTok+Creators>)（搜索入口）
+
+**双语摘要 · 待整理**
+
+待依据官方公开简介、演讲或讲者文章整理。
+
+<a id="gdc-2026-1035956"></a>
+
+## Six Figures in 30 Days: How We Turned a Funding Crisis into a Kickstarter Success
+
+讲者：Niina Fujioka  
+机构：Playable Worlds, Inc.  
+官方方向：Business Strategy  
+元数据：来自官方目录，讲者等信息待详情复核
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035956/>)（需会员）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Six+Figures+in+30+Days%3A+How+We+Turned+a+Funding+Crisis+into+a+Kickstarter+Success>)（搜索入口）
+
+**双语摘要 · 待整理**
+
+待依据官方公开简介、演讲或讲者文章整理。
+
+<a id="gdc-2026-1035962"></a>
+
+## Steam Annual Update: The Latest on Steam in 2026
+
+**Steam 年度更新：2026年最新进展**
+
+讲者：Kaci Aitchison Boyle  
+机构：Valve  
+官方方向：Business Strategy  
+元数据：来自官方目录，讲者等信息待详情复核
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035962/>)（需会员）
+
+**YouTube 演讲**
+
+- [Steam Platform 2026: How Valve is Helping Game Developers Succeed on PC Gaming](<https://www.youtube.com/watch?v=h1ivZzEyNFY>) · GDC Festival of Gaming · 2026-10-21 核验
+
+**双语摘要 · 待整理**
+
+待依据官方公开简介、演讲或讲者文章整理。
+
+<a id="gdc-2026-1035969"></a>
+
+## Sustaining Revenue in Single-Player Games with a Lean GaaS Strategy: What Works, What Doesn't
+
+讲者：Michael Schade  
+机构：ROCKFISH Games GmbH  
+官方方向：Product Management  
+元数据：来自官方目录，讲者等信息待详情复核
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035969/>)（需会员）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Sustaining+Revenue+in+Single-Player+Games+with+a+Lean+GaaS+Strategy%3A+What+Works%2C+What+Doesn%27t>)（搜索入口）
+
+**双语摘要 · 待整理**
+
+待依据官方公开简介、演讲或讲者文章整理。
+
+<a id="gdc-2026-1035659"></a>
+
+## The Data Driven Advantage: Optimizing VR Games with Analytics (Presented by Meta)
+
+讲者：Chong Ahn  
+机构：Meta  
+官方方向：Business Strategy  
+元数据：已核对公开详情页
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035659/>)（公开页面）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+The+Data+Driven+Advantage%3A+Optimizing+VR+Games+with+Analytics+%28Presented+by+Meta%29>)（搜索入口）
+
+**双语摘要 · AI 辅助初稿，待校对**
+
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+**EN** Meta explores using developer-dashboard analytics and studio case studies to improve VR game decisions.
+
+**中文** Meta 结合开发者面板分析与工作室案例，讨论如何改善 VR 游戏决策。
+
+<a id="gdc-2026-1035986"></a>
+
+## The Invisible Layer: Redesigning Communication and Navigation in 'Candy Crush Soda Saga'
+
+讲者：Liza Dobrovoljc  
+机构：King  
+官方方向：Product Management  
+元数据：来自官方目录，讲者等信息待详情复核
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035986/>)（需会员）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+The+Invisible+Layer%3A+Redesigning+Communication+and+Navigation+in+%27Candy+Crush+Soda+Saga%27>)（搜索入口）
+
+**双语摘要 · 待整理**
+
+待依据官方公开简介、演讲或讲者文章整理。
+
+<a id="gdc-2026-1035715"></a>
+
+## The Monetization Paradox: How Doing the Opposite of What's Expected Drove Revenue Growth
+
+讲者：Naama Frenkel  
+机构：SciPlay  
+官方方向：Product Management  
+元数据：已核对公开详情页
+
+**官方资料与相关文章**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035715/>)（公开页面）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035988/>)（公开页面）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+The+Monetization+Paradox%3A+How+Doing+the+Opposite+of+What%27s+Expected+Drove+Revenue+Growth>)（搜索入口）
+
+**双语摘要 · AI 辅助初稿，待校对**
+
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+**EN** This monetization session questions pressure-based design and examines generosity as a potential revenue strategy.
+
+**中文** 本场商业化分享反思施压式设计，探讨慷慨机制作为收益策略的可能性。
+
+<a id="gdc-2026-1035991"></a>
+
+## The Player-Centric Engine: CRM's Role in Enabling Cross-Functional Growth for 'Candy Crush Saga'
+
+讲者：Salome Gozalishvili  
+机构：King  
+官方方向：Discovery &amp; Marketing  
+元数据：来自官方目录，讲者等信息待详情复核
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035991/>)（需会员）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+The+Player-Centric+Engine%3A+CRM%27s+Role+in+Enabling+Cross-Functional+Growth+for+%27Candy+Crush+Saga%27>)（搜索入口）
+
+**双语摘要 · 待整理**
+
+待依据官方公开简介、演讲或讲者文章整理。
+
+<a id="gdc-2026-1035996"></a>
+
+## The State of AI-Native Games
+
+讲者：Eleanor Todd  
+机构：Fablegate  
+官方方向：Business Strategy  
+元数据：来自官方目录，讲者等信息待详情复核
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035996/>)（需会员）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+The+State+of+AI-Native+Games>)（搜索入口）
+
+**双语摘要 · 待整理**
+
+待依据官方公开简介、演讲或讲者文章整理。
+
+<a id="gdc-2026-1035723"></a>
+
+## The State of PC and Console Games in 2026
+
+讲者：Ben Porter  
+机构：Newzoo  
+官方方向：Business Strategy  
+元数据：已核对公开详情页
+
+**官方资料与相关文章**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035723/>)（公开页面）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035998/>)（需会员）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+The+State+of+PC+and+Console+Games+in+2026>)（搜索入口）
+
+**双语摘要 · AI 辅助初稿，待校对**
+
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+**EN** Newzoo presents a PC and console market overview drawing on global datasets and player research.
+
+**中文** Newzoo 基于全球数据集与玩家研究，介绍 PC 和主机游戏市场状况。
+
+<a id="gdc-2026-1036002"></a>
+
+## The Year in Live Service Games: 2026 Edition
+
+讲者：Steve Meretzky  
+机构：PeopleFun  
+官方方向：Product Management  
+元数据：来自官方目录，讲者等信息待详情复核
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1036002/>)（需会员）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+The+Year+in+Live+Service+Games%3A+2026+Edition>)（搜索入口）
+
+**双语摘要 · 待整理**
+
+待依据官方公开简介、演讲或讲者文章整理。
+
+<a id="gdc-2026-1036042"></a>
+
+## Toxic Players After Punishment: Rehabilitation and Prosocial Play (Presented by GameSafe)
+
+讲者：Yubo Kou  
+机构：The Pennsylvania State University  
+官方方向：Product Management  
+元数据：已核对公开详情页
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1036042/>)（公开页面）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Toxic+Players+After+Punishment%3A+Rehabilitation+and+Prosocial+Play+%28Presented+by+GameSafe%29>)（搜索入口）
+
+**双语摘要 · AI 辅助初稿，待校对**
+
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+**EN** GameSafe explores rehabilitation and prosocial behavior beyond detection and punishment of toxic players.
+
+**中文** GameSafe 探讨检测、惩罚有害玩家之外，促进其改善行为与积极互动的方式。
+
+<a id="gdc-2026-1035663"></a>
+
+## VR LiveOps: Sustaining Player Engagement &amp; Monetization (Presented by Meta)
+
+讲者：Patricia Wayne / David Yee  
+机构：Meta / Another Axiom  
+官方方向：Business Strategy  
+元数据：已核对公开详情页
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035663/>)（公开页面）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+VR+LiveOps%3A+Sustaining+Player+Engagement+%26+Monetization+%28Presented+by+Meta%29>)（搜索入口）
+
+**双语摘要 · 待整理**
+
+待依据官方公开简介、演讲或讲者文章整理。
+
+<a id="gdc-2026-1035665"></a>
+
+## We Built the Wrong Games First: Failing Forward to 'UG', VR's Fastest-Growing Game (Presented by Meta)
+
+讲者：Spencer Cook / Michael Murdock / Kyle Sills  
+机构：Continuum  
+官方方向：Business Strategy  
+元数据：已核对公开详情页
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035665/>)（公开页面）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+We+Built+the+Wrong+Games+First%3A+Failing+Forward+to+%27UG%27%2C+VR%27s+Fastest-Growing+Game+%28Presented+by+Meta%29>)（搜索入口）
+
+**双语摘要 · AI 辅助初稿，待校对**
+
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+**EN** UG's developers reflect on early experiments and failed assumptions that informed the successful VR game.
+
+**中文** 《UG》开发者回顾早期实验与失败假设，说明这些经历如何促成后来的 VR 游戏。
+
+<a id="gdc-2026-1036048"></a>
+
+## Weaponized Play: How Extremist Networks are Targeting Children in Online Games (Presented by GameSafe)
+
+讲者：Katia Potapov / Rita Fabi / Jang Kim / Jessa Mellea  
+机构：Tech Coalition / Roblox / Global Internet Forum to Counter Terrorism (GIFCT)  
+官方方向：Product Management  
+元数据：已核对公开详情页
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1036048/>)（公开页面）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Weaponized+Play%3A+How+Extremist+Networks+are+Targeting+Children+in+Online+Games+%28Presented+by+GameSafe%29>)（搜索入口）
+
+**双语摘要 · AI 辅助初稿，待校对**
+
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+**EN** GameSafe examines how extremist networks exploit online-game social features to target children.
+
+**中文** GameSafe 分析极端主义网络如何滥用在线游戏社交功能，将儿童作为目标。
+
+<a id="gdc-2026-1036006"></a>
+
+## Welcome Back: Updating the Returning Player Experience in 'Diablo Immortal'
+
+讲者：Nicole Maiorano  
+机构：Blizzard Entertainment  
+官方方向：Product Management  
+元数据：来自官方目录，讲者等信息待详情复核
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1036006/>)（需会员）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Welcome+Back%3A+Updating+the+Returning+Player+Experience+in+%27Diablo+Immortal%27>)（搜索入口）
+
+**双语摘要 · 待整理**
+
+待依据官方公开简介、演讲或讲者文章整理。
+
+<a id="gdc-2026-1036007"></a>
+
+## What I've Seen in Over 600 VR Launches: What to Do, What to Avoid, and Where to Make Impact Early
+
+讲者：Richard Duck  
+机构：Meta  
+官方方向：Discovery &amp; Marketing  
+元数据：来自官方目录，讲者等信息待详情复核
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1036007/>)（需会员）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+What+I%27ve+Seen+in+Over+600+VR+Launches%3A+What+to+Do%2C+What+to+Avoid%2C+and+Where+to+Make+Impact+Early>)（搜索入口）
+
+**双语摘要 · 待整理**
+
+待依据官方公开简介、演讲或讲者文章整理。
+
+<a id="gdc-2026-1035717"></a>
+
+## Why Good Games Fail: The Startup Audit Every Studio Needs
+
+讲者：Lucien Parsons  
+机构：OpsCat  
+官方方向：Business Strategy  
+元数据：已核对公开详情页
+
+**官方资料与相关文章**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035717/>)（公开页面）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1036011/>)（需会员）
+- [官方幻灯片](<https://media.gdcvault.com/gdc2026/Slides/Parsons_Lucien_Why%20Good%20Games%20Fail.pptx>)
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+Why+Good+Games+Fail%3A+The+Startup+Audit+Every+Studio+Needs>)（搜索入口）
+
+**双语摘要 · AI 辅助初稿，待校对**
+
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+**EN** This studio-audit session offers a framework for identifying operational problems before they threaten a business.
+
+**中文** 本场工作室审视分享提供框架，帮助在问题威胁经营之前识别运营隐患。
+
+<a id="gdc-2026-1035716"></a>
+
+## You Owe It to Your Players: Creating Value with Effective Monetization in Mid-Core Free-to-Play
+
+讲者：Lukas Offerhaus  
+机构：InnoGames GmbH  
+官方方向：Business Strategy  
+元数据：已核对公开详情页
+
+**官方资料与相关文章**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035716/>)（公开页面）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1036015/>)（需会员）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2026+You+Owe+It+to+Your+Players%3A+Creating+Value+with+Effective+Monetization+in+Mid-Core+Free-to-Play>)（搜索入口）
+
+**双语摘要 · AI 辅助初稿，待校对**
+
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+**EN** Heroes of History provides a case study of player value and monetization design in mid-core free-to-play games.
+
+**中文** 以《Heroes of History》为例，探讨中度免费游戏中的玩家价值与商业化设计。
+
+
+<!-- Generated by python -m gdc_index build. -->

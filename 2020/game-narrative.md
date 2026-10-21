@@ -1,0 +1,180 @@
+# GDC 2020 · Game Narrative · 游戏叙事与表演
+
+[年度目录](README.md) · [项目首页](../README.md)
+
+共 6 场。资料来源核对日期：2026-10-21。
+
+> 本文件由结构化数据生成。摘要是基于所标注来源的中英文导读；初稿待校对。
+
+## 目录
+
+- [Game Narrative Summit: Conflict, Mystery, and Connection in Casual, Free to Play Puzzle Games](#gdc-2020-1026704)
+- [Game Narrative Summit: Storytelling with Verbs: Integrating Gameplay and Narrative](#gdc-2020-1026610)
+- [Game Narrative Summit: The Forest Paths Method for Accessible Narrative Design](#gdc-2020-1026705)
+- [Game Narrative Summit: The Narrative Innovation Showcase 2020](#gdc-2020-1026912)
+- [Multiple Middles &amp; Mutazione](#gdc-2020-1026609)
+- [The Narrative Innovation Showcase 2020: Mira Dorthe](#gdc-2020-1026925)
+
+---
+
+<a id="gdc-2020-1026704"></a>
+
+## Game Narrative Summit: Conflict, Mystery, and Connection in Casual, Free to Play Puzzle Games
+
+活动：GDC 2020
+
+讲者：Lisa Brunette  
+机构：Brunette Games / LLC  
+官方方向：Game Narrative Summit  
+元数据：已核对公开详情页
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1026704/>)（公开页面）
+
+**YouTube 演讲**
+
+- [Game Narrative Summit: Conflict, Mystery, and Connection in Casual, Free to Play Puzzle Games](<https://www.youtube.com/watch?v=gZi3pThb6Os>) · GDC Festival of Gaming · 2026-10-21 核验
+
+**双语摘要 · AI 辅助初稿，待校对**
+
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+**EN** Casual puzzle-game writers examine conflict, mystery, and relationships as tools for engaging stories.
+
+**中文** 休闲解谜游戏编剧讨论如何利用冲突、悬念与关系，构建吸引人的故事。
+
+<a id="gdc-2020-1026610"></a>
+
+## Game Narrative Summit: Storytelling with Verbs: Integrating Gameplay and Narrative
+
+活动：GDC 2020
+
+讲者：Kaitlin Tremblay  
+机构：Capybara Games  
+官方方向：Game Narrative Summit  
+元数据：已核对公开详情页
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1026610/>)（公开页面）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+Game+Narrative+Summit%3A+Storytelling+with+Verbs%3A+Integrating+Gameplay+and+Narrative>)（搜索入口）
+
+**双语摘要 · AI 辅助初稿，待校对**
+
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+**EN** Storytelling with Verbs explores connecting players' gameplay actions with narrative meaning.
+
+**中文** 《Storytelling with Verbs》探讨如何将玩家的操作行为与叙事含义连接起来。
+
+<a id="gdc-2020-1026705"></a>
+
+## Game Narrative Summit: The Forest Paths Method for Accessible Narrative Design
+
+活动：GDC 2020
+
+讲者：Alexander Swords  
+机构：Alexander Swords  
+官方方向：Game Narrative Summit  
+元数据：已核对公开详情页
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1026705/>)（公开页面）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+Game+Narrative+Summit%3A+The+Forest+Paths+Method+for+Accessible+Narrative+Design>)（搜索入口）
+
+**双语摘要 · AI 辅助初稿，待校对**
+
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+**EN** The Forest Paths method examines accessible approaches to structuring interactive narratives.
+
+**中文** Forest Paths 方法分享关注更易理解的互动叙事结构设计。
+
+<a id="gdc-2020-1026912"></a>
+
+## Game Narrative Summit: The Narrative Innovation Showcase 2020
+
+活动：GDC 2020
+
+讲者：Matthew Weise / Clara Fernandez-Vara / Hannah Nicklin / Carlos Rocha Silva / Mira Dorth / Chella Ramanan / Katharine Neil  
+机构：Empathy Box / NYU Game Center / Die Gute Fabrik / Dreams Uncorporated &amp; SYCK / Other Tales Interactive / 3-Fold Games / Independent  
+官方方向：Game Narrative Summit  
+元数据：已核对公开详情页
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1026912/>)（公开页面）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+Game+Narrative+Summit%3A+The+Narrative+Innovation+Showcase+2020>)（搜索入口）
+
+**双语摘要 · AI 辅助初稿，待校对**
+
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+**EN** Narrative innovators share short case studies of ambitions, development challenges, and solutions.
+
+**中文** 叙事创作者通过短案例，分享创新目标、开发挑战与解决方式。
+
+<a id="gdc-2020-1026609"></a>
+
+## Multiple Middles &amp; Mutazione
+
+活动：GDC 2020
+
+讲者：Hannah Nicklin  
+机构：Die Gute Fabrik  
+官方方向：Game Narrative Summit  
+元数据：已核对公开详情页
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1026609/>)（公开页面）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1026911/>)（公开页面）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+Multiple+Middles+%26+Mutazione>)（搜索入口）
+
+**双语摘要 · AI 辅助初稿，待校对**
+
+依据官方公开简介整理的导读；未声称覆盖完整演讲。
+
+**EN** Mutazione's narrative designer discusses the choices behind its storytelling structure.
+
+**中文** 《Mutazione》叙事设计师介绍故事结构背后的设计选择。
+
+<a id="gdc-2020-1026925"></a>
+
+## The Narrative Innovation Showcase 2020: Mira Dorthe
+
+活动：GDC 2020
+
+讲者：Mira Dorth  
+机构：Other Tales Interactive  
+官方方向：Game Narrative Summit  
+元数据：来自官方目录，讲者等信息待详情复核
+
+**官方资料与相关文章**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1026925/>)（公开页面）
+
+**YouTube 演讲**
+
+- 尚未收录已核实的视频链接。[按演讲名搜索 YouTube](<https://www.youtube.com/results?search_query=GDC+2020+The+Narrative+Innovation+Showcase+2020%3A+Mira+Dorthe>)（搜索入口）
+
+**双语摘要 · 待整理**
+
+待依据官方公开简介、演讲或讲者文章整理。
+
+
+<!-- Generated by python -m gdc_index build. -->

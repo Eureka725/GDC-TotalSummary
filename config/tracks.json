@@ -1,0 +1,16 @@
+[
+  {"slug": "audio", "en": "Audio", "zh": "游戏音频", "source_tracks": ["Audio", "Audio Summit"]},
+  {"slug": "business-marketing", "en": "Business & Marketing", "zh": "商业与市场", "source_tracks": ["Business Strategy", "Discovery & Marketing", "Product Management", "Business & Marketing", "Business and Marketing", "Marketing", "Community Management Summit", "Free-to-Play Summit", "Free to Play Summit", "Esports Summit"]},
+  {"slug": "design", "en": "Design", "zh": "游戏设计", "source_tracks": ["Design", "Tabletop", "Board Game Design Summit", "Tabletop Summit", "Level Design Summit", "UX Summit"]},
+  {"slug": "game-narrative", "en": "Game Narrative", "zh": "游戏叙事与表演", "source_tracks": ["Narrative & Performance", "Game Narrative", "Game Narrative Summit"]},
+  {"slug": "independent-games", "en": "Independent Games", "zh": "独立游戏", "source_tracks": ["Independent Development", "Independent Games", "Independent Games Summit"]},
+  {"slug": "production-team-leadership", "en": "Production & Team Leadership", "zh": "游戏制作与团队领导力", "source_tracks": ["Production", "Team Leadership", "Production & Team Leadership", "Production & Team Management", "Production Essentials Summit"]},
+  {"slug": "programming", "en": "Programming", "zh": "游戏程序与生产技术", "source_tracks": ["Game & Production Technology", "Programming", "AI", "AI Summit", "Advanced Graphics Summit", "Machine Learning Summit", "Math In Game Development Summit", "Online Game Technology Summit", "Open Source Game Development Summit", "Tools Summit"]},
+  {"slug": "visual-arts", "en": "Visual Arts", "zh": "游戏视觉艺术", "source_tracks": ["Visual Development", "Visual Art", "Visual Arts", "Animation Summit", "Art Direction Summit", "Technical Artist Summit", "Visual Effects Summit"]},
+  {"slug": "vr-ar", "en": "VR / AR", "zh": "虚拟现实与增强现实", "source_tracks": ["Game VR/AR", "VR / AR", "VR/AR", "Future Realities Summit", "Entertainment VR/AR"], "tags": ["Game VR/AR", "VR/AR", "Virtual Reality", "Augmented Reality"]},
+  {"slug": "culture-sustainability", "en": "Culture & Sustainability", "zh": "文化与可持续发展", "source_tracks": ["Culture & Sustainability", "Advocacy", "Fair Play Summit", "Climate Crisis Workshop"]},
+  {"slug": "educators", "en": "Educators", "zh": "游戏教育", "source_tracks": ["Educators", "Educators Summit"]},
+  {"slug": "career", "en": "Career", "zh": "职业发展", "source_tracks": ["Career", "Game Career / Education", "Career Development", "Career & Studio Development", "Game Career Seminar", "Student Program"]},
+  {"slug": "luminaries", "en": "Luminaries Speaker Series", "zh": "行业人物系列", "source_tracks": ["Luminaries Speaker Series"]},
+  {"slug": "special-events", "en": "Special Events", "zh": "特别活动", "source_tracks": ["Special Event", "Other"]}
+]

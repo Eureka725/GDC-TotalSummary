@@ -1,0 +1,21 @@
+name: 补充演讲资料／视频／文章
+description: 提供可核实的官方资料、YouTube 演讲或相关文章
+title: "[资料] "
+body:
+  - type: input
+    id: session
+    attributes:
+      label: 年份、演讲标题或索引 ID
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: 资料链接与对应关系
+      description: 请说明发布者、是否完整演讲，以及支持年份和讲者对应关系的来源。
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: 其他说明
