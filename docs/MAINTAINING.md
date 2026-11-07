@@ -46,6 +46,8 @@ python -m gdc_index build
 
 ## 补充文章与 YouTube
 
+优先补充可直接阅读的文章正文。核对时以未登录访问为准，确认正文完整、无需订阅，而不是只看到标题、摘要或试看内容；记录 `access: "free-full-text"` 和 `checked_at`，并用 `note` 说明是本场报道、讲者文章还是相关主题。`build` 会生成根目录及年度 `articles.md`，并在方向页优先展示。不能将 Vault 简介、议程页、视频或 PDF 标为免费全文文章；未取得正文时保留普通资料链接。
+
 文章记录保存在 `links.articles`，格式为：
 
 ```json

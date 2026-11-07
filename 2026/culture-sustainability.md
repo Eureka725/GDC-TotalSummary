@@ -1,6 +1,6 @@
 # GDC 2026 · Culture & Sustainability · 文化与可持续发展
 
-[年度目录](README.md) · [项目首页](../README.md)
+[本年度免费全文文章](articles.md) · [年度目录](README.md) · [项目首页](../README.md)
 
 共 29 场。资料来源核对日期：2026-10-21。
 
@@ -49,11 +49,18 @@
 官方方向：Culture &amp; Sustainability  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035670/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035753/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方幻灯片](<https://media.gdcvault.com/gdc2026/Slides/BARBOZA_LAIA_1REASONTOBE.pptx>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035670/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035753/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -78,10 +85,17 @@
 官方方向：Culture &amp; Sustainability  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035869/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/helldivers-and-the-art-of-the-living-game-designing-for-community-ownership/918330>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035869/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -108,10 +122,17 @@
 官方方向：Culture &amp; Sustainability  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035765/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/artists-do-you-want-to-fight-for-your-future/918117>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035765/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -138,10 +159,17 @@
 官方方向：Culture &amp; Sustainability  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035768/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/backed-by-data-built-with-care-telling-authentic-lgbtq-stories-in-video-games/914631>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035768/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -168,10 +196,17 @@
 官方方向：Culture &amp; Sustainability  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035787/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/building-the-cultural-world-of-indiana-jones-and-the-great-circle/914941>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035787/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -196,10 +231,14 @@
 官方方向：Culture &amp; Sustainability  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035734/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035810/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035734/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035810/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -222,9 +261,13 @@
 官方方向：Culture &amp; Sustainability  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035746/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035746/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -247,9 +290,13 @@
 官方方向：Culture &amp; Sustainability  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035825/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035825/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -272,9 +319,13 @@
 官方方向：Culture &amp; Sustainability  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035831/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035831/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -297,10 +348,14 @@
 官方方向：Culture &amp; Sustainability  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035729/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035855/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035729/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035855/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -323,9 +378,13 @@
 官方方向：Culture &amp; Sustainability  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035857/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035857/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -348,9 +407,13 @@
 官方方向：Culture &amp; Sustainability  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035874/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035874/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -375,10 +438,17 @@
 官方方向：Culture &amp; Sustainability  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035878/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/how-tabletop-games-could-help-us-improve-the-pro-social-design-of-digital-games/918329>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035878/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -403,10 +473,14 @@
 官方方向：Culture &amp; Sustainability  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035726/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035879/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035726/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035879/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -429,9 +503,13 @@
 官方方向：Culture &amp; Sustainability  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035888/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035888/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -454,9 +532,13 @@
 官方方向：Culture &amp; Sustainability  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035889/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035889/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -479,9 +561,13 @@
 官方方向：Culture &amp; Sustainability  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035890/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035890/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -504,10 +590,14 @@
 官方方向：Culture &amp; Sustainability  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035706/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035897/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035706/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035897/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -530,10 +620,14 @@
 官方方向：Culture &amp; Sustainability  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035669/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035923/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035669/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035923/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -556,9 +650,13 @@
 官方方向：Culture &amp; Sustainability  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035933/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035933/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -581,11 +679,18 @@
 官方方向：Culture &amp; Sustainability  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035688/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035938/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方幻灯片](<https://media.gdcvault.com/gdc2026/Slides/Fredley_Garrett_PreservationIsProfit.pptx>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035688/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035938/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -610,10 +715,17 @@
 官方方向：Culture &amp; Sustainability  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035968/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/surprise-and-delight-as-social-infrastructure/917866>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035968/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -638,9 +750,13 @@
 官方方向：Culture &amp; Sustainability  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035978/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035978/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -663,9 +779,13 @@
 官方方向：Culture &amp; Sustainability  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035989/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035989/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -688,9 +808,13 @@
 官方方向：Culture &amp; Sustainability  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035994/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035994/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -713,9 +837,13 @@
 官方方向：Culture &amp; Sustainability  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035997/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035997/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -738,9 +866,13 @@
 官方方向：Culture &amp; Sustainability  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1036000/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1036000/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -763,9 +895,13 @@
 官方方向：Culture &amp; Sustainability  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1036008/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1036008/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -788,9 +924,13 @@
 官方方向：Culture &amp; Sustainability  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1036012/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1036012/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 

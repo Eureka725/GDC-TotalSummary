@@ -10337,8 +10337,11 @@
       "links": {
         "articles": [
           {
-            "title": "讲者／发布方相关文章",
-            "url": "https://sensortower.com/blog/5-takeaways-from-gdc-2022"
+            "title": "Battle Passes, Merge Games, and NFTs: 5 Takeaways from GDC 2022",
+            "url": "https://sensortower.com/blog/5-takeaways-from-gdc-2022",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "现场综合报道，含本场订阅制议题；不是完整演讲实录。"
           }
         ],
         "youtube": []

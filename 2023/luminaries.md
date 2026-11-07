@@ -1,6 +1,6 @@
 # GDC 2023 · Luminaries Speaker Series · 行业人物系列
 
-[年度目录](README.md) · [项目首页](../README.md)
+[本年度免费全文文章](articles.md) · [年度目录](README.md) · [项目首页](../README.md)
 
 共 0 场。资料来源核对日期：2026-10-21。
 

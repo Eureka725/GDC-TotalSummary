@@ -253,6 +253,18 @@ def validate_dataset(data: dict, tracks: list[dict]) -> list[str]:
         for article in links.get("articles", []):
             if not valid_url(article.get("url", "")) or not article.get("title"):
                 errors.append(f"{name}: invalid article")
+            if "access" in article:
+                if article["access"] != "free-full-text":
+                    errors.append(f"{name}: invalid article access")
+                parsed = urlparse(article.get("url", ""))
+                if parsed.hostname in {"gdcvault.com", "www.gdcvault.com", "schedule.gdconf.com", "www.youtube.com", "youtube.com", "youtu.be"} or parsed.path.lower().endswith(".pdf"):
+                    errors.append(f"{name}: a material/overview page cannot be a free full-text article")
+                try:
+                    date.fromisoformat(article.get("checked_at", ""))
+                except (TypeError, ValueError):
+                    errors.append(f"{name}: invalid article checked_at")
+            if not isinstance(article.get("note", ""), str):
+                errors.append(f"{name}: article note must be text")
         for video in links.get("youtube", []):
             video_id = youtube_id(video.get("url", ""))
             if not video_id or not video.get("title") or not video.get("channel"):

@@ -1,6 +1,6 @@
 # GDC 2021 · Business & Marketing · 商业与市场
 
-[年度目录](README.md) · [项目首页](../README.md)
+[本年度免费全文文章](articles.md) · [年度目录](README.md) · [项目首页](../README.md)
 
 共 68 场。资料来源核对日期：2026-10-21。
 
@@ -90,9 +90,13 @@
 官方方向：Business &amp; Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027478/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027478/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -117,9 +121,13 @@
 官方方向：Business &amp; Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027142/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027142/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -144,9 +152,13 @@
 官方方向：Business &amp; Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027255/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027255/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -171,9 +183,13 @@
 官方方向：Business and Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1028698/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1028698/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -198,9 +214,13 @@
 官方方向：Business &amp; Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027495/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027495/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -227,10 +247,14 @@
 官方方向：Business &amp; Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027015/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027253/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027015/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027253/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -259,9 +283,13 @@
 官方方向：Business &amp; Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027151/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027151/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -290,10 +318,14 @@
 官方方向：Business &amp; Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027020/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027271/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027020/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027271/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -322,10 +354,14 @@
 官方方向：Community Management Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1026985/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027367/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1026985/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027367/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -354,10 +390,14 @@
 官方方向：Community Management Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027030/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027362/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027030/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027362/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -386,10 +426,14 @@
 官方方向：Community Management Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027053/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027364/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027053/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027364/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -418,9 +462,13 @@
 官方方向：Community Management Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027361/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027361/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -449,10 +497,14 @@
 官方方向：Community Management Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027087/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027365/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027087/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027365/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -481,10 +533,14 @@
 官方方向：Community Management Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027088/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027366/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027088/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027366/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -513,10 +569,14 @@
 官方方向：Business &amp; Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027127/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027272/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027127/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027272/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -545,9 +605,13 @@
 官方方向：Esports Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027405/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027405/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -576,10 +640,14 @@
 官方方向：Esports Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1026987/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027406/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1026987/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027406/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -608,9 +676,13 @@
 官方方向：Esports Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027412/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027412/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -639,9 +711,13 @@
 官方方向：Business &amp; Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027527/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027527/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -670,9 +746,13 @@
 官方方向：Business &amp; Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027256/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027256/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -701,9 +781,13 @@
 官方方向：Business &amp; Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027477/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027477/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -732,10 +816,14 @@
 官方方向：Business and Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1026961/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1028683/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1026961/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1028683/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -764,10 +852,14 @@
 官方方向：Free to Play Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027014/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027266/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027014/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027266/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -796,9 +888,13 @@
 官方方向：Free to Play Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027263/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027263/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -827,10 +923,14 @@
 官方方向：Free to Play Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027067/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027274/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027067/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027274/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -859,9 +959,13 @@
 官方方向：Free to Play Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027259/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027259/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -890,10 +994,14 @@
 官方方向：Free to Play Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027107/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027267/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027107/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027267/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -922,9 +1030,13 @@
 官方方向：Free to Play Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027275/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027275/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -953,9 +1065,13 @@
 官方方向：Free to Play Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027260/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027260/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -984,10 +1100,14 @@
 官方方向：Free to Play Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027054/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027262/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027054/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027262/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -1016,10 +1136,14 @@
 官方方向：Free to Play Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027103/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027268/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027103/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027268/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -1048,9 +1172,13 @@
 官方方向：Free to Play Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027270/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027270/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -1079,10 +1207,14 @@
 官方方向：Free to Play Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027057/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027273/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027057/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027273/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -1111,9 +1243,13 @@
 官方方向：Free to Play Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027264/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027264/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -1142,10 +1278,14 @@
 官方方向：Free to Play Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027039/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027261/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027039/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027261/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -1174,9 +1314,13 @@
 官方方向：Business and Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1028697/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1028697/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -1205,9 +1349,13 @@
 官方方向：Business &amp; Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027349/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027349/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -1236,9 +1384,13 @@
 官方方向：Business &amp; Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027524/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027524/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -1267,9 +1419,13 @@
 官方方向：Business &amp; Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027511/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027511/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -1298,9 +1454,13 @@
 官方方向：Business &amp; Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027517/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027517/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -1329,9 +1489,13 @@
 官方方向：Business and Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1026938/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1026938/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -1360,9 +1524,13 @@
 官方方向：Business &amp; Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027492/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027492/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -1391,10 +1559,14 @@
 官方方向：Business &amp; Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027091/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027247/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027091/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027247/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -1423,9 +1595,13 @@
 官方方向：Business &amp; Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027505/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027505/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -1454,9 +1630,13 @@
 官方方向：Business &amp; Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027516/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027516/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -1485,9 +1665,13 @@
 官方方向：Business &amp; Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027324/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027324/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -1516,9 +1700,13 @@
 官方方向：Business &amp; Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027509/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027509/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -1547,9 +1735,13 @@
 官方方向：Business and Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1028685/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1028685/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -1578,10 +1770,14 @@
 官方方向：Business &amp; Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027112/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027251/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027112/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027251/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -1608,10 +1804,14 @@
 官方方向：Business and Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1026962/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1028687/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1026962/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1028687/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -1636,10 +1836,14 @@
 官方方向：Business and Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1026963/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1028677/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1026963/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1028677/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -1666,9 +1870,13 @@
 官方方向：Business and Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1028675/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1028675/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -1697,9 +1905,13 @@
 官方方向：Business &amp; Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027480/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027480/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -1728,9 +1940,13 @@
 官方方向：Business &amp; Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027526/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027526/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -1759,9 +1975,13 @@
 官方方向：Business &amp; Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027507/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027507/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -1790,9 +2010,13 @@
 官方方向：Business &amp; Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027514/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027514/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -1821,9 +2045,13 @@
 官方方向：Business &amp; Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027481/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027481/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -1852,9 +2080,13 @@
 官方方向：Business &amp; Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027523/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027523/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -1883,10 +2115,14 @@
 官方方向：Business &amp; Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027040/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027248/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027040/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027248/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -1915,9 +2151,13 @@
 官方方向：Business &amp; Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027502/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027502/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -1946,9 +2186,13 @@
 官方方向：Business &amp; Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027515/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027515/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -1977,9 +2221,13 @@
 官方方向：Business &amp; Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027485/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027485/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -2008,10 +2256,14 @@
 官方方向：Business &amp; Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027095/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027249/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027095/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027249/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -2040,10 +2292,14 @@
 官方方向：Business &amp; Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1026970/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027402/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1026970/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027402/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -2072,9 +2328,13 @@
 官方方向：Business &amp; Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027525/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027525/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -2103,9 +2363,13 @@
 官方方向：Business &amp; Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027258/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027258/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -2134,10 +2398,14 @@
 官方方向：Business &amp; Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027134/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027398/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027134/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027398/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -2166,10 +2434,14 @@
 官方方向：Business &amp; Marketing  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027136/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027257/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1027136/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1027257/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 

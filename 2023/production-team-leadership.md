@@ -1,6 +1,6 @@
 # GDC 2023 · Production & Team Leadership · 游戏制作与团队领导力
 
-[年度目录](README.md) · [项目首页](../README.md)
+[本年度免费全文文章](articles.md) · [年度目录](README.md) · [项目首页](../README.md)
 
 共 37 场。资料来源核对日期：2026-10-21。
 
@@ -59,10 +59,14 @@
 官方方向：Production &amp; Team Leadership  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028742/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1028993/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028742/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1028993/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -89,10 +93,14 @@
 官方方向：Production &amp; Team Leadership  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028737/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1028985/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028737/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1028985/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -119,9 +127,13 @@
 官方方向：Production &amp; Team Leadership  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029132/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029132/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -146,9 +158,13 @@
 官方方向：Production &amp; Team Leadership  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029140/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029140/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -173,9 +189,13 @@
 官方方向：Production &amp; Team Leadership  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029141/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029141/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -200,9 +220,13 @@
 官方方向：Production &amp; Team Leadership  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029152/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029152/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -229,9 +253,13 @@
 官方方向：Production &amp; Team Leadership  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029156/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029156/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -260,9 +288,13 @@
 官方方向：Production &amp; Team Leadership  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029161/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029161/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -291,10 +323,14 @@
 官方方向：Production &amp; Team Leadership  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028795/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029163/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028795/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029163/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -323,9 +359,13 @@
 官方方向：Production &amp; Team Leadership  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029167/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029167/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -354,10 +394,14 @@
 官方方向：Production &amp; Team Leadership  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028801/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029173/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028801/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029173/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -386,9 +430,13 @@
 官方方向：Production &amp; Team Leadership  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029201/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029201/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -417,9 +465,13 @@
 官方方向：Production &amp; Team Leadership  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1034157/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1034157/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -448,9 +500,13 @@
 官方方向：Production &amp; Team Leadership  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029205/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029205/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -479,10 +535,14 @@
 官方方向：Production &amp; Team Leadership  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028811/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029207/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028811/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029207/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -511,9 +571,13 @@
 官方方向：Production &amp; Team Leadership  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029208/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029208/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -542,10 +606,14 @@
 官方方向：Production &amp; Team Leadership  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028815/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029220/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028815/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029220/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -574,10 +642,14 @@
 官方方向：Production &amp; Team Leadership  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028896/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029248/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028896/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029248/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -606,9 +678,13 @@
 官方方向：Production &amp; Team Leadership  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029250/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029250/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -637,10 +713,14 @@
 官方方向：Production &amp; Team Leadership  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028838/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029285/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028838/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029285/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -669,9 +749,13 @@
 官方方向：Production &amp; Team Leadership  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1034164/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1034164/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -700,9 +784,13 @@
 官方方向：Production Essentials Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029288/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029288/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -731,9 +819,13 @@
 官方方向：Production Essentials Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029289/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029289/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -762,9 +854,13 @@
 官方方向：Production Essentials Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029290/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029290/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -793,9 +889,13 @@
 官方方向：Production Essentials Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029291/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029291/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -824,10 +924,14 @@
 官方方向：Production Essentials Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028874/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029292/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028874/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029292/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -856,9 +960,13 @@
 官方方向：Production Essentials Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029293/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029293/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -887,10 +995,14 @@
 官方方向：Production &amp; Team Leadership  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028864/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029335/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028864/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029335/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -919,10 +1031,14 @@
 官方方向：Production &amp; Team Leadership  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028865/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029336/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028865/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029336/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -951,9 +1067,13 @@
 官方方向：Production &amp; Team Leadership  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1034159/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1034159/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -982,9 +1102,13 @@
 官方方向：Production &amp; Team Leadership  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029343/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029343/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -1013,9 +1137,13 @@
 官方方向：Production &amp; Team Leadership  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029344/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029344/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -1044,9 +1172,13 @@
 官方方向：Production &amp; Team Leadership  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029348/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029348/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -1075,9 +1207,13 @@
 官方方向：Production &amp; Team Leadership  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029361/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029361/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -1106,9 +1242,13 @@
 官方方向：Production &amp; Team Leadership  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029362/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029362/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -1137,9 +1277,13 @@
 官方方向：Production &amp; Team Leadership  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029363/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029363/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -1168,9 +1312,13 @@
 官方方向：Production &amp; Team Leadership  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029388/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029388/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 

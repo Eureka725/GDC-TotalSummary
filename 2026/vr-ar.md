@@ -1,6 +1,6 @@
 # GDC 2026 · VR / AR · 虚拟现实与增强现实
 
-[年度目录](README.md) · [项目首页](../README.md)
+[本年度免费全文文章](articles.md) · [年度目录](README.md) · [项目首页](../README.md)
 
 共 11 场。资料来源核对日期：2026-10-21。
 
@@ -31,9 +31,13 @@
 官方方向：Visual Development  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035656/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035656/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -56,9 +60,13 @@
 官方方向：Production  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035657/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035657/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -81,9 +89,13 @@
 官方方向：Business Strategy  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035659/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035659/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -106,9 +118,13 @@
 官方方向：Game &amp; Production Technology  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035660/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035660/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -131,9 +147,13 @@
 官方方向：Game &amp; Production Technology  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035661/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035661/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -156,9 +176,13 @@
 官方方向：Game &amp; Production Technology  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035662/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035662/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -183,11 +207,18 @@
 官方方向：Business Strategy  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035663/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [讲者／发布方相关文章](<https://developers.meta.com/vr/blog/vr-developer-roundup-april/>)
 - [Meta 官方演讲视频页（GDC 2026）](<https://developers.meta.com/resources/videos/VR-LiveOps-Sustaining-Player-Engagement-Monetization/>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035663/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -212,9 +243,13 @@
 官方方向：Game &amp; Production Technology  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035664/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035664/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -237,9 +272,13 @@
 官方方向：Business Strategy  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035665/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035665/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -264,10 +303,17 @@
 官方方向：Discovery &amp; Marketing  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1036007/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/what-ive-seen-in-over-600-vr-launches-what-to-do-what-to-avoid-and-where-to-make-impact-early/914779>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1036007/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -294,10 +340,17 @@
 官方方向：Design  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1036017/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/youre-the-controller-creating-intuitive-vr-handtracking-interactions/915337>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1036017/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 

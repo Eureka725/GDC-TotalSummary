@@ -262,7 +262,29 @@ class EditorialTests(unittest.TestCase):
         output = render_session(dataset()["sessions"][0], 2026)
         self.assertIn("（搜索入口）", output)
         self.assertIn("尚未收录已核实", output)
-        self.assertIn("官方资料与相关文章", output)
+        self.assertIn("演讲与幻灯片资料", output)
+
+    def test_free_article_precedes_vault_and_requires_explicit_verification(self):
+        item = dataset()["sessions"][0]
+        item["links"]["articles"] = [
+            {"title": "Unverified page", "url": "https://example.org/overview"},
+            {"title": "Readable article", "url": "https://example.org/article", "access": "free-full-text", "checked_at": "2026-11-07", "note": "本场报道"}]
+        output = render_session(item, 2026)
+        self.assertLess(output.index("Readable article"), output.index("GDC Vault"))
+        self.assertIn("其他补充资料（未核实为免费全文文章）", output)
+        from gdc_index.build import article_index
+        index = article_index([(2026, [item])], "")
+        self.assertIn("Readable article", index)
+        self.assertNotIn("Unverified page", index)
+        self.assertNotIn("gdcvault.com", index)
+
+    def test_full_text_article_rejects_vault_video_pdf_and_missing_date(self):
+        data = dataset()
+        for url in ["https://gdcvault.com/play/123/", "https://schedule.gdconf.com/session/test/123", "https://www.youtube.com/watch?v=XxvLyd4lKZM", "https://example.org/slides.pdf"]:
+            data["sessions"][0]["links"]["articles"] = [{"title": "Wrong type", "url": url, "access": "free-full-text"}]
+            errors = validate_dataset(data, TRACKS)
+            self.assertTrue(any("cannot be a free full-text article" in error for error in errors))
+            self.assertTrue(any("article checked_at" in error for error in errors))
 
     def test_summary_evidence_is_validated_and_rendered_with_scope(self):
         data = dataset()

@@ -1,6 +1,6 @@
 # GDC 2020 · Educators · 游戏教育
 
-[年度目录](README.md) · [项目首页](../README.md)
+[本年度免费全文文章](articles.md) · [年度目录](README.md) · [项目首页](../README.md)
 
 共 0 场。资料来源核对日期：2026-10-21。
 

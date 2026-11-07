@@ -1,6 +1,6 @@
 # GDC 2023 · Independent Games · 独立游戏
 
-[年度目录](README.md) · [项目首页](../README.md)
+[本年度免费全文文章](articles.md) · [年度目录](README.md) · [项目首页](../README.md)
 
 共 23 场。资料来源核对日期：2026-10-21。
 
@@ -45,9 +45,13 @@
 官方方向：Independent Games Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029181/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029181/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -72,9 +76,13 @@
 官方方向：Independent Games Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029196/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029196/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -99,9 +107,13 @@
 官方方向：Independent Games Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029175/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029175/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -126,10 +138,14 @@
 官方方向：Independent Games Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028735/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029176/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028735/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029176/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -154,10 +170,14 @@
 官方方向：Independent Games Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028756/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029177/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028756/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029177/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -184,9 +204,13 @@
 官方方向：Independent Games Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029178/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029178/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -215,9 +239,13 @@
 官方方向：Independent Games Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029179/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029179/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -246,10 +274,14 @@
 官方方向：Independent Games Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028773/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029180/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028773/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029180/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -278,10 +310,14 @@
 官方方向：Independent Games Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028775/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029182/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028775/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029182/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -310,10 +346,14 @@
 官方方向：Independent Games Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028789/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029184/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028789/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029184/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -342,9 +382,13 @@
 官方方向：Independent Games Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029185/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029185/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -373,10 +417,14 @@
 官方方向：Independent Games Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028792/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029186/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028792/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029186/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -405,10 +453,14 @@
 官方方向：Independent Games Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028793/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029187/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028793/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029187/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -437,9 +489,13 @@
 官方方向：Independent Games Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029188/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029188/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -468,9 +524,13 @@
 官方方向：Independent Games Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029189/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029189/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -499,9 +559,13 @@
 官方方向：Independent Games Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029190/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029190/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -530,10 +594,14 @@
 官方方向：Independent Games Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028825/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029191/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028825/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029191/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -560,10 +628,14 @@
 官方方向：Independent Games Summit  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028827/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029192/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028827/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029192/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -590,10 +662,14 @@
 官方方向：Independent Games Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028836/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029193/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028836/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029193/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -622,10 +698,14 @@
 官方方向：Independent Games Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028891/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1034155/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028891/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1034155/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -654,10 +734,14 @@
 官方方向：Independent Games Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028871/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029194/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1028871/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029194/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -686,9 +770,13 @@
 官方方向：Independent Games Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029195/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029195/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -717,9 +805,13 @@
 官方方向：Independent Games Summit  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029197/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1029197/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 

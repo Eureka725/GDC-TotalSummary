@@ -1,6 +1,6 @@
 # GDC 2026 · Production & Team Leadership · 游戏制作与团队领导力
 
-[年度目录](README.md) · [项目首页](../README.md)
+[本年度免费全文文章](articles.md) · [年度目录](README.md) · [项目首页](../README.md)
 
 共 27 场。资料来源核对日期：2026-10-21。
 
@@ -47,10 +47,14 @@
 官方方向：Team Leadership  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035683/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035764/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035683/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035764/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -75,10 +79,17 @@
 官方方向：Production  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035913/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/metro-awakening-development-post-mortem/917486>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035913/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -105,9 +116,13 @@
 官方方向：Team Leadership  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035762/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035762/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -130,10 +145,14 @@
 官方方向：Team Leadership  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035710/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035780/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035710/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035780/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -158,10 +177,17 @@
 官方方向：Team Leadership  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035785/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/building-and-sustaining-a-global-development-team-lessons-in-sustainable-game-production/914207>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035785/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -188,10 +214,17 @@
 官方方向：Team Leadership  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035790/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/casting-authentic-voices-across-cultures-navigating-multilingual-casting-for-aaa-games/914453>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035790/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -216,9 +249,13 @@
 官方方向：Team Leadership  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035792/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035792/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -243,10 +280,17 @@
 官方方向：Production  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035802/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/crafting-the-core-sonic-identity-of-battlefield-6-from-concept-to-execution/915535>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035802/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -271,9 +315,13 @@
 官方方向：Production  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035657/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035657/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -296,9 +344,13 @@
 官方方向：Team Leadership  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035639/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035639/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -323,10 +375,17 @@
 官方方向：Team Leadership  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035820/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/does-it-make-you-feel-like-a-wandering-ronin-creative-direction-for-ghost-of-ytei/915861>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035820/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -353,10 +412,17 @@
 官方方向：Team Leadership  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035862/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/genai-at-studios-leadership-tools-and-trust/917659>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035862/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -383,10 +449,17 @@
 官方方向：Production  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035865/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/getting-the-sequel-right-with-kingdom-come-deliverance-ii/917598>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035865/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -411,10 +484,14 @@
 官方方向：Team Leadership  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035696/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035868/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035696/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035868/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -437,9 +514,13 @@
 官方方向：Production  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035609/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035609/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -462,9 +543,13 @@
 官方方向：Production  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035654/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035654/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -489,10 +574,17 @@
 官方方向：Team Leadership  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035925/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/outsourcing-without-the-overhead-practical-tips-for-smarter-collaboration/915668>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035925/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -519,10 +611,17 @@
 官方方向：Team Leadership  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035930/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/pcap-in-the-trenches-battlefield-6-cinematics-at-scale/916913>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035930/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -547,9 +646,13 @@
 官方方向：Production  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035748/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035748/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -572,9 +675,13 @@
 官方方向：Production  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035749/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035749/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -597,9 +704,13 @@
 官方方向：Production  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035942/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035942/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -622,9 +733,13 @@
 官方方向：Production  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035966/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035966/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -647,9 +762,13 @@
 官方方向：Production  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1036041/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1036041/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -674,10 +793,17 @@
 官方方向：Production  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035983/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/the-future-of-game-knowledge-search-less-ship-more/914982>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035983/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -704,10 +830,17 @@
 官方方向：Team Leadership  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035984/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/the-goldilocks-principle-right-sizing-process-for-growing-teams/915685>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035984/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -732,10 +865,14 @@
 官方方向：Production  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035727/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035993/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035727/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035993/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -760,10 +897,17 @@
 官方方向：Team Leadership  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1036010/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/when-your-aaa-game-isnt-fun-the-arc-raiders-story-of-starting-over-with-intent/918328>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1036010/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 

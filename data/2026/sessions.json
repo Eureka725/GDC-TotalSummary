@@ -232,6 +232,13 @@
           {
             "title": "官方议程简介（历史页面）",
             "url": "https://schedule.gdconf.com/session/battlefield-6-game-feel-is-the-message/915257"
+          },
+          {
+            "url": "https://www.gamedeveloper.com/design/using-choreography-to-enhance-battlefield-6-s-game-feel",
+            "title": "Using choreography to enhance Battlefield 6's game feel",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "本场大会报道：动作编排、视觉反馈与操作手感。"
           }
         ],
         "youtube": []
@@ -489,6 +496,13 @@
           {
             "title": "官方议程简介（历史页面）",
             "url": "https://schedule.gdconf.com/session/corgispace-what-i-learned-from-making-15-games-this-year/917436"
+          },
+          {
+            "url": "https://www.gamedeveloper.com/design/finding-inspiration-and-a-bit-of-hope-in-corgispace",
+            "title": "Finding inspiration and a bit of hope in CorgiSpace",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "本场参会回顾与评论：短周期小型游戏创作实践。"
           }
         ],
         "youtube": []
@@ -649,7 +663,15 @@
         "source_hash": "5f37bac5a9ce5b731b24e93f71b3906667113ad5b82355f938d61f854e80a232"
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.gamedeveloper.com/design/how-improvisation-and-kicking-a-ball-around-drove-authenticity-in-despelote",
+            "title": "How improvisation and kicking a ball around drove authenticity in Despelote",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "本场大会报道：即兴表演与生活经验如何塑造真实感。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -1124,7 +1146,15 @@
         "source_hash": "47e8458c56fcb544e009cafa533fb9cb517540194f784360f4070adf847bba4a"
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.gamedeveloper.com/design/resource-management-survival-games-are-about-time-management-",
+            "title": "Resource management? Survival games are about time management.",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "本场大会报道：生存系统中的时间、压力与失败循环。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -4705,6 +4735,13 @@
           {
             "title": "官方议程简介（历史页面）",
             "url": "https://schedule.gdconf.com/session/constructive-destruction-fusing-voxel-tech-and-3d-action-platforming-in-donkey-kong-bananza/916931"
+          },
+          {
+            "url": "https://www.gamedeveloper.com/design/how-voxels-enabled-a-juicy-gameplay-loop-in-donkey-kong-bananza",
+            "title": "How voxels enabled a juicy gameplay loop in Donkey Kong Bananza",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "大会报道与后续采访：体素破坏如何串联战斗和探索。"
           }
         ],
         "youtube": []
@@ -5693,6 +5730,13 @@
           {
             "title": "官方议程简介（历史页面）",
             "url": "https://schedule.gdconf.com/session/designing-the-final-level-of-split-fiction/917468"
+          },
+          {
+            "url": "https://www.gamedeveloper.com/design/split-fiction-s-final-level-concept-was-originally-meant-for-the-whole-game",
+            "title": "Split Fiction's final level concept was originally meant for the whole game",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "本场大会报道：双世界合作关卡的原型与范围取舍；含终章剧透。"
           }
         ],
         "youtube": []
@@ -15222,8 +15266,11 @@
       "links": {
         "articles": [
           {
-            "title": "大会报道",
-            "url": "https://www.gamedeveloper.com/marketing/important-lessons-from-running-a-successful-video-game-crowdfunding-campaign"
+            "title": "Important lessons from running a successful video game crowdfunding campaign",
+            "url": "https://www.gamedeveloper.com/marketing/important-lessons-from-running-a-successful-video-game-crowdfunding-campaign",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "本场大会报道：《Stars Reach》的众筹经验。"
           }
         ],
         "youtube": []

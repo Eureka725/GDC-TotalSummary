@@ -1,6 +1,6 @@
 # GDC 2026 · Game Narrative · 游戏叙事与表演
 
-[年度目录](README.md) · [项目首页](../README.md)
+[本年度免费全文文章](articles.md) · [年度目录](README.md) · [项目首页](../README.md)
 
 共 17 场。资料来源核对日期：2026-10-21。
 
@@ -39,10 +39,17 @@
 官方方向：Narrative &amp; Performance  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035773/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/best-practices-for-character-navigation-architecting-for-aaa-performance-and-robustness/917673>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035773/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -69,10 +76,17 @@
 官方方向：Narrative &amp; Performance  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035774/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/beyond-adaptation-designing-ips-that-live-across-games-series-and-everything-in-between/915254>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035774/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -99,10 +113,17 @@
 官方方向：Narrative &amp; Performance  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035781/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/bringing-narrative-to-disney-dreamlight-valley/914749>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035781/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -127,10 +148,14 @@
 官方方向：Narrative &amp; Performance  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035695/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035796/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035695/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035796/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -153,10 +178,14 @@
 官方方向：Narrative &amp; Performance  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035684/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035827/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035684/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035827/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -179,9 +208,13 @@
 官方方向：Narrative &amp; Performance  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035858/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035858/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -206,10 +239,17 @@
 官方方向：Narrative &amp; Performance  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035887/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/invisible-cameras-reimagining-cinematography-in-real-time-game-engines/914362>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035887/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -234,9 +274,13 @@
 官方方向：Narrative &amp; Performance  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035891/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035891/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -259,10 +303,14 @@
 官方方向：Narrative &amp; Performance  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035722/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035892/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035722/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035892/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -287,10 +335,17 @@
 官方方向：Narrative &amp; Performance  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035912/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/meaningful-reasons-to-wander-creating-open-world-engagement-in-ghost-of-yotei/914335>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035912/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -317,10 +372,17 @@
 官方方向：Narrative &amp; Performance  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035921/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/nobody-reads-anything-how-narrative-can-communicate-so-other-disciplines-actually-listen/914903>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035921/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -347,10 +409,17 @@
 官方方向：Narrative &amp; Performance  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035929/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/performance-and-direction-deep-dive/917340>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035929/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -377,10 +446,17 @@
 官方方向：Narrative &amp; Performance  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035963/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/stop-collaborate-and-listen-how-to-be-an-actors-favorite-director/913717>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035963/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -405,9 +481,13 @@
 官方方向：Narrative &amp; Performance  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035750/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035750/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -430,10 +510,14 @@
 官方方向：Narrative &amp; Performance  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035705/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035980/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035705/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035980/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -458,10 +542,17 @@
 官方方向：Narrative &amp; Performance  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1036003/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/turning-a-dead-genre-into-a-breakout-hit-the-story-behind-dispatch/915651>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1036003/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -486,11 +577,18 @@
 官方方向：Narrative &amp; Performance  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035678/>)（公开页面）
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1036013/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方幻灯片](<https://media.gdcvault.com/gdc2026/Slides/CorrieaDolin_AlexaRayAdam_WritingGamesforaDistractedPolarizedMediaIlliterateWorld.pptx>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 幻灯片资料页](<https://gdcvault.com/play/1035678/>)（公开页面；不是文章全文）
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1036013/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 

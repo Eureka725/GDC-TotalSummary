@@ -1,6 +1,6 @@
 # GDC 2026 · Luminaries Speaker Series · 行业人物系列
 
-[年度目录](README.md) · [项目首页](../README.md)
+[本年度免费全文文章](articles.md) · [年度目录](README.md) · [项目首页](../README.md)
 
 共 14 场。资料来源核对日期：2026-10-21。
 
@@ -36,10 +36,17 @@
 官方方向：Luminaries Speaker Series  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035759/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/ai-trends-and-futures-ask-me-anything/917360>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035759/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -64,9 +71,13 @@
 官方方向：Luminaries Speaker Series  
 元数据：已核对公开详情页
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035772/>)（公开页面）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035772/>)（公开页面；不是文章全文）
 
 **YouTube 演讲**
 
@@ -91,10 +102,17 @@
 官方方向：Luminaries Speaker Series  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035782/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/build-living-games-with-ai/918248>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035782/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -121,10 +139,17 @@
 官方方向：Luminaries Speaker Series  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035786/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/building-global-entertainment-worlds-from-gaming-ip/917854>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035786/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -151,10 +176,17 @@
 官方方向：Luminaries Speaker Series  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035788/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/building-the-next-growth-frontier-for-games-a-conversation-with-brian-ward-of-savvy-games-group/917449>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035788/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -181,10 +213,17 @@
 官方方向：Luminaries Speaker Series  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035818/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/discovery-and-distribution-in-a-multi-platform-multi-store-world/918322>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035818/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -211,11 +250,18 @@
 官方方向：Luminaries Speaker Series  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035821/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [NVIDIA 官方 GDC 2026 资料与回放](<https://www.nvidia.com/en-us/events/gdc/>)
 - [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/advances-in-rtx-driving-innovation-with-john-spitzer-vice-president-at-nvidia/917562>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035821/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -242,10 +288,17 @@
 官方方向：Luminaries Speaker Series  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035873/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/how-emerging-hardware-innovation-will-change-the-player-experience/917558>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035873/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -272,10 +325,17 @@
 官方方向：Luminaries Speaker Series  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035884/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/in-the-era-of-ai-how-is-tencent-games-technology-evolving-and-innovating/917815>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035884/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -302,10 +362,17 @@
 官方方向：Luminaries Speaker Series  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035911/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/mattels-future-of-play-how-iconic-ip-scales-across-platforms-in-a-digital-first-world/917542>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035911/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -332,10 +399,17 @@
 官方方向：Luminaries Speaker Series  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035931/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/play-beyond-the-game-how-cross-sector-marketers-are-driving-growth-and-innovation-in-interactive-entertainment/917359>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035931/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -362,10 +436,17 @@
 官方方向：Luminaries Speaker Series  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035975/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/the-algorithm-broke-entertainment-why-hollywood-and-games-are-losing-gen-z-and-how-to-win-them-back/917660>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035975/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -392,10 +473,17 @@
 官方方向：Luminaries Speaker Series  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035977/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/the-attention-equation-how-gaming-wins-consumer-focus-and-what-comes-next/914697>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035977/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
@@ -422,10 +510,17 @@
 官方方向：Luminaries Speaker Series  
 元数据：来自官方目录，讲者等信息待详情复核
 
-**官方资料与相关文章**
+**免费全文文章**
 
-- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035990/>)（需会员）
+尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+
+**其他补充资料（未核实为免费全文文章）**
+
 - [官方议程简介（历史页面）](<https://schedule.gdconf.com/session/the-next-wave-of-game-development-is-small-agile-social-and-live/918086>)
+
+**演讲与幻灯片资料**
+
+- [GDC Vault · 视频资料页](<https://gdcvault.com/play/1035990/>)（需会员；不是文章全文）
 
 **YouTube 演讲**
 
