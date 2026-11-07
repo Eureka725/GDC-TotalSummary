@@ -702,7 +702,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Humans aren't machines: Exploring the physiological effects of crunch](<https://www.gamedeveloper.com/marketing/humans-aren-t-machines-exploring-the-physiological-effects-of-crunch>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC2022 Ian Schreiber 关于 crunch 生理影响的现场报道；文章转述讲者观点。
 
 **演讲与幻灯片资料**
 

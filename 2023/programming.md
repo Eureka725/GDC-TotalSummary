@@ -196,7 +196,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [How Marvel's Spider-Man optimized its web-swings for PC gamers](<https://www.gamedeveloper.com/marketing/gdc-how-marvel-s-spider-man-weaved-an-optimized-web-for-pc-gamers>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC 2023《Marvel's Spider-Man Remastered》PC移植演讲报道。
 
 **演讲与幻灯片资料**
 
@@ -542,7 +543,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Using a modular system of maneuvers to design Psychonauts 2's boss fights in a hurry](<https://www.gamedeveloper.com/marketing/using-a-modular-system-of-maneuvers-to-design-i-psychonauts-2-i-s-boss-fights-in-a-hurry>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC 2023 AI Summit Rebecca Vessal 演讲报道。
 
 **演讲与幻灯片资料**
 
@@ -1895,7 +1897,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Here are more details on Ubisoft's Ghostwriter AI tool from GDC 2023](<https://www.gamedeveloper.com/marketing/here-are-more-details-on-ubisoft-s-narrative-ai-tools-from-gdc-2023>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC 2023 Ben Swanson 自然语言生成演讲报道。
 
 **演讲与幻灯片资料**
 
@@ -2351,7 +2354,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Designing efficient systems for expressive matchmaking](<https://www.gamedeveloper.com/marketing/designing-efficient-systems-for-expressive-matchmaking>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC 2023 Chris Molozian 匹配系统演讲报道。
 
 **演讲与幻灯片资料**
 

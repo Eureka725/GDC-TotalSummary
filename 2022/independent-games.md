@@ -849,7 +849,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Inscryption's journey from game jam joint to cult classic](<https://www.gamedeveloper.com/marketing/-i-inscryption-s-i-journey-from-game-jam-joint-to-cult-classic>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC2022 Daniel Mullins 的 Inscryption 复盘报道，含剧透。
 
 **演讲与幻灯片资料**
 
@@ -991,7 +992,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [How the developers of Unpacking told a story with 1,000 items](<https://www.gamedeveloper.com/marketing/unpacking-a-narrative-through-1-000-household-items>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC2022 Wren Brier 与 Tim Dawson 的物品叙事场次报道，区别于拟音场次。
 
 **演讲与幻灯片资料**
 
@@ -1062,7 +1064,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- ["Games are not worth sacrificing your health over"](<https://www.gamedeveloper.com/marketing/games-are-not-worth-sacrificing-your-health-over>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC2022 Emma Kidwell 关于个人经历写作与创作者健康的现场报道。
 
 **演讲与幻灯片资料**
 

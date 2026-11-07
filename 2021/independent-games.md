@@ -78,7 +78,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [GDC 2021 Monday Wrap-up](<https://howtomarketagame.com/2021/07/20/gdc-2021-monday-wrap-up/>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：多会话参会笔记；本条指其中 Monster Train Postmortem 一节，兼有作者自己的营销分析。
 
 **演讲与幻灯片资料**
 
@@ -142,7 +143,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [GDC 2021 Tuesday Wrapup](<https://howtomarketagame.com/2021/07/21/gdc-2021-tuesday-wrapup/>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：多会话参会笔记；本条对应 Tim Repa-Davies 的 Contract Killers 部分。
 
 **演讲与幻灯片资料**
 
@@ -349,7 +351,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Systems in games like Frostpunk can express personal ideas, even unintentionally](<https://www.gamedeveloper.com/design/systems-in-games-like-i-frostpunk-i-can-express-personal-ideas-even-unintentionally>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC2021 Marta Fijak作者声音与系统设计会话报道，涉及原型中被撤销的敏感设计。
 
 **演讲与幻灯片资料**
 
@@ -555,7 +558,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [GDC 2021: One More Run: The Making of ‘Spelunky 2’ with Derek Yu](<https://howtomarketagame.com/2021/07/22/gdc-2021-one-more-run-the-making-of-spelunky-2-with-derek-yu/>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：Chris Zukowski 的参会笔记；区分其 CZ 评论和 Derek Yu 的演讲内容。
 
 **演讲与幻灯片资料**
 
@@ -659,7 +663,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Explaining the value of show don't tell storytelling in Outer Wilds](<https://www.gamedeveloper.com/business/explaining-the-value-of-show-don-t-tell-storytelling-in-i-outer-wilds-i->)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC 2021 Kelsey Beachum 好奇心探索叙事会话报道，含游戏地点机制剧透。
 
 **演讲与幻灯片资料**
 
@@ -766,7 +771,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Wishlist Wednesday: How much promotion should you be doing?](<https://howtomarketagame.com/2021/06/30/wishlist-wednesday-how-much-promotion-should-you-be-doing/>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：讲者 Chris Zukowski 在2021会话前发表的研究实质内容，正文自述来自该 GDC Steam Study；并非纯预告或完整会话转录。
 
 **演讲与幻灯片资料**
 

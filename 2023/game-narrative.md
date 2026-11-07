@@ -42,7 +42,10 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Telling stories and creating character arcs in Far Cry 6's open world](<https://www.gamedeveloper.com/marketing/telling-stories-and-creating-character-arcs-in-i-far-cry-6-i-s-open-world>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC 2023 Heli Kennedy、Brendan Hennessy 联合演讲报道，侧重Far Cry 6及Lost Between Worlds。
+- [How Watch Dogs: Legion changed Ubisoft's narrative design](<https://www.gamedeveloper.com/marketing/how-i-watch-dogs-legion-i-made-ubisoft-rethink-its-storytelling>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：同一场GDC 2023联合演讲的另一篇报道，侧重Watch Dogs: Legion，并含会后问答。
 
 **演讲与幻灯片资料**
 
@@ -106,7 +109,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Adding narrative texture to the people and places of Horizon Forbidden West](<https://www.gamedeveloper.com/marketing/adding-texture-to-the-people-and-places-of-horizon-forbidden-west>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC 2023 Espen Sogn 活世界叙事设计演讲报道。
 
 **演讲与幻灯片资料**
 
@@ -169,7 +173,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [How to give better feedback in game writing (and beyond)](<https://www.gamedeveloper.com/marketing/how-to-give-better-feedback-in-game-writing-and-beyond->)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC 2023 Alexa Ray Corriea 与 Lis Moberly 反馈方法演讲报道。
 
 **演讲与幻灯片资料**
 
@@ -308,7 +313,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [A seven-year blink of an eye: Before Your Eyes' woes deconstructed at GDC](<https://www.gamedeveloper.com/marketing/a-seven-year-blink-of-an-eye-before-your-eyes-s-dev-woes-deconstructed>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC 2023 Graham Parkes《Before Your Eyes》叙事实验与开发历程演讲报道。
 
 **演讲与幻灯片资料**
 
@@ -343,7 +349,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [How to create functional narrative outlines that your team will actually read](<https://www.gamedeveloper.com/marketing/how-to-create-functional-narrative-outlines-your-team-will-actually-read>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC 2023 Tyler Hutchison 叙事大纲演讲报道。
 
 **演讲与幻灯片资料**
 
@@ -553,7 +560,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Five tabletop RPG mechanics that video games should definitely steal](<https://www.gamedeveloper.com/marketing/five-tabletop-rpg-mechanics-that-video-games-should-definitely-steal>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC 2023 Evan Hill 桌游机制演讲的现场报道。
 
 **演讲与幻灯片资料**
 

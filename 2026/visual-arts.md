@@ -843,7 +843,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Ghost of Yotei isn't bigger than Ghost of Tsushima, but "it feels larger" because Sucker Punch tricked you into thinking so](<https://www.gamesradar.com/games/open-world/ghost-of-yotei-isnt-bigger-than-ghost-of-tsushima-but-it-feels-larger-because-sucker-punch-tricked-you-into-thinking-so/>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：本场现场报道：Joanna Wang 谈场景尺度感与空间对比。
 
 **其他补充资料（未核实为免费全文文章）**
 

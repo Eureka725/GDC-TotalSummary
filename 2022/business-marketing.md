@@ -795,7 +795,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Battle Passes, Merge Games, and NFTs: 5 Takeaways from GDC 2022](<https://sensortower.com/blog/5-takeaways-from-gdc-2022>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：现场综合报道，本条对应其中的合成游戏小节；不是完整演讲实录。
 
 **演讲与幻灯片资料**
 
@@ -831,7 +832,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Battle Passes, Merge Games, and NFTs: 5 Takeaways from GDC 2022](<https://sensortower.com/blog/5-takeaways-from-gdc-2022>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：现场综合报道，本条对应其中的Battle Pass小节；不是完整演讲实录。
 
 **演讲与幻灯片资料**
 
@@ -974,7 +976,7 @@
 **免费全文文章**
 
 - [Battle Passes, Merge Games, and NFTs: 5 Takeaways from GDC 2022](<https://sensortower.com/blog/5-takeaways-from-gdc-2022>)（无需登录／订阅，2026-11-07 核验）
-  - 阅读范围：现场综合报道，含本场订阅制议题；不是完整演讲实录。
+  - 阅读范围：现场综合报道，本条对应其中的订阅制小节；不是完整演讲实录。
 
 **演讲与幻灯片资料**
 
@@ -1116,7 +1118,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Battle Passes, Merge Games, and NFTs: 5 Takeaways from GDC 2022](<https://sensortower.com/blog/5-takeaways-from-gdc-2022>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：现场综合报道，本条对应其中的IP 与年度免费游戏观察小节；不是完整演讲实录。
 
 **演讲与幻灯片资料**
 
@@ -1553,7 +1556,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [How Among Us grew to nearly 3 million TikTok followers with metrics, personality, and memes](<https://www.gamedeveloper.com/marketing/how-among-us-grew-to-nearly-3-million-tiktok-followers-with-metrics-personality-and-memes>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC2022 Victoria Tran 关于 Among Us TikTok 策略的现场报道。
 
 **演讲与幻灯片资料**
 

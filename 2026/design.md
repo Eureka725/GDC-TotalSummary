@@ -102,7 +102,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Clair Obscur: Expedition 33 was built '95 percent' with Unreal Engine Blueprints](<https://www.gamedeveloper.com/programming/clair-obscur-expedition-33-was-built-95-percent-with-unreal-blueprints>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：本场大会报道：蓝图、接近原版的引擎与小团队制作流程。
 
 **其他补充资料（未核实为免费全文文章）**
 
@@ -177,6 +178,8 @@
 
 - [How improvisation and kicking a ball around drove authenticity in Despelote](<https://www.gamedeveloper.com/design/how-improvisation-and-kicking-a-ball-around-drove-authenticity-in-despelote>)（无需登录／订阅，2026-11-07 核验）
   - 阅读范围：本场大会报道：即兴表演与生活经验如何塑造真实感。
+- [The sounds and memories that made Despelote](<https://www.thumbsticks.com/the-sounds-and-memories-that-made-despelote/>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：本场大会报道：家乡声音、足球与记忆。
 
 **演讲与幻灯片资料**
 
@@ -493,6 +496,8 @@
 
 - [How voxels enabled a juicy gameplay loop in Donkey Kong Bananza](<https://www.gamedeveloper.com/design/how-voxels-enabled-a-juicy-gameplay-loop-in-donkey-kong-bananza>)（无需登录／订阅，2026-11-07 核验）
   - 阅读范围：大会报道与后续采访：体素破坏如何串联战斗和探索。
+- [Donkey Kong Bananza has a big-brained approach to asset recycling](<https://www.gamedeveloper.com/art/donkey-kong-bananza-has-a-big-brained-approach-to-asset-recycling>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：本场报道与后续采访：模型体素化和美术资产复用。
 
 **其他补充资料（未核实为免费全文文章）**
 
@@ -1097,7 +1102,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [How Obsidian fixed combat in The Outer Worlds 2](<https://www.thumbsticks.com/how-obsidian-fixed-combat-in-the-outer-worlds-2/>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：本场大会报道：伤害模型与战斗系统调整。
 
 **演讲与幻灯片资料**
 

@@ -423,7 +423,10 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [How WB Montreal made Gotham Knights' cutscenes work for four playable heroes](<https://www.gamedeveloper.com/marketing/how-wb-montreal-made-i-gotham-knights-i-cutscenes-work-for-four-heroes>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC 2023 Wilson Mui 动画峰会演讲报道，并含会后追问。
+- [How Gotham Knights handles telling a story with four ‘main’ characters](<https://www.thumbsticks.com/gotham-knights-a-story-with-four-main-characters/>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC 2023 Wilson Mui 同场过场设计演讲的另一家媒体长篇报道；与GameDeveloper版本对应同一演讲。
 
 **演讲与幻灯片资料**
 

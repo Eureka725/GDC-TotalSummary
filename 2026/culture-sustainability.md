@@ -161,7 +161,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Data and player sentiment highlight the value of authentic LGBTQ narratives](<https://www.gamedeveloper.com/design/data-and-player-sentiment-highlight-the-value-of-authentic-lgbtq-narratives>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：本场大会报道：GLAAD 的受众研究与真实角色呈现。
 
 **其他补充资料（未核实为免费全文文章）**
 
@@ -198,7 +199,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Indiana Jones and the Making of a Culturally Accurate Video Game](<https://www.thumbsticks.com/indiana-jones-and-the-making-of-a-culturally-accurate-video-game/>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：本场大会报道：文化化、历史考证与场景细节。
 
 **其他补充资料（未核实为免费全文文章）**
 

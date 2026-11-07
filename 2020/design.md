@@ -122,7 +122,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [How Teamfight Tactics was designed to target former League of Legends players](<https://www.gamedeveloper.com/design/how-i-teamfight-tactics-i-was-designed-to-target-former-i-league-of-legends-i-players>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：2020 年 GDC Summer 对 David Abecassis 设计分享的会话报道。
 
 **演讲与幻灯片资料**
 
@@ -457,7 +458,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [［GDC Summer］モバイルガチャシステムの進化を探る](<https://business.4gamer.net/article/2008/20080702/>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：日文 GDC Summer 2020 Jakub Remiar 抽卡系统会话报道，末尾含记者对分类的独立评价。
 
 **演讲与幻灯片资料**
 

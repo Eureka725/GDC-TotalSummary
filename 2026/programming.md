@@ -2586,7 +2586,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Tencent's genAI animation tools don't seem to make games more fun](<https://www.gamedeveloper.com/art/tencent-s-genai-animation-tools-don-t-seem-to-make-games-more-fun>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：本场演示后的采访与记者评论，非演讲全文；讨论《The Hidden Ones》的 AI 动画。
 
 **演讲与幻灯片资料**
 

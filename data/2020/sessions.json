@@ -380,7 +380,15 @@
         }
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.gamedeveloper.com/design/how-i-teamfight-tactics-i-was-designed-to-target-former-i-league-of-legends-i-players",
+            "title": "How Teamfight Tactics was designed to target former League of Legends players",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "2020 年 GDC Summer 对 David Abecassis 设计分享的会话报道。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -533,7 +541,15 @@
         }
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.4gamer.net/games/999/G999905/20200805081/",
+            "title": "［GDC Summer］なぜ女性プログラマーは少ないのか。ブレンダ・ロメロ氏がコンピュータの発展に貢献した女性の歴史を追ったセッションを実施",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "日文 GDC Summer 2020 会话报道，对应 Brenda Romero 的 Hidden Histories。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -1294,7 +1310,15 @@
         }
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.4gamer.net/games/394/G039457/20200813053/",
+            "title": "［GDC Summer］「Sky 星を紡ぐ子どもたち」，アートワーク進化の軌跡を日本人リードアーティストが語る",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "日文 GDC Summer 2020 Yuichiro Tanabe《Sky》美术分享报道。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -1404,7 +1428,15 @@
         }
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.gamedeveloper.com/audio/game-developers-conference-ask-me-anything-about-being-a-video-game-music-composer",
+            "title": "Game Developers Conference: Ask Me Anything about being a video game music composer",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "讲者2021年发布的2020 GDC Summer AMA编辑节录，主持人为Alissa McAloon；不是2021新讲座概要。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -3203,7 +3235,15 @@
         }
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.gamedeveloper.com/business/how-to-better-design-your-game-communities-for-kindness",
+            "title": "How to better design your game communities for kindness",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "GDC Summer 2020 会话报道；正文误将讲者姓氏在导语写作 Chan，但正文明确为 Victoria Tran。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -3313,7 +3353,15 @@
         }
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.4gamer.net/games/423/G042310/20200806087/",
+            "title": "［GDC Summer］Remedy Entertainmentが「CONTROL」のプロシージャル型破壊効果の実装から学んだこと",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "日文 GDC Summer 2020 Johannes Richter 程序化破坏会话报道。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -3715,7 +3763,15 @@
         }
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://business.4gamer.net/article/2008/20080702/",
+            "title": "［GDC Summer］モバイルガチャシステムの進化を探る",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "日文 GDC Summer 2020 Jakub Remiar 抽卡系统会话报道，末尾含记者对分类的独立评价。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -4371,7 +4427,15 @@
         }
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.gamedeveloper.com/production/inside-the-twisting-turning-development-of-i-hardspace-shipbreaker-i-",
+            "title": "Inside the twisting, turning development of Hardspace: Shipbreaker",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "GDC Summer 2020 对 Rory McGuire 与 Elliot Hudson 原创 IP 制作流程分享的报道。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -4545,7 +4609,43 @@
         "source_hash": "8ac2c35d0e6a4f7b3b43ce1e0618462bfcbb727f04850fe0deb27f38d0598066"
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.gamedeveloper.com/audio/game-composers-and-the-importance-of-themes-interactivity-in-game-music-pt-5-",
+            "title": "Game Composers and the Importance of Themes: Interactivity in Game Music (Pt. 5)",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "同讲者2020线上会话内容五篇系列终篇，重点是交互音乐与主题的取舍。"
+          },
+          {
+            "url": "https://www.gamedeveloper.com/audio/game-composers-and-the-importance-of-themes-repetition-in-game-music-pt-2-",
+            "title": "Game Composers and the Importance of Themes: Repetition in Game Music (Pt. 2)",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "同讲者2020会话内容系列第二篇，重点是重复与隐性主题。"
+          },
+          {
+            "url": "https://www.gamedeveloper.com/audio/game-composers-and-the-importance-of-themes-the-hook-in-game-music-pt-1-",
+            "title": "Game Composers and the Importance of Themes: The Hook in Game Music (Pt. 1)",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "讲者Winifred Phillips于2020年写的会话内容系列第一篇，含正式简介之外的实质教学，不是纯预告。"
+          },
+          {
+            "url": "https://www.gamedeveloper.com/audio/recurrence-and-rationale-in-game-music-game-composers-and-the-importance-of-themes-pt-4-",
+            "title": "Recurrence and Rationale in Game Music: Game Composers and the Importance of Themes (Pt. 4)",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "同讲者2020会话内容系列第四篇，讨论不同玩法下主题再现的叙事理由。"
+          },
+          {
+            "url": "https://www.gamedeveloper.com/audio/variation-and-fragmentation-in-game-music-game-composers-and-the-importance-of-themes-pt-3-",
+            "title": "Variation and Fragmentation in Game Music: Game Composers and the Importance of Themes (Pt. 3)",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "同讲者2020会话内容系列第三篇，重点是变奏与主题碎片化。"
+          }
+        ],
         "youtube": [
           {
             "title": "From Assassin's Creed to The Dark Eye: The Importance of Themes",
@@ -6548,7 +6648,15 @@
         "source_hash": "f9e7d8a4b1c3512a3b0c7623dec5c7f6b2ca3da1c084a50e2c2da6dc84ce68b1"
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.gamedeveloper.com/design/finding-smart-shortcuts-in-a-short-hike-postmortem-unlocking-the-vault-4",
+            "title": "Finding smart shortcuts in A Short Hike postmortem - Unlocking the Vault #4",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "2025 年对 Adam Robinson-Yu 2020 GDC Virtual 同名演讲的文字回顾，不是当年现场稿。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -6998,7 +7106,15 @@
         }
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.gamedeveloper.com/business/a-data-driven-primer-for-publishing-agreements",
+            "title": "A data-driven primer for publishing agreements",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "GDC Summer 2020 对 Kellen Voyer 发行合同数据研究会话的报道；历史数据不代表当前合同标准。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -8853,7 +8969,15 @@
         }
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://business.4gamer.net/article/2008/20081302/",
+            "title": "［GDC Summer］「Star Wars ジェダイ：フォールン・オーダー」における物理アニメーションの実装手法",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "日文技术现场报道，明确给出 Physical Animation in Star Wars Jedi: Fallen Order 会话名。"
+          }
+        ],
         "youtube": []
       }
     },

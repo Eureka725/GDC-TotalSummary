@@ -451,7 +451,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [［GDC 2021］「Hades」はギリシャ神話に息吹をどう吹き込んだのか？ Supergiant Games初のフル音声作品のキャスティング秘話](<https://www.4gamer.net/games/443/G044397/20210722011/>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：日文 GDC 2021 Greg Kasavin 与 Darren Korb 对话/配音会话报道。
 
 **演讲与幻灯片资料**
 
@@ -591,7 +592,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Horizontal Resequencing and Song Structure for Game Music Composers (From Spyder to Sackboy: GDC 2021)](<https://www.gamedeveloper.com/audio/horizontal-resequencing-and-song-structure-for-game-music-composers-from-spyder-to-sackboy-gdc-2021->)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：讲者Winifred Phillips在2021年会后写的六篇系列第一篇，作者说明另增了演讲限时未讲的解释。
 
 **演讲与幻灯片资料**
 

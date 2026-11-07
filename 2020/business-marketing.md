@@ -415,7 +415,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [A data-driven primer for publishing agreements](<https://www.gamedeveloper.com/business/a-data-driven-primer-for-publishing-agreements>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC Summer 2020 对 Kellen Voyer 发行合同数据研究会话的报道；历史数据不代表当前合同标准。
 
 **演讲与幻灯片资料**
 

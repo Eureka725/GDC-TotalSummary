@@ -2796,7 +2796,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- ["No one" cares about your game. Here's why that can be a good thing](<https://www.gamedeveloper.com/marketing/the-golden-rule-of-game-promotion-no-one-cares-about-your-game>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC 2023 Thomas Reisenegger 游戏推广演讲报道。
 
 **演讲与幻灯片资料**
 

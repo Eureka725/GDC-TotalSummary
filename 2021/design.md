@@ -134,7 +134,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Understanding the meaningless, micro-reactive, and marvellous writing of Disco Elysium](<https://www.gamedeveloper.com/business/understanding-the-meaningless-micro-reactive-and-marvellous-writing-of-i-disco-elysium-i->)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC 2021 Justin Keenan 会话报道，聚焦无工具性对话选择与微反应。
 
 **演讲与幻灯片资料**
 
@@ -263,7 +264,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Inside the thoughtful design of Thunder Lotus' Spiritfarer](<https://www.gamedeveloper.com/design/inside-the-thoughtful-design-of-thunder-lotus-i-spiritfarer-i->)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：2021 年对同一讲者 Nicolas Guerin 的 Road to the IGF 访谈，主题与温柔感设计相关；不是该 GDC 会话的转录。
 
 **演讲与幻灯片资料**
 
@@ -2152,7 +2154,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [［GDC 2021］「Ghost of Tsushima」を作り上げるうえで重要となった5つの要素とは。物語の進行と戦闘の関係を解説するセッション・Master of the Katanaをレポート](<https://www.4gamer.net/games/400/G040041/20210723010/>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：日文 GDC 2021 Master of the Katana 会话报道，对应 Chris Zimmerman；不是另一场 Lethality and Combat Balance。
 
 **演讲与幻灯片资料**
 

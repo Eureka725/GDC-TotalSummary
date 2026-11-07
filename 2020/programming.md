@@ -1283,7 +1283,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [［GDC Summer］「Star Wars ジェダイ：フォールン・オーダー」における物理アニメーションの実装手法](<https://business.4gamer.net/article/2008/20081302/>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：日文技术现场报道，明确给出 Physical Animation in Star Wars Jedi: Fallen Order 会话名。
 
 **演讲与幻灯片资料**
 

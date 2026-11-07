@@ -253,7 +253,15 @@
         "source_hash": "4549d2e8f815abfb64423ef032a0d6f03413822642d47e713f93e0a922bacadd"
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.gamedeveloper.com/business/understanding-the-meaningless-micro-reactive-and-marvellous-writing-of-i-disco-elysium-i-",
+            "title": "Understanding the meaningless, micro-reactive, and marvellous writing of Disco Elysium",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "GDC 2021 Justin Keenan 会话报道，聚焦无工具性对话选择与微反应。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -365,7 +373,15 @@
         "source_hash": "41d3d650c8daf0a2e25088c81bc3cfabebb603eb0a0dcbdc2ba01f2586b0d799"
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.4gamer.net/games/486/G048621/20210722010/",
+            "title": "［GDC 2021］「原神」は広大なマップでどのようにNPCのAIを管理しているのか",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "日文GDC2021 Shuo Xu可扩展AI系统会话技术报道。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -422,7 +438,15 @@
         "source_hash": "54cc811c90dd3813f0ac280219b52556ab8d51d48dc1a7afa8223468b06cc529"
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.4gamer.net/games/486/G048621/20210724002/",
+            "title": "［GDC 2021］「原神」の魅力的なキャラクターと背景グラフィックスはどのように生まれたのか。miHoYoのCEO自ら解説",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "日文GDC2021 Crafting an Anime Style Open World报道；原目录未列讲者，文章明确CEO Cai的分享。"
+          }
+        ],
         "youtube": [
           {
             "title": "'Genshin Impact': Crafting an Anime-Style Open World",
@@ -932,7 +956,15 @@
         }
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.gamedeveloper.com/design/inside-the-thoughtful-design-of-thunder-lotus-i-spiritfarer-i-",
+            "title": "Inside the thoughtful design of Thunder Lotus' Spiritfarer",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "2021 年对同一讲者 Nicolas Guerin 的 Road to the IGF 访谈，主题与温柔感设计相关；不是该 GDC 会话的转录。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -1724,7 +1756,15 @@
         "source_hash": "f149fa0374e08d5983f88609dab581704aa3cad717d80f84c3adfdc840861183"
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.gamedeveloper.com/programming/in-i-death-stranding-i-navigating-the-world-was-harder-for-npcs-than-players",
+            "title": "In Death Stranding, navigating the world was harder for NPCs than players",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "GDC 2021 Eric Johnson AI 复盘的文字报道，重点是 MULE 寻路。"
+          }
+        ],
         "youtube": [
           {
             "title": "'Death Stranding': An AI Postmortem",
@@ -5669,7 +5709,15 @@
         }
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.4gamer.net/games/443/G044397/20210722011/",
+            "title": "［GDC 2021］「Hades」はギリシャ神話に息吹をどう吹き込んだのか？　Supergiant Games初のフル音声作品のキャスティング秘話",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "日文 GDC 2021 Greg Kasavin 与 Darren Korb 对话/配音会话报道。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -7809,7 +7857,15 @@
         }
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://howtomarketagame.com/2021/07/22/gdc-2021-wednesday-wrap-up/",
+            "title": "GDC 2021 Wednesday Wrap-up",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "Chris Zukowski 对 Philomena Schwab 跨开发者推广会话的参会笔记，含其个人评论。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -12118,7 +12174,15 @@
         "source_hash": "1cc1c5301fe49f1f67af674059e43a31f990f9cbdf29b794f91a723305c9a513"
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.gamedeveloper.com/audio/horizontal-resequencing-and-song-structure-for-game-music-composers-from-spyder-to-sackboy-gdc-2021-",
+            "title": "Horizontal Resequencing and Song Structure for Game Music Composers (From Spyder to Sackboy: GDC 2021)",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "讲者Winifred Phillips在2021年会后写的六篇系列第一篇，作者说明另增了演讲限时未讲的解释。"
+          }
+        ],
         "youtube": [
           {
             "title": "From 'Spyder' to 'Sackboy: A Big Adventure' in Interactive Music",
@@ -15045,7 +15109,15 @@
         }
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://howtomarketagame.com/2021/07/23/gdc-2021-thursday-wrap-up/",
+            "title": "GDC 2021 Thursday wrap-up",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "多会话笔记；本条对应 Alex Van Lepp 的 Key Art 会话，包含作者对前后数据比较的保留意见。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -15495,7 +15567,15 @@
         "source_hash": "3dc65b3aba1f6e8565b6d775680d8b3b767cfc81f0155ca6e16992bc5a3f3753"
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://howtomarketagame.com/2021/07/20/gdc-2021-monday-wrap-up/",
+            "title": "GDC 2021 Monday Wrap-up",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "多会话参会笔记；本条指其中 Monster Train Postmortem 一节，兼有作者自己的营销分析。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -15607,7 +15687,15 @@
         "source_hash": "4a61657609b7d7127f40cef378f4c9349f8bdda7b0d6c19a90511076bde7df34"
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://howtomarketagame.com/2021/07/21/gdc-2021-tuesday-wrapup/",
+            "title": "GDC 2021 Tuesday Wrapup",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "多会话参会笔记；本条对应 Tim Repa-Davies 的 Contract Killers 部分。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -16021,7 +16109,15 @@
         "source_hash": "eef621fb2c60444bfaede3deb470259a47edf7e5e808119ae67e7e1f73bc548d"
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.gamedeveloper.com/design/systems-in-games-like-i-frostpunk-i-can-express-personal-ideas-even-unintentionally",
+            "title": "Systems in games like Frostpunk can express personal ideas, even unintentionally",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "GDC2021 Marta Fijak作者声音与系统设计会话报道，涉及原型中被撤销的敏感设计。"
+          }
+        ],
         "youtube": [
           {
             "title": "Ghost in the Machine: Authorial Voice in System Design, 'Frostpunk' & Beyond",
@@ -16405,7 +16501,15 @@
         "source_hash": "aa3bd784c20ea9636bf42fb2f03799a65ed2fddfafde7ebf42f8f12cdf86ddc1"
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://howtomarketagame.com/2021/07/22/gdc-2021-one-more-run-the-making-of-spelunky-2-with-derek-yu/",
+            "title": "GDC 2021: One More Run: The Making of ‘Spelunky 2’ with Derek Yu",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "Chris Zukowski 的参会笔记；区分其 CZ 评论和 Derek Yu 的演讲内容。"
+          }
+        ],
         "youtube": [
           {
             "title": "One More Run: The Making of 'Spelunky 2'",
@@ -16592,7 +16696,15 @@
         }
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.gamedeveloper.com/business/explaining-the-value-of-show-don-t-tell-storytelling-in-i-outer-wilds-i-",
+            "title": "Explaining the value of show don't tell storytelling in Outer Wilds",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "GDC 2021 Kelsey Beachum 好奇心探索叙事会话报道，含游戏地点机制剧透。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -16764,7 +16876,15 @@
         }
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://howtomarketagame.com/2021/06/30/wishlist-wednesday-how-much-promotion-should-you-be-doing/",
+            "title": "Wishlist Wednesday: How much promotion should you be doing?",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "讲者 Chris Zukowski 在2021会话前发表的研究实质内容，正文自述来自该 GDC Steam Study；并非纯预告或完整会话转录。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -18699,7 +18819,15 @@
         }
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.4gamer.net/games/400/G040041/20210723010/",
+            "title": "［GDC 2021］「Ghost of Tsushima」を作り上げるうえで重要となった5つの要素とは。物語の進行と戦闘の関係を解説するセッション・Master of the Katanaをレポート",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "日文 GDC 2021 Master of the Katana 会话报道，对应 Chris Zimmerman；不是另一场 Lethality and Combat Balance。"
+          }
+        ],
         "youtube": []
       }
     },

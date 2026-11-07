@@ -245,7 +245,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [What Star Wars: Squadrons can teach us about reviving classic genres](<https://www.gamedeveloper.com/marketing/what-star-wars-squadrons-can-teach-us-about-reviving-classic-genres>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC2022 Ian Frazier 开发复盘现场长文。
 
 **演讲与幻灯片资料**
 
@@ -281,7 +282,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Josh Wardle reflects on the the unconventional road to Wordle's success](<https://www.gamedeveloper.com/marketing/josh-wardle-reflects-on-the-the-unconventional-road-to-wordle-s-success>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC2022 现场长篇报道，覆盖 Josh Wardle 本场演讲；不是后续 Wordle 一周年演讲。
 
 **演讲与幻灯片资料**
 
@@ -460,7 +462,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [A third-person, action, roguelike, bullet-hell arcade thriller: The making of Returnal](<https://www.gamedeveloper.com/marketing/a-third-person-action-roguelike-bullet-hell-arcade-thriller-the-making-of-returnal>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC2022 现场长篇报道，整理 Harry Krueger 的开发复盘；不是完整逐字稿。
 
 **演讲与幻灯片资料**
 
@@ -601,7 +604,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Wolfenstein 3D's winding journey from pitch to release](<https://www.gamedeveloper.com/marketing/wolfenstein-3d-postmortem>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC2022 John Romero 经典游戏复盘的长篇报道。
 
 **演讲与幻灯片资料**
 
@@ -636,7 +640,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [［GDC 2022］「Halo Infinite」のマルチプレイヤーBOTは，ゲーマーを研究することによって生まれた](<https://www.4gamer.net/games/447/G044739/20220325166/>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：4Gamer 日文现场长报道，明确同场英文题名和 Sara Stern；非讲座预告。
 
 **演讲与幻灯片资料**
 
@@ -1137,7 +1142,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Using time loop logic to shape Deathloop's narrative](<https://www.gamedeveloper.com/marketing/using-time-loop-logic-to-shape-deathloop-s-narrative>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC2022 Pawel Kroenke 叙事设计场次的现场报道；区别于关卡设计和渲染场次，含剧透。
 
 **演讲与幻灯片资料**
 
@@ -1450,7 +1456,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Take a peek inside the level design process of Horizon Forbidden West](<https://www.gamedeveloper.com/marketing/take-a-peek-inside-the-level-design-process-of-horizon-forbidden-west>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC2022 Blake Rebouche 对 Death's Door 地堡任务的设计复盘报道。
 
 **演讲与幻灯片资料**
 
@@ -1590,7 +1597,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Exploring modernity, legacy, and accessibility in Diablo II: Resurrected](<https://www.gamedeveloper.com/marketing/exploring-modernity-legacy-and-accessibility-in-diablo-ii-resurrected>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC2022 Drew McCrory 的无障碍设计场次报道；不是 Dustin King 的美术或 Kevin Todisco 的渲染讲座。
 
 **演讲与幻灯片资料**
 
@@ -2088,7 +2096,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [How King used a player-centric approach to add meaningful narrative to Candy Crush Saga](<https://www.gamedeveloper.com/marketing/how-king-used-a-player-centric-approach-to-add-meaningful-narrative-to-candy-crush-saga>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC2022 Abigail Rindo 关于以玩家为中心叙事设计的现场报道，关联UX场次而非F2P挑战小组。
 
 **演讲与幻灯片资料**
 

@@ -47,7 +47,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Key takeaways from the quest design of Cyberpunk 2077 and The Witcher 3](<https://www.gamedeveloper.com/marketing/10-key-takeaways-from-the-quest-design-of-cyberpunk-2077-and-the-witcher-3>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC 2023 Paweł Sasko 任务设计十项经验演讲报道。
 
 **演讲与幻灯片资料**
 
@@ -453,7 +454,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Bringing 'sus' vibes to a new perspective with Among Us VR](<https://www.gamedeveloper.com/marketing/bringing-sus-vibes-to-a-new-perspective-with-among-us-vr>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC 2023《Among Us VR》复盘，含三位讲者发言。
 
 **演讲与幻灯片资料**
 

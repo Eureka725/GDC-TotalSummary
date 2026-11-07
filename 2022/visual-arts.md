@@ -116,7 +116,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [［GDC 2022］「ディアブロ II リザレクテッド」アートディレクション講演レポート。新規ビジュアルを獲得するまでの工程が示された](<https://www.4gamer.net/games/554/G055460/20220326013/>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：4Gamer 日文现场长报道，明确 Dustin King 与 Art Direction and Pipelines for Resurrecting Evil；与渲染、无障碍场次区分。
 
 **演讲与幻灯片资料**
 
@@ -958,7 +959,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Creating and integrating the many faces of Horizon Forbidden West](<https://www.gamedeveloper.com/marketing/creating-and-integrating-the-many-faces-of-horizon-forbidden-west>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC2022 Arno Schmitz 角色头部制作演讲现场报道。
 
 **演讲与幻灯片资料**
 
@@ -1861,7 +1863,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [How Shedworks refined the art of Sable in pursuit of readability](<https://www.gamedeveloper.com/marketing/how-shedworks-refined-the-art-of-sable-in-pursuit-of-readability>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC2022 Gregorios Kythreotis 的 Sable 美术设计演讲现场报道。
 
 **演讲与幻灯片资料**
 

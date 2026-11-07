@@ -52,7 +52,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [［GDC Summer］なぜ女性プログラマーは少ないのか。ブレンダ・ロメロ氏がコンピュータの発展に貢献した女性の歴史を追ったセッションを実施](<https://www.4gamer.net/games/999/G999905/20200805081/>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：日文 GDC Summer 2020 会话报道，对应 Brenda Romero 的 Hidden Histories。
 
 **演讲与幻灯片资料**
 
@@ -433,7 +434,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [How to better design your game communities for kindness](<https://www.gamedeveloper.com/business/how-to-better-design-your-game-communities-for-kindness>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC Summer 2020 会话报道；正文误将讲者姓氏在导语写作 Chan，但正文明确为 Victoria Tran。
 
 **演讲与幻灯片资料**
 

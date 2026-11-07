@@ -872,11 +872,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
-
-**其他补充资料（未核实为免费全文文章）**
-
-- [讲者／发布方相关文章](<https://emshort.blog/2022/04/09/what-does-your-narrative-system-need-to-do/>)
+- [What does your narrative system need to do?](<https://emshort.blog/2022/04/09/what-does-your-narrative-system-need-to-do/>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：讲者自撰延伸文章，明确回指 GDC 的 Innovations in Procedural Narrative；不是逐字演讲实录。
 
 **演讲与幻灯片资料**
 
@@ -1280,7 +1277,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Battle Passes, Merge Games, and NFTs: 5 Takeaways from GDC 2022](<https://sensortower.com/blog/5-takeaways-from-gdc-2022>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：现场综合报道，本条对应其中的MIR4 与区块链游戏小节；不是完整演讲实录。
 
 **其他补充资料（未核实为免费全文文章）**
 
@@ -2497,11 +2495,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
-
-**其他补充资料（未核实为免费全文文章）**
-
-- [导读来源](<https://unity.com/blog/news/introducing-enemies-the-latest-evolution-in-high-fidelity-digital-humans-from-unity>)
+- [Introducing Enemies: The latest evolution in high-fidelity digital humans from Unity](<https://unity.com/blog/news/introducing-enemies-the-latest-evolution-in-high-fidelity-digital-humans-from-unity>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：Unity Demo Team 官方技术幕后文章，明确列出 Mark Schoennagel 的本场GDC2022演讲；作者Silvia Rasheva，不是逐字实录。
 
 **演讲与幻灯片资料**
 
@@ -4325,7 +4320,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [［GDC 2022］「Diablo II」はどのように“ディアブロ II リザレクテッド”に生まれ変わったのか。グラフィックスから語るセッションが実施に](<https://www.4gamer.net/games/554/G055460/20220324179/>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：4Gamer 日文现场技术报道，明确 Resurrecting a Classic: Bringing Diablo II into the 3rd Dimension；不是同讲者的Renderer Overview场。
 
 **演讲与幻灯片资料**
 
@@ -5099,11 +5095,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
-
-**其他补充资料（未核实为免费全文文章）**
-
-- [讲者／发布方相关文章](<https://unity.com/blog/engine-platform/mobile-performance-optimization-with-adaptive-performance-40>)
+- [Mobile performance optimization with Adaptive Performance 4.0](<https://unity.com/blog/engine-platform/mobile-performance-optimization-with-adaptive-performance-40>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：Unity 官方技术教程式文章，明确回指 Galaxy GameDev 的 GDC2022 演讲；不是视频课程。
 
 **演讲与幻灯片资料**
 

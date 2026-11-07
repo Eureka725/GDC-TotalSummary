@@ -1289,11 +1289,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
-
-**其他补充资料（未核实为免费全文文章）**
-
-- [讲者／发布方相关文章](<https://unity.com/blog/engine-platform/unity-and-net-whats-next>)
+- [Unity and .NET, what’s next?](<https://unity.com/blog/engine-platform/unity-and-net-whats-next>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：Unity 官方技术长文，明确关联 GDC 2022 同主题演讲；记录的是 2022 年技术计划。
 
 **演讲与幻灯片资料**
 

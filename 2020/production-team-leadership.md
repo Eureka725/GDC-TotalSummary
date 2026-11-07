@@ -242,7 +242,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Inside the twisting, turning development of Hardspace: Shipbreaker](<https://www.gamedeveloper.com/production/inside-the-twisting-turning-development-of-i-hardspace-shipbreaker-i->)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC Summer 2020 对 Rory McGuire 与 Elliot Hudson 原创 IP 制作流程分享的报道。
 
 **演讲与幻灯片资料**
 

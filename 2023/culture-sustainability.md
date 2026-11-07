@@ -609,7 +609,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [The new Xbox sustainability toolkit will help devs become energy conscious](<https://www.gamedeveloper.com/marketing/the-new-xbox-sustainability-toolkit-will-help-devs-become-energy-conscious>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：相关内容：GDC 2023同期Xbox开发者可持续性工具包发布报道，支持同主题能源/排放工具背景；不是该多方圆桌的逐项纪要。
 
 **演讲与幻灯片资料**
 
@@ -1208,7 +1209,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- ["Sticking your head in the sand won't help:" A mental health researcher pleads for game companies' data](<https://www.gamedeveloper.com/marketing/-sticking-your-head-in-the-sand-won-t-help-a-mental-health-researcher-pleads-for-game-companies-data>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC 2023 Andrew Przybylski 科学研究与游戏成瘾演讲报道。
 
 **演讲与幻灯片资料**
 
@@ -1244,7 +1246,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [DEI is DOA: What's really failing inside the game industry's diversity efforts](<https://www.gamedeveloper.com/marketing/whats-really-happening-inside-the-game-industrys-diversity-efforts>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC 2023 Anita Sarkeesian DEI演讲的现场报道。
 
 **演讲与幻灯片资料**
 

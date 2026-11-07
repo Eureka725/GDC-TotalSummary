@@ -203,7 +203,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [How improv acting and classic Asian storytelling influenced The Last of Us Part II](<https://www.gamedeveloper.com/marketing/how-improv-acting-and-classic-asian-storytelling-influenced-the-last-of-us-part-ii>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC2022 Evan Hill 的博物馆闪回交互叙事报道；与其另一个Level Design Summit场次主题相近，此处依据报道中起承转合和节奏讨论关联叙事场。
 
 **演讲与幻灯片资料**
 
@@ -272,7 +273,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Old school romance mechanics sell players, characters, and game developers short](<https://www.gamedeveloper.com/marketing/old-school-romance-mechanics-sell-players-characters-and-game-developers-short>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC2022 Michelle Clough 的 Kindness Coins / Chemistry Casino 场次现场报道。
 
 **演讲与幻灯片资料**
 
@@ -308,7 +310,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [How Weird West's developers put the "immersive" in "immersive sim"](<https://www.gamedeveloper.com/marketing/how-weird-wests-developers-put-the-immersive-in-immersive-sim->)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC2022 Lucas Loredo 的沉浸式模拟叙事演讲报道，不是程序化叙事论坛简介。
 
 **演讲与幻灯片资料**
 
@@ -414,7 +417,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Behind Codex, the tool powering the dialogue of Marvel's Guardians of the Galaxy](<https://www.gamedeveloper.com/marketing/behind-codex-the-tool-powering-the-dialogue-of-i-marvel-s-guardians-of-the-galaxy-i->)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC2022 Rayna Anderson 的叙事工具场次报道；Codex 在此指 Eidos-Montreal 内部工具。
 
 **演讲与幻灯片资料**
 
@@ -450,7 +454,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Examining the overlap between game design and tourism psychology](<https://www.gamedeveloper.com/marketing/examining-the-overlap-between-video-games-players-and-tourism-psychology>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC2022 Marcin Makaj 关于旅游心理学与玩家体验的现场报道。
 
 **演讲与幻灯片资料**
 

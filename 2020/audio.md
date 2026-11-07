@@ -142,7 +142,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Game Developers Conference: Ask Me Anything about being a video game music composer](<https://www.gamedeveloper.com/audio/game-developers-conference-ask-me-anything-about-being-a-video-game-music-composer>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：讲者2021年发布的2020 GDC Summer AMA编辑节录，主持人为Alissa McAloon；不是2021新讲座概要。
 
 **演讲与幻灯片资料**
 
@@ -206,7 +207,16 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Game Composers and the Importance of Themes: Interactivity in Game Music (Pt. 5)](<https://www.gamedeveloper.com/audio/game-composers-and-the-importance-of-themes-interactivity-in-game-music-pt-5->)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：同讲者2020线上会话内容五篇系列终篇，重点是交互音乐与主题的取舍。
+- [Game Composers and the Importance of Themes: Repetition in Game Music (Pt. 2)](<https://www.gamedeveloper.com/audio/game-composers-and-the-importance-of-themes-repetition-in-game-music-pt-2->)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：同讲者2020会话内容系列第二篇，重点是重复与隐性主题。
+- [Game Composers and the Importance of Themes: The Hook in Game Music (Pt. 1)](<https://www.gamedeveloper.com/audio/game-composers-and-the-importance-of-themes-the-hook-in-game-music-pt-1->)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：讲者Winifred Phillips于2020年写的会话内容系列第一篇，含正式简介之外的实质教学，不是纯预告。
+- [Recurrence and Rationale in Game Music: Game Composers and the Importance of Themes (Pt. 4)](<https://www.gamedeveloper.com/audio/recurrence-and-rationale-in-game-music-game-composers-and-the-importance-of-themes-pt-4->)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：同讲者2020会话内容系列第四篇，讨论不同玩法下主题再现的叙事理由。
+- [Variation and Fragmentation in Game Music: Game Composers and the Importance of Themes (Pt. 3)](<https://www.gamedeveloper.com/audio/variation-and-fragmentation-in-game-music-game-composers-and-the-importance-of-themes-pt-3->)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：同讲者2020会话内容系列第三篇，重点是变奏与主题碎片化。
 
 **演讲与幻灯片资料**
 

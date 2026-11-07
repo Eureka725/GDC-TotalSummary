@@ -118,7 +118,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Blizzard veteran Rob Pardo says 'love' is the most important development milestone](<https://www.gamedeveloper.com/production/blizzard-veteran-rob-pardo-says-love-is-the-most-important-development-milestone>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：本场主题演讲报道：团队热爱游玩自身作品的制作信号。
 
 **演讲与幻灯片资料**
 
@@ -377,7 +378,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Ghost of Yotei devs tried to add Zelda: Breath of the Wild-style rock climbing, but discovered "rock climbing is not a core aspect of being a wandering ronin"](<https://www.gamesradar.com/games/open-world/ghost-of-yotei-devs-tried-to-add-zelda-breath-of-the-wild-style-rock-climbing-but-discovered-rock-climbing-is-not-a-core-aspect-of-being-a-wandering-ronin/>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：本场现场报道：Nate Fox 与 Jason Connell 谈创作支柱和攀爬原型取舍。
 
 **其他补充资料（未核实为免费全文文章）**
 
@@ -899,7 +901,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Arc Raiders guns totally changed after one "guerilla" dev at Embark said hold my beer, "I think I can do better," and remade the entire reload system "himself"](<https://www.gamesradar.com/games/third-person-shooter/arc-raiders-guns-totally-changed-after-one-guerilla-dev-at-embark-said-hold-my-beer-i-think-i-can-do-better-and-remade-the-entire-reload-system-himself/>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：本场报道及会后采访：Caio Braga 谈开发者自主实验与换弹设计。
 
 **其他补充资料（未核实为免费全文文章）**
 

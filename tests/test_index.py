@@ -277,6 +277,12 @@ class EditorialTests(unittest.TestCase):
         self.assertIn("Readable article", index)
         self.assertNotIn("Unverified page", index)
         self.assertNotIn("gdcvault.com", index)
+        self.assertIn("有免费全文文章的演讲／活动", index)
+        self.assertIn("| 2026 | 1 | 0 |", index)
+        item["links"]["articles"] = []
+        missing_index = article_index([(2026, [item])], "")
+        self.assertIn("| 2026 | 0 | 1 |", missing_index)
+        self.assertIn("## 尚未找到免费全文文章", missing_index)
 
     def test_full_text_article_rejects_vault_video_pdf_and_missing_date(self):
         data = dataset()

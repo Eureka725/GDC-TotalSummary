@@ -503,7 +503,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [The Sims 4's Phillip Ring explains why the best DEI initiative may be talking to your community](<https://www.gamedeveloper.com/business/the-sims-4-phillip-ring-explains-why-the-best-dei-initiative-may-be-talking-to-your-community>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC 2023 Phillip Ring《The Sims》DEI内容流程演讲报道。
 
 **演讲与幻灯片资料**
 
@@ -677,7 +678,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Key takeaways from the quest design of Cyberpunk 2077 and The Witcher 3](<https://www.gamedeveloper.com/marketing/10-key-takeaways-from-the-quest-design-of-cyberpunk-2077-and-the-witcher-3>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC 2023 Paweł Sasko 任务设计十项经验演讲报道。
 
 **演讲与幻灯片资料**
 
@@ -988,7 +990,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Sam Barlow breaks down the 'pillars of interactivity' behind Immortality](<https://www.gamedeveloper.com/marketing/sam-barlow-breaks-down-the-pillars-of-interactivity-behind-i-immortality-i->)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC 2023 Sam Barlow《IMMORTALITY》演讲报道。
 
 **演讲与幻灯片资料**
 
@@ -1407,7 +1410,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Evolving a horror aesthetic with The Dark Pictures Anthology](<https://www.gamedeveloper.com/marketing/evolving-a-horror-aesthetic-with-the-dark-pictures-anthology>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC 2023 Tom Heaton 互动恐怖叙事演讲报道。
 
 **演讲与幻灯片资料**
 
@@ -1790,7 +1794,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [The fall: How Redfall recreates the autumnal feel of the American Northeast](<https://www.thumbsticks.com/the-fall-how-redfall-recreates-the-autumnal-feel-of-the-american-northeast/>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC 2023 Ehsan Ebrahimzadeh《Redfall》秋季植被美术演讲现场长文。
 
 **演讲与幻灯片资料**
 
@@ -2245,7 +2250,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Using procedural generation to deliver "layered battles" in Mario + Rabbids: Sparks of Hope](<https://www.gamedeveloper.com/marketing/using-procedural-generation-to-deliver-layered-battles-in-mario-rabbids-sparks-of-hope>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC 2023 Frédéric Giraud 分层战斗生成演讲报道。
 
 **演讲与幻灯片资料**
 
@@ -2352,7 +2358,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Lessons from making Horizon Forbidden West's Tallneck Cauldron](<https://www.gamedeveloper.com/marketing/lessons-from-making-one-of-i-horizon-forbidden-west-s-i-tallneck-cauldron>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC 2023 Dennis Micka《Horizon Forbidden West》Cauldron关卡演讲报道。
 
 **演讲与幻灯片资料**
 
@@ -2668,7 +2675,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [How TMNT: Shredder’s Revenge ‘plays like how you remember, not how it was’](<https://www.thumbsticks.com/tmnt-shredders-revenge-plays-how-you-remember/>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC 2023 Frederic Gemus 经典忍者神龟改编演讲现场长文。
 
 **演讲与幻灯片资料**
 
@@ -3264,7 +3272,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Designing the cinematic "theme park" of Horizon Forbidden West](<https://www.gamedeveloper.com/marketing/designing-the-cinematic-theme-park-of-horizon-forbidden-west>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC 2023 Ismaël Auray《Horizon Forbidden West》过场演讲报道。
 
 **演讲与幻灯片资料**
 
@@ -3370,7 +3379,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [How Zoo Tycoon pioneered the animal management sim](<https://www.thumbsticks.com/zoo-tycoon-pioneered-animal-management-sim/>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC 2023《The Making of Zoo Tycoon》回顾报道。文章将讲者写为Hank Howie，本地目录为Henry Howie；作品、Blue Fang创立与发行经历及本年回顾范围一致。
 
 **演讲与幻灯片资料**
 
@@ -3403,7 +3413,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Kirby at 30: Looking at a game's anniversary through the lens of new games](<https://www.gamedeveloper.com/marketing/kirby-at-30>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC 2023《The Many Dimensions of Kirby》演讲报道。
 
 **演讲与幻灯片资料**
 
@@ -3682,7 +3693,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- ["Participation on par with everyone else": A rethink of accessibility in games](<https://www.gamedeveloper.com/marketing/participation-on-par-with-everyone-else-a-gdc-rethink-of-accessibility-in-games>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC 2023 Aderyn Thompson 无障碍设计演讲报道。
 
 **演讲与幻灯片资料**
 

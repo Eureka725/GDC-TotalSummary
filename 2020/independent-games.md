@@ -96,7 +96,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Finding smart shortcuts in A Short Hike postmortem - Unlocking the Vault #4](<https://www.gamedeveloper.com/design/finding-smart-shortcuts-in-a-short-hike-postmortem-unlocking-the-vault-4>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：2025 年对 Adam Robinson-Yu 2020 GDC Virtual 同名演讲的文字回顾，不是当年现场稿。
 
 **演讲与幻灯片资料**
 

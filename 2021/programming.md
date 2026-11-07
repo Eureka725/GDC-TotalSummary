@@ -148,7 +148,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [［GDC 2021］「原神」は広大なマップでどのようにNPCのAIを管理しているのか](<https://www.4gamer.net/games/486/G048621/20210722010/>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：日文GDC2021 Shuo Xu可扩展AI系统会话技术报道。
 
 **演讲与幻灯片资料**
 
@@ -180,7 +181,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [［GDC 2021］「原神」の魅力的なキャラクターと背景グラフィックスはどのように生まれたのか。miHoYoのCEO自ら解説](<https://www.4gamer.net/games/486/G048621/20210724002/>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：日文GDC2021 Crafting an Anime Style Open World报道；原目录未列讲者，文章明确CEO Cai的分享。
 
 **演讲与幻灯片资料**
 
@@ -453,7 +455,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [In Death Stranding, navigating the world was harder for NPCs than players](<https://www.gamedeveloper.com/programming/in-i-death-stranding-i-navigating-the-world-was-harder-for-npcs-than-players>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC 2021 Eric Johnson AI 复盘的文字报道，重点是 MULE 寻路。
 
 **演讲与幻灯片资料**
 

@@ -164,7 +164,15 @@
         "source_hash": "21e24b783fef5027df884d14701c4eb11d00cae0f97018193529826e4330d581"
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.4gamer.net/games/554/G055460/20220326013/",
+            "title": "［GDC 2022］「ディアブロ II リザレクテッド」アートディレクション講演レポート。新規ビジュアルを獲得するまでの工程が示された",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "4Gamer 日文现场长报道，明确 Dustin King 与 Art Direction and Pipelines for Resurrecting Evil；与渲染、无障碍场次区分。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -624,7 +632,15 @@
         }
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.gamedeveloper.com/marketing/what-star-wars-squadrons-can-teach-us-about-reviving-classic-genres",
+            "title": "What Star Wars: Squadrons can teach us about reviving classic genres",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "GDC2022 Ian Frazier 开发复盘现场长文。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -673,7 +689,15 @@
         "source_hash": "0203aa88c59c900bae9db9b32080107ca440dc1765315a7ecb1bde7a53b88eab"
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.gamedeveloper.com/marketing/auditory-tales-from-the-making-of-zen-puzzler-unpacking",
+            "title": "Auditory tales from the making of zen puzzler Unpacking",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "GDC2022 Jeff van Dyck 拟音演讲现场报道；与 Unpacking 的叙事设计场次区分。"
+          }
+        ],
         "youtube": [
           {
             "title": "'Unpacking': The Fun Behind the Foley",
@@ -736,7 +760,15 @@
         }
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.gamedeveloper.com/marketing/josh-wardle-reflects-on-the-the-unconventional-road-to-wordle-s-success",
+            "title": "Josh Wardle reflects on the the unconventional road to Wordle's success",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "GDC2022 现场长篇报道，覆盖 Josh Wardle 本场演讲；不是后续 Wordle 一周年演讲。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -2624,8 +2656,11 @@
       "links": {
         "articles": [
           {
-            "title": "讲者／发布方相关文章",
-            "url": "https://emshort.blog/2022/04/09/what-does-your-narrative-system-need-to-do/"
+            "title": "What does your narrative system need to do?",
+            "url": "https://emshort.blog/2022/04/09/what-does-your-narrative-system-need-to-do/",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "讲者自撰延伸文章，明确回指 GDC 的 Innovations in Procedural Narrative；不是逐字演讲实录。"
           }
         ],
         "youtube": []
@@ -5143,6 +5178,13 @@
           {
             "title": "导读来源",
             "url": "https://www.youtube.com/watch?v=0Wgn6szpDWU"
+          },
+          {
+            "url": "https://sensortower.com/blog/5-takeaways-from-gdc-2022",
+            "title": "Battle Passes, Merge Games, and NFTs: 5 Takeaways from GDC 2022",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "现场综合报道，本条对应其中的MIR4 与区块链游戏小节；不是完整演讲实录。"
           }
         ],
         "youtube": [
@@ -5325,7 +5367,15 @@
         }
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.gamedeveloper.com/marketing/a-third-person-action-roguelike-bullet-hell-arcade-thriller-the-making-of-returnal",
+            "title": "A third-person, action, roguelike, bullet-hell arcade thriller: The making of Returnal",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "GDC2022 现场长篇报道，整理 Harry Krueger 的开发复盘；不是完整逐字稿。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -6520,7 +6570,15 @@
         }
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.gamedeveloper.com/marketing/wolfenstein-3d-postmortem",
+            "title": "Wolfenstein 3D's winding journey from pitch to release",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "GDC2022 John Romero 经典游戏复盘的长篇报道。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -7325,7 +7383,15 @@
         }
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.gamedeveloper.com/marketing/creating-and-integrating-the-many-faces-of-horizon-forbidden-west",
+            "title": "Creating and integrating the many faces of Horizon Forbidden West",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "GDC2022 Arno Schmitz 角色头部制作演讲现场报道。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -7491,7 +7557,15 @@
         }
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.4gamer.net/games/447/G044739/20220325166/",
+            "title": "［GDC 2022］「Halo Infinite」のマルチプレイヤーBOTは，ゲーマーを研究することによって生まれた",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "4Gamer 日文现场长报道，明确同场英文题名和 Sara Stern；非讲座预告。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -10029,7 +10103,15 @@
         }
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://sensortower.com/blog/5-takeaways-from-gdc-2022",
+            "title": "Battle Passes, Merge Games, and NFTs: 5 Takeaways from GDC 2022",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "现场综合报道，本条对应其中的合成游戏小节；不是完整演讲实录。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -10091,7 +10173,15 @@
         }
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://sensortower.com/blog/5-takeaways-from-gdc-2022",
+            "title": "Battle Passes, Merge Games, and NFTs: 5 Takeaways from GDC 2022",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "现场综合报道，本条对应其中的Battle Pass小节；不是完整演讲实录。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -10341,7 +10431,7 @@
             "url": "https://sensortower.com/blog/5-takeaways-from-gdc-2022",
             "access": "free-full-text",
             "checked_at": "2026-11-07",
-            "note": "现场综合报道，含本场订阅制议题；不是完整演讲实录。"
+            "note": "现场综合报道，本条对应其中的订阅制小节；不是完整演讲实录。"
           }
         ],
         "youtube": []
@@ -10596,7 +10686,15 @@
         }
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://sensortower.com/blog/5-takeaways-from-gdc-2022",
+            "title": "Battle Passes, Merge Games, and NFTs: 5 Takeaways from GDC 2022",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "现场综合报道，本条对应其中的IP 与年度免费游戏观察小节；不是完整演讲实录。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -13003,7 +13101,15 @@
         "source_hash": "895e6e6a8abca053637752428c6916ebdf2703ff1d31fd57473d22ec9d71a6ba"
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.gamedeveloper.com/marketing/how-improv-acting-and-classic-asian-storytelling-influenced-the-last-of-us-part-ii",
+            "title": "How improv acting and classic Asian storytelling influenced The Last of Us Part II",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "GDC2022 Evan Hill 的博物馆闪回交互叙事报道；与其另一个Level Design Summit场次主题相近，此处依据报道中起承转合和节奏讨论关联叙事场。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -13137,7 +13243,15 @@
         }
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.gamedeveloper.com/marketing/old-school-romance-mechanics-sell-players-characters-and-game-developers-short",
+            "title": "Old school romance mechanics sell players, characters, and game developers short",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "GDC2022 Michelle Clough 的 Kindness Coins / Chemistry Casino 场次现场报道。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -13192,7 +13306,15 @@
         }
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.gamedeveloper.com/marketing/how-weird-wests-developers-put-the-immersive-in-immersive-sim-",
+            "title": "How Weird West's developers put the \"immersive\" in \"immersive sim\"",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "GDC2022 Lucas Loredo 的沉浸式模拟叙事演讲报道，不是程序化叙事论坛简介。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -13371,7 +13493,15 @@
         }
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.gamedeveloper.com/marketing/behind-codex-the-tool-powering-the-dialogue-of-i-marvel-s-guardians-of-the-galaxy-i-",
+            "title": "Behind Codex, the tool powering the dialogue of Marvel's Guardians of the Galaxy",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "GDC2022 Rayna Anderson 的叙事工具场次报道；Codex 在此指 Eidos-Montreal 内部工具。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -13433,7 +13563,15 @@
         }
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.gamedeveloper.com/marketing/examining-the-overlap-between-video-games-players-and-tourism-psychology",
+            "title": "Examining the overlap between game design and tourism psychology",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "GDC2022 Marcin Makaj 关于旅游心理学与玩家体验的现场报道。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -14174,7 +14312,15 @@
         "source_hash": "2903c14cb3e3e2fc350c96fb63d5de3bb6541a7dcac2cb1107e6680f0a6065a1"
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.gamedeveloper.com/marketing/the-developer-s-renaissance-3-leaders-on-life-and-career",
+            "title": "The Developer's Renaissance: 3 leaders on life and career in games",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "GDC2022 Main Stage 三位讲者的综合现场报道。"
+          }
+        ],
         "youtube": [
           {
             "title": "GDC 2022 Main Stage: The Developer's Renaissance",
@@ -14844,7 +14990,15 @@
         }
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.gamedeveloper.com/marketing/using-time-loop-logic-to-shape-deathloop-s-narrative",
+            "title": "Using time loop logic to shape Deathloop's narrative",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "GDC2022 Pawel Kroenke 叙事设计场次的现场报道；区别于关卡设计和渲染场次，含剧透。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -17102,7 +17256,15 @@
         }
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.gamedeveloper.com/marketing/-i-inscryption-s-i-journey-from-game-jam-joint-to-cult-classic",
+            "title": "Inscryption's journey from game jam joint to cult classic",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "GDC2022 Daniel Mullins 的 Inscryption 复盘报道，含剧透。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -17352,7 +17514,15 @@
         }
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.gamedeveloper.com/marketing/unpacking-a-narrative-through-1-000-household-items",
+            "title": "How the developers of Unpacking told a story with 1,000 items",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "GDC2022 Wren Brier 与 Tim Dawson 的物品叙事场次报道，区别于拟音场次。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -17493,7 +17663,15 @@
         }
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.gamedeveloper.com/marketing/games-are-not-worth-sacrificing-your-health-over",
+            "title": "\"Games are not worth sacrificing your health over\"",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "GDC2022 Emma Kidwell 关于个人经历写作与创作者健康的现场报道。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -17551,8 +17729,11 @@
       "links": {
         "articles": [
           {
-            "title": "导读来源",
-            "url": "https://unity.com/blog/news/introducing-enemies-the-latest-evolution-in-high-fidelity-digital-humans-from-unity"
+            "title": "Introducing Enemies: The latest evolution in high-fidelity digital humans from Unity",
+            "url": "https://unity.com/blog/news/introducing-enemies-the-latest-evolution-in-high-fidelity-digital-humans-from-unity",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "Unity Demo Team 官方技术幕后文章，明确列出 Mark Schoennagel 的本场GDC2022演讲；作者Silvia Rasheva，不是逐字实录。"
           }
         ],
         "youtube": []
@@ -18511,7 +18692,15 @@
         "source_hash": "7ae963039d2c5d18018d5ba796c318f591c3d484254f45464da2da304631c69a"
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.gamedeveloper.com/marketing/take-a-peek-inside-the-level-design-process-of-horizon-forbidden-west",
+            "title": "Take a peek inside the level design process of Horizon Forbidden West",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "GDC2022 Blake Rebouche 对 Death's Door 地堡任务的设计复盘报道。"
+          }
+        ],
         "youtube": [
           {
             "title": "Knocking on Death's Door: Designing a New Bunker for 'Horizon Forbidden West'",
@@ -20327,7 +20516,15 @@
         }
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.gamedeveloper.com/marketing/exploring-modernity-legacy-and-accessibility-in-diablo-ii-resurrected",
+            "title": "Exploring modernity, legacy, and accessibility in Diablo II: Resurrected",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "GDC2022 Drew McCrory 的无障碍设计场次报道；不是 Dustin King 的美术或 Kevin Todisco 的渲染讲座。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -22188,7 +22385,15 @@
         }
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.gamedeveloper.com/marketing/humans-aren-t-machines-exploring-the-physiological-effects-of-crunch",
+            "title": "Humans aren't machines: Exploring the physiological effects of crunch",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "GDC2022 Ian Schreiber 关于 crunch 生理影响的现场报道；文章转述讲者观点。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -23683,7 +23888,15 @@
         }
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.4gamer.net/games/554/G055460/20220324179/",
+            "title": "［GDC 2022］「Diablo II」はどのように“ディアブロ II リザレクテッド”に生まれ変わったのか。グラフィックスから語るセッションが実施に",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "4Gamer 日文现场技术报道，明确 Resurrecting a Classic: Bringing Diablo II into the 3rd Dimension；不是同讲者的Renderer Overview场。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -24225,7 +24438,15 @@
         }
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.gamedeveloper.com/marketing/how-among-us-grew-to-nearly-3-million-tiktok-followers-with-metrics-personality-and-memes",
+            "title": "How Among Us grew to nearly 3 million TikTok followers with metrics, personality, and memes",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "GDC2022 Victoria Tran 关于 Among Us TikTok 策略的现场报道。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -25509,7 +25730,15 @@
         }
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.gamedeveloper.com/marketing/how-shedworks-refined-the-art-of-sable-in-pursuit-of-readability",
+            "title": "How Shedworks refined the art of Sable in pursuit of readability",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "GDC2022 Gregorios Kythreotis 的 Sable 美术设计演讲现场报道。"
+          }
+        ],
         "youtube": []
       }
     },
@@ -25947,8 +26176,11 @@
       "links": {
         "articles": [
           {
-            "title": "讲者／发布方相关文章",
-            "url": "https://unity.com/blog/engine-platform/unity-and-net-whats-next"
+            "title": "Unity and .NET, what’s next?",
+            "url": "https://unity.com/blog/engine-platform/unity-and-net-whats-next",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "Unity 官方技术长文，明确关联 GDC 2022 同主题演讲；记录的是 2022 年技术计划。"
           }
         ],
         "youtube": []
@@ -27432,8 +27664,11 @@
       "links": {
         "articles": [
           {
-            "title": "讲者／发布方相关文章",
-            "url": "https://unity.com/blog/engine-platform/mobile-performance-optimization-with-adaptive-performance-40"
+            "title": "Mobile performance optimization with Adaptive Performance 4.0",
+            "url": "https://unity.com/blog/engine-platform/mobile-performance-optimization-with-adaptive-performance-40",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "Unity 官方技术教程式文章，明确回指 Galaxy GameDev 的 GDC2022 演讲；不是视频课程。"
           }
         ],
         "youtube": []
@@ -27924,7 +28159,15 @@
         }
       },
       "links": {
-        "articles": [],
+        "articles": [
+          {
+            "url": "https://www.gamedeveloper.com/marketing/how-king-used-a-player-centric-approach-to-add-meaningful-narrative-to-candy-crush-saga",
+            "title": "How King used a player-centric approach to add meaningful narrative to Candy Crush Saga",
+            "access": "free-full-text",
+            "checked_at": "2026-11-07",
+            "note": "GDC2022 Abigail Rindo 关于以玩家为中心叙事设计的现场报道，关联UX场次而非F2P挑战小组。"
+          }
+        ],
         "youtube": []
       }
     },

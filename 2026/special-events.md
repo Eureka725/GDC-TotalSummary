@@ -32,7 +32,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Clair Obscur secures top honors at the Game Developers Choice Awards](<https://www.gamedeveloper.com/design/gdca-2026>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：本届 GDCA 颁奖结果报道；属于活动记录，不是技术演讲。
 
 **其他补充资料（未核实为免费全文文章）**
 
@@ -69,7 +70,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Titanium Court wins Seumas McNally Grand Prize at 28th annual IGF awards](<https://www.gamedeveloper.com/business/titanium-court-wins-seumas-mcnally-grand-prize-at-28th-annual-igf-awards>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：本届 IGF 颁奖结果报道；属于活动记录，不是技术演讲。
 
 **其他补充资料（未核实为免费全文文章）**
 

@@ -78,7 +78,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Unpacking a smart plan for long-tail post-launch marketing](<https://www.gamedeveloper.com/marketing/unpacking-a-smart-plan-for-long-tail-post-launch-marketing>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC 2023 Emily Hummel《Unpacking》上市后社群营销演讲报道。
 
 **演讲与幻灯片资料**
 
@@ -172,7 +173,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Developing a live game that never truly left Early Access with Deep Rock Galactic](<https://www.gamedeveloper.com/marketing/developing-a-live-game-that-never-truly-left-early-access-with-deep-rock-galactic>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC 2023 Mikhail Akopyan《Deep Rock Galactic》持续开发演讲报道。
 
 **演讲与幻灯片资料**
 
@@ -455,7 +457,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Five key publishing contract pitfalls for indies to avoid](<https://www.gamedeveloper.com/marketing/five-key-publishing-contract-pitfalls-for-indies-to-avoid>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC 2023 Kellen Voyer 独立游戏发行协议演讲报道。
 
 **演讲与幻灯片资料**
 
@@ -807,7 +810,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Hustle and bustle: How Mini Motorways built its Wuselfaktor](<https://www.thumbsticks.com/hustle-and-bustle-how-mini-motorways-built-its-wuselfaktor/>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC 2023 Tana Tanoi《Expanding the Miniverse》极简深度设计演讲长文。
 
 **演讲与幻灯片资料**
 

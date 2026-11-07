@@ -104,7 +104,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Google Cloud's vision for AI in the game industry](<https://www.gamedeveloper.com/production/google-cloud-s-vision-for-ai-in-the-game-industry>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：本场大会报道：Jack Buser 的 Living Games 与 AI 应用构想。
 
 **其他补充资料（未核实为免费全文文章）**
 
@@ -438,7 +439,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [To make video games for Gen Z, be authentic](<https://www.gamedeveloper.com/marketing/to-make-video-games-for-gen-z-be-authentic>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：本场大会报道：面向年轻玩家的真实表达与营销。
 
 **其他补充资料（未核实为免费全文文章）**
 

@@ -1,13 +1,460 @@
 # 免费全文文章
 
-当前已核实 **0** 篇不同文章；这不是全部演讲的免费文章覆盖率。
+当前已核实 **16** 篇不同文章；这不是全部演讲的免费文章覆盖率。
 
 只收录核对时无需登录、无需付费即可读取正文的文章。大会报道和讲者相关文章不是演讲逐字稿；简介页、视频、幻灯片及访问未核实的链接不计入。
 
+## 覆盖情况
+
+| 年份 | 有免费全文文章的演讲／活动 | 尚无已核实全文文章 |
+| --- | ---: | ---: |
+| 2021 | 16 | 418 |
+
+“尚无”表示当前没有通过核验的文章链接，不表示该演讲一定不存在公开文章。Vault 简介不填补这一空缺。
+
+## 已核实文章
+
 | 年份 | 对应演讲 | 免费文章 | 阅读范围 | 核验日期 |
 | --- | --- | --- | --- | --- |
+| 2021 | ['Disco Elysium': Meaningless Choices and Impractical Advice](<../2021/design.md#gdc-2021-1027048>) | [Understanding the meaningless, micro-reactive, and marvellous writing of Disco Elysium](<https://www.gamedeveloper.com/business/understanding-the-meaningless-micro-reactive-and-marvellous-writing-of-i-disco-elysium-i->) | GDC 2021 Justin Keenan 会话报道，聚焦无工具性对话选择与微反应。 | 2026-11-07 |
+| 2021 | ['Genshin Impact': Building a Scalable AI System](<../2021/programming.md#gdc-2021-1026968>) | [［GDC 2021］「原神」は広大なマップでどのようにNPCのAIを管理しているのか](<https://www.4gamer.net/games/486/G048621/20210722010/>) | 日文GDC2021 Shuo Xu可扩展AI系统会话技术报道。 | 2026-11-07 |
+| 2021 | ['Genshin Impact': Crafting an Anime Style Open World](<../2021/programming.md#gdc-2021-1027538>) | [［GDC 2021］「原神」の魅力的なキャラクターと背景グラフィックスはどのように生まれたのか。miHoYoのCEO自ら解説](<https://www.4gamer.net/games/486/G048621/20210724002/>) | 日文GDC2021 Crafting an Anime Style Open World报道；原目录未列讲者，文章明确CEO Cai的分享。 | 2026-11-07 |
+| 2021 | ['Spiritfarer's' Journey: Crafting Tenderness](<../2021/design.md#gdc-2021-1027409>) | [Inside the thoughtful design of Thunder Lotus' Spiritfarer](<https://www.gamedeveloper.com/design/inside-the-thoughtful-design-of-thunder-lotus-i-spiritfarer-i->) | 2021 年对同一讲者 Nicolas Guerin 的 Road to the IGF 访谈，主题与温柔感设计相关；不是该 GDC 会话的转录。 | 2026-11-07 |
+| 2021 | [AI Summit: 'Death Stranding': An AI Postmortem](<../2021/programming.md#gdc-2021-1027144>) | [In Death Stranding, navigating the world was harder for NPCs than players](<https://www.gamedeveloper.com/programming/in-i-death-stranding-i-navigating-the-world-was-harder-for-npcs-than-players>) | GDC 2021 Eric Johnson AI 复盘的文字报道，重点是 MULE 寻路。 | 2026-11-07 |
+| 2021 | [Breathing Life into Greek Myth: The Dialogue of 'Hades'](<../2021/audio.md#gdc-2021-1026975>) | [［GDC 2021］「Hades」はギリシャ神話に息吹をどう吹き込んだのか？ Supergiant Games初のフル音声作品のキャスティング秘話](<https://www.4gamer.net/games/443/G044397/20210722011/>) | 日文 GDC 2021 Greg Kasavin 与 Darren Korb 对话/配音会话报道。 | 2026-11-07 |
+| 2021 | [Cross Promotion: The Benefits of Collaborating with Other Developers](<../2021/business-marketing.md#gdc-2021-1027127>) | [GDC 2021 Wednesday Wrap-up](<https://howtomarketagame.com/2021/07/22/gdc-2021-wednesday-wrap-up/>) | Chris Zukowski 对 Philomena Schwab 跨开发者推广会话的参会笔记，含其个人评论。 | 2026-11-07 |
+| 2021 | [From 'Spyder' to 'Sackboy: A Big Adventure' in Interactive Music](<../2021/audio.md#gdc-2021-1027169>) | [Horizontal Resequencing and Song Structure for Game Music Composers (From Spyder to Sackboy: GDC 2021)](<https://www.gamedeveloper.com/audio/horizontal-resequencing-and-song-structure-for-game-music-composers-from-spyder-to-sackboy-gdc-2021->) | 讲者Winifred Phillips在2021年会后写的六篇系列第一篇，作者说明另增了演讲限时未讲的解释。 | 2026-11-07 |
+| 2021 | [How Great Key Art Can Lead to Doubling Marketing Numbers](<../2021/business-marketing.md#gdc-2021-1027091>) | [GDC 2021 Thursday wrap-up](<https://howtomarketagame.com/2021/07/23/gdc-2021-thursday-wrap-up/>) | 多会话笔记；本条对应 Alex Van Lepp 的 Key Art 会话，包含作者对前后数据比较的保留意见。 | 2026-11-07 |
+| 2021 | [Independent Games Summit: 'Monster Train' Postmortem](<../2021/independent-games.md#gdc-2021-1027098>) | [GDC 2021 Monday Wrap-up](<https://howtomarketagame.com/2021/07/20/gdc-2021-monday-wrap-up/>) | 多会话参会笔记；本条指其中 Monster Train Postmortem 一节，兼有作者自己的营销分析。 | 2026-11-07 |
+| 2021 | [Independent Games Summit: Contract Killers: What Developers Should Eliminate From Their Publishing Agreement](<../2021/independent-games.md#gdc-2021-1027090>) | [GDC 2021 Tuesday Wrapup](<https://howtomarketagame.com/2021/07/21/gdc-2021-tuesday-wrapup/>) | 多会话参会笔记；本条对应 Tim Repa-Davies 的 Contract Killers 部分。 | 2026-11-07 |
+| 2021 | [Independent Games Summit: Ghost in the Machine: Authorial Voice in System Design, 'Frostpunk' &amp; Beyond](<../2021/independent-games.md#gdc-2021-1027186>) | [Systems in games like Frostpunk can express personal ideas, even unintentionally](<https://www.gamedeveloper.com/design/systems-in-games-like-i-frostpunk-i-can-express-personal-ideas-even-unintentionally>) | GDC2021 Marta Fijak作者声音与系统设计会话报道，涉及原型中被撤销的敏感设计。 | 2026-11-07 |
+| 2021 | [Independent Games Summit: One More Run: The Making of 'Spelunky 2'](<../2021/independent-games.md#gdc-2021-1027187>) | [GDC 2021: One More Run: The Making of ‘Spelunky 2’ with Derek Yu](<https://howtomarketagame.com/2021/07/22/gdc-2021-one-more-run-the-making-of-spelunky-2-with-derek-yu/>) | Chris Zukowski 的参会笔记；区分其 CZ 评论和 Derek Yu 的演讲内容。 | 2026-11-07 |
+| 2021 | [Independent Games Summit: Sparking Curiosity-Driven Exploration Through Narrative in 'Outer Wilds'](<../2021/independent-games.md#gdc-2021-1027008>) | [Explaining the value of show don't tell storytelling in Outer Wilds](<https://www.gamedeveloper.com/business/explaining-the-value-of-show-don-t-tell-storytelling-in-i-outer-wilds-i->) | GDC 2021 Kelsey Beachum 好奇心探索叙事会话报道，含游戏地点机制剧透。 | 2026-11-07 |
+| 2021 | [Independent Games Summit: What to Expect With Your Launch? Sharing Concrete Data on Various Marketing Activities When Releasing Your Indie Game](<../2021/independent-games.md#gdc-2021-1027453>) | [Wishlist Wednesday: How much promotion should you be doing?](<https://howtomarketagame.com/2021/06/30/wishlist-wednesday-how-much-promotion-should-you-be-doing/>) | 讲者 Chris Zukowski 在2021会话前发表的研究实质内容，正文自述来自该 GDC Steam Study；并非纯预告或完整会话转录。 | 2026-11-07 |
+| 2021 | [Master of the Katana: Melee Combat in Ghost of Tsushima](<../2021/design.md#gdc-2021-1027019>) | [［GDC 2021］「Ghost of Tsushima」を作り上げるうえで重要となった5つの要素とは。物語の進行と戦闘の関係を解説するセッション・Master of the Katanaをレポート](<https://www.4gamer.net/games/400/G040041/20210723010/>) | 日文 GDC 2021 Master of the Katana 会话报道，对应 Chris Zimmerman；不是另一场 Lethality and Combat Balance。 | 2026-11-07 |
 
-本年度尚无已核实的免费全文文章。
+## 尚未找到免费全文文章
+
+当前 **418** 场尚无已核实链接，以下保留对应演讲入口；不是免费文章入口。
+
+- ["Alpha Point" UE5 Demo: Unlocking Artist Potential (Presented by Epic Games - Unreal Engine)](<../2021/visual-arts.md#gdc-2021-1027529>)：尚未找到已核实的免费全文文章。
+- ["Swiping on the Six Strings": Crafting an Interactive Guitar in 'The Last of Us: Part II'](<../2021/design.md#gdc-2021-1026990>)：尚未找到已核实的免费全文文章。
+- [#1ReasonToBe](<../2021/culture-sustainability.md#gdc-2021-1026965>)：尚未找到已核实的免费全文文章。
+- ['Final Fantasy VII' Remake: Automating Quality Assurance and the Tools for the Future](<../2021/programming.md#gdc-2021-1027049>)：尚未找到已核实的免费全文文章。
+- ['Homefront' to 'God of War': Using Music to Build Suspense](<../2021/audio.md#gdc-2021-1028692>)：尚未找到已核实的免费全文文章。
+- ['Marvel's Spider-Man Miles Morales': Beginning a New Adventure](<../2021/design.md#gdc-2021-1026981>)：尚未找到已核实的免费全文文章。
+- ['Marvel's Spider-Man Miles Morales': The Creative Journey](<../2021/design.md#gdc-2021-1027193>)：尚未找到已核实的免费全文文章。
+- ['Mutazione' Visualised](<../2021/visual-arts.md#gdc-2021-1027380>)：尚未找到已核实的免费全文文章。
+- ['Ori Will of the Wisps': Narrative Design and Visual Storytelling](<../2021/design.md#gdc-2021-1027071>)：尚未找到已核实的免费全文文章。
+- ['Resident Evil Village': Our Approach to Game Design, Art Direction, and Graphics](<../2021/programming.md#gdc-2021-1027542>)：尚未找到已核实的免费全文文章。
+- ['Sea of Solitude': Game Design Based on Human Emotions](<../2021/culture-sustainability.md#gdc-2021-1027117>)：尚未找到已核实的免费全文文章。
+- ['Seekers Notes': 5 Key Takeways from 5 Years Experience](<../2021/production-team-leadership.md#gdc-2021-1027377>)：尚未找到已核实的免费全文文章。
+- ['Sunless Skies': A Narrative Postmortem](<../2021/design.md#gdc-2021-1027407>)：尚未找到已核实的免费全文文章。
+- [2021 Player Engagement Trends in Mobile (Presented by Vungle)](<../2021/business-marketing.md#gdc-2021-1027478>)：尚未找到已核实的免费全文文章。
+- [30 Minute Steam Page Makeovers](<../2021/business-marketing.md#gdc-2021-1027142>)：尚未找到已核实的免费全文文章。
+- [30 Puzzle Design Lessons From The World's Greatest Puzzle Communities](<../2021/design.md#gdc-2021-1027306>)：尚未找到已核实的免费全文文章。
+- [A Recipe for Mixed Reality in 'Mario Kart Live'](<../2021/programming.md#gdc-2021-1027130>)：尚未找到已核实的免费全文文章。
+- [Accessibility Best Practices: Mobility Considerations](<../2021/design.md#gdc-2021-1027111>)：尚未找到已核实的免费全文文章。
+- [Advanced Graphics Summit: A Dynamic Skydome System: 'Ephemeris 2'](<../2021/programming.md#gdc-2021-1027292>)：尚未找到已核实的免费全文文章。
+- [Advanced Graphics Summit: Boots on the Ground: The Terrain of 'Call of Duty'](<../2021/programming.md#gdc-2021-1027463>)：尚未找到已核实的免费全文文章。
+- [Advanced Graphics Summit: Lifting the Fog: Geometry &amp; Lighting in 'Demon's Souls'](<../2021/programming.md#gdc-2021-1027011>)：尚未找到已核实的免费全文文章。
+- [Advanced Graphics Summit: Procedural Grass in 'Ghost of Tsushima'](<../2021/programming.md#gdc-2021-1027033>)：尚未找到已核实的免费全文文章。
+- [Advanced Graphics Summit: Shadows of Cold War: A Scalable Approach to Shadowing](<../2021/programming.md#gdc-2021-1027442>)：尚未找到已核实的免费全文文章。
+- [Advocacy Microtalks](<../2021/culture-sustainability.md#gdc-2021-1027140>)：尚未找到已核实的免费全文文章。
+- [AI Action Planning on Assassin's Creed Odyssey and Immortals Fenyx Rising](<../2021/design.md#gdc-2021-1027004>)：尚未找到已核实的免费全文文章。
+- [AI Summit: Advanced Real-Time Hierarchical Task Networks: A New Approach](<../2021/programming.md#gdc-2021-1027232>)：尚未找到已核实的免费全文文章。
+- [AI Summit: Automated Game Testing Using a Numeric Domain Independent AI Planner](<../2021/programming.md#gdc-2021-1027236>)：尚未找到已核实的免费全文文章。
+- [AI Summit: Beyond Pre-training: Experiences of Applying Imitation Learning in Game AI](<../2021/programming.md#gdc-2021-1027238>)：尚未找到已核实的免费全文文章。
+- [AI Summit: Branching Out: 'Watch Dogs Legion's' Architecture for Group AI Behaviours](<../2021/programming.md#gdc-2021-1027239>)：尚未找到已核实的免费全文文章。
+- [AI Summit: Driving Emotionally Expressive NPC Animations and Behaviors with a Designer Friendly Pipeline](<../2021/programming.md#gdc-2021-1027102>)：尚未找到已核实的免费全文文章。
+- [AI Summit: Experimental AI Workshop](<../2021/programming.md#gdc-2021-1027246>)：尚未找到已核实的免费全文文章。
+- [AI Summit: Intrigue and Betrayal: Diplomacy AI in 'Total War: Three Kingdoms'](<../2021/programming.md#gdc-2021-1027242>)：尚未找到已核实的免费全文文章。
+- [AI Summit: Making the Believable Horses of 'Red Dead Redemption II'](<../2021/programming.md#gdc-2021-1027113>)：尚未找到已核实的免费全文文章。
+- [AI Summit: Missions Played As Anyone in 'Watch Dogs: Legion'](<../2021/programming.md#gdc-2021-1027032>)：尚未找到已核实的免费全文文章。
+- [AI Summit: Squad Coordination in 'Days Gone'](<../2021/programming.md#gdc-2021-1027066>)：尚未找到已核实的免费全文文章。
+- [AI Summit: Steering, Formations, and a Trail of Blood: AI in 'Wolcen'](<../2021/programming.md#gdc-2021-1026979>)：尚未找到已核实的免费全文文章。
+- [AI Summit: Where The $@*&amp;% Are Your Tests?!](<../2021/programming.md#gdc-2021-1027101>)：尚未找到已核实的免费全文文章。
+- [AI Summit: Your Buddy, the Grandmaster: Repurposing Gameplaying AI for Inclusivity](<../2021/programming.md#gdc-2021-1027235>)：尚未找到已核实的免费全文文章。
+- [AI x Game Environment Guardian](<../2021/programming.md#gdc-2021-1027073>)：尚未找到已核实的免费全文文章。
+- [Animation Bootcamp: Cuphead Process and Philosophy](<../2021/visual-arts.md#gdc-2021-1026941>)：尚未找到已核实的免费全文文章。
+- [Animation for VR](<../2021/visual-arts.md#gdc-2021-1027372>)：尚未找到已核实的免费全文文章。
+- [Animation Summit: Animating a Complex 2D Fighting Game 3 Frames at a Time](<../2021/visual-arts.md#gdc-2021-1027125>)：尚未找到已核实的免费全文文章。
+- [Animation Summit: Environmental and Motion Matched Interactions; 'Madden', 'FIFA' and Beyond!](<../2021/visual-arts.md#gdc-2021-1027465>)：尚未找到已核实的免费全文文章。
+- [Animation Summit: From Design: Full Procedural Animations for Mechs](<../2021/visual-arts.md#gdc-2021-1027234>)：尚未找到已核实的免费全文文章。
+- [Animation Summit: How to Make Animation Blend More Natural: A Mannequin-Based Multi-Fragment Animation Blend System](<../2021/visual-arts.md#gdc-2021-1027106>)：尚未找到已核实的免费全文文章。
+- [Animation Summit: Rebuilding the 'Borderlands' Animation Pipeline in Unreal 4](<../2021/visual-arts.md#gdc-2021-1027468>)：尚未找到已核实的免费全文文章。
+- [Animation Summit: Take 'CONTROL' of Animation](<../2021/visual-arts.md#gdc-2021-1026988>)：尚未找到已核实的免费全文文章。
+- [Are You Venture Investible: Non-Obvious Roadblocks and Red Flags When Pitching Game VCs](<../2021/business-marketing.md#gdc-2021-1027255>)：尚未找到已核实的免费全文文章。
+- [Art Direction Summit: Better, Stronger, Faster: 3D Concept Art for Environment Production](<../2021/visual-arts.md#gdc-2021-1028674>)：尚未找到已核实的免费全文文章。
+- [Art Direction Summit: Collaborative Art Direction](<../2021/visual-arts.md#gdc-2021-1027294>)：尚未找到已核实的免费全文文章。
+- [Art Direction Summit: Creating Narrative Context for Store Cosmetics](<../2021/visual-arts.md#gdc-2021-1027288>)：尚未找到已核实的免费全文文章。
+- [Art Direction Summit: IKEA: Art Directing the Real World](<../2021/visual-arts.md#gdc-2021-1027286>)：尚未找到已核实的免费全文文章。
+- [Art Direction Summit: LIVE Fireside Chat with Jason Connell and Andrew Maximov](<../2021/visual-arts.md#gdc-2021-1027473>)：尚未找到已核实的免费全文文章。
+- [Art Direction Summit: LIVE Fireside Chat with John Sweeney and Andrew Maximov](<../2021/visual-arts.md#gdc-2021-1027474>)：尚未找到已核实的免费全文文章。
+- [Art Direction Summit: The Natural World of 'Assassin's Creed Valhalla'](<../2021/visual-arts.md#gdc-2021-1027284>)：尚未找到已核实的免费全文文章。
+- [Art vs. Production: The "Battle" to Ship Premium Cosmetics in 'VALORANT'](<../2021/production-team-leadership.md#gdc-2021-1027323>)：尚未找到已核实的免费全文文章。
+- [Ask Me Anything: Brian Horton, Creative Director on Insomniac Games' Marvel's Spider-Man: Miles Morales](<../2021/design.md#gdc-2021-1028703>)：尚未找到已核实的免费全文文章。
+- [Ask Me Anything: Q&amp;A with 'Demon's Souls' Creative Director Gavin Moore](<../2021/design.md#gdc-2021-1028699>)：尚未找到已核实的免费全文文章。
+- [Ask Me Anything: Q&amp;A with Obsidian Entertainment's Carrie Patel](<../2021/design.md#gdc-2021-1028700>)：尚未找到已核实的免费全文文章。
+- [Ask Me Anything: Q&amp;A with Yacht Club Games' David D'Angelo](<../2021/programming.md#gdc-2021-1026935>)：尚未找到已核实的免费全文文章。
+- [Ask Me Anything: Sucker Punch Productions Co-founder Brian Fleming talks 'Ghost of Tsushima'](<../2021/culture-sustainability.md#gdc-2021-1026959>)：尚未找到已核实的免费全文文章。
+- [Audio Futures: Technologies for Games](<../2021/audio.md#gdc-2021-1027006>)：尚未找到已核实的免费全文文章。
+- [Audio Summit: 'Genesis Noir': Bringing Jazz Improvisation To Gaming](<../2021/audio.md#gdc-2021-1027416>)：尚未找到已核实的免费全文文章。
+- [Audio Summit: Behind the Scenes of the Audio in 'Say No! More'](<../2021/audio.md#gdc-2021-1027013>)：尚未找到已核实的免费全文文章。
+- [Audio Summit: DIY Musical Instruments Using Unity, Wwise and Game Controllers](<../2021/audio.md#gdc-2021-1027415>)：尚未找到已核实的免费全文文章。
+- [Audio Summit: LIVE Fireside Chat with Anastasia Devana and Scott Selfon](<../2021/audio.md#gdc-2021-1027471>)：尚未找到已核实的免费全文文章。
+- [Audio Summit: Moving the Needle: Inclusive Audio Production Practices in 'Tell Me Why'](<../2021/audio.md#gdc-2021-1027413>)：尚未找到已核实的免费全文文章。
+- [Audio Summit: The Read Thread: Repetition and Variation in Game Music](<../2021/audio.md#gdc-2021-1027418>)：尚未找到已核实的免费全文文章。
+- [Audio Summit: Voice Games: Past, Present and Future](<../2021/audio.md#gdc-2021-1027034>)：尚未找到已核实的免费全文文章。
+- [Audio Summit: VR Audio Adaptation of Third Person Gameplay](<../2021/audio.md#gdc-2021-1027037>)：尚未找到已核实的免费全文文章。
+- [Avoid an Identity Crisis as a Technical Designer](<../2021/design.md#gdc-2021-1027250>)：尚未找到已核实的免费全文文章。
+- [Azure PlayFab Multiplayer Servers Quick Start (Presented by Microsoft)](<../2021/programming.md#gdc-2021-1027496>)：尚未找到已核实的免费全文文章。
+- [Being Black in Game Audio](<../2021/audio.md#gdc-2021-1027147>)：尚未找到已核实的免费全文文章。
+- [Better Live Game Releases with Persona Based Testing](<../2021/production-team-leadership.md#gdc-2021-1027010>)：尚未找到已核实的免费全文文章。
+- [Beyond Test Servers: How 'For Honor' Made Testing a Celebrated Player Experience](<../2021/production-team-leadership.md#gdc-2021-1026989>)：尚未找到已核实的免费全文文章。
+- [Big World, Small Team: Designing a Scalable Ambience System for 'Ghost of Tsushima'](<../2021/design.md#gdc-2021-1026976>)：尚未找到已核实的免费全文文章。
+- [Billions of Gamers. Thousands of Needs. Millions of Opportunities. (Presented by Intel Corporation)](<../2021/business-marketing.md#gdc-2021-1028698>)：尚未找到已核实的免费全文文章。
+- [Black Games in Review: An Afro Future Flyby](<../2021/design.md#gdc-2021-1027148>)：尚未找到已核实的免费全文文章。
+- [Blasting Through Obstacles of Remote Game Development (Presented by Nasuni)](<../2021/design.md#gdc-2021-1027522>)：尚未找到已核实的免费全文文章。
+- [Blowing from the West: Simulating Wind in 'Ghost of Tsushima'](<../2021/programming.md#gdc-2021-1027124>)：尚未找到已核实的免费全文文章。
+- [Board Game Design Summit: 'Return to Dark Tower': Designing Compelling Physical-Digital Connected Games](<../2021/design.md#gdc-2021-1027438>)：尚未找到已核实的免费全文文章。
+- [Board Game Design Summit: 'Root': A Usability Postmortem](<../2021/design.md#gdc-2021-1027411>)：尚未找到已核实的免费全文文章。
+- [Board Game Design Summit: Art Direction for Board Games: Creating Compelling and Effective Visual Designs](<../2021/design.md#gdc-2021-1027077>)：尚未找到已核实的免费全文文章。
+- [Board Game Design Summit: Creating Immersion in Tabletop Games](<../2021/design.md#gdc-2021-1027445>)：尚未找到已核实的免费全文文章。
+- [Board Game Design Summit: Creating Resonance with Thematic Design](<../2021/design.md#gdc-2021-1027435>)：尚未找到已核实的免费全文文章。
+- [Board Game Design Summit: Don't Hate the Player: Designing Board Games for Divergent Play Experiences](<../2021/design.md#gdc-2021-1027028>)：尚未找到已核实的免费全文文章。
+- [Board Game Design Summit: Making Sense of Digital Tools In Modern Board Games](<../2021/design.md#gdc-2021-1027441>)：尚未找到已核实的免费全文文章。
+- [Breaking Design Bottlenecks with Dialogue Stubbing](<../2021/design.md#gdc-2021-1027027>)：尚未找到已核实的免费全文文章。
+- [Breaking Down International Borders: Confidently Managing Global Gaming Payments (Presented by Tipalti)](<../2021/business-marketing.md#gdc-2021-1027495>)：尚未找到已核实的免费全文文章。
+- [Breaking the Ankh: Deterministic Propagation Netcode in 'Spelunky 2'](<../2021/programming.md#gdc-2021-1027119>)：尚未找到已核实的免费全文文章。
+- [Breaking the Silence: The Sound of 'Hardspace: Shipbreaker'](<../2021/audio.md#gdc-2021-1027096>)：尚未找到已核实的免费全文文章。
+- [Bringing Allies to Life in the 'Last of Us Part II'](<../2021/design.md#gdc-2021-1027012>)：尚未找到已核实的免费全文文章。
+- [Bringing Console Gaming to Mobile with Crash Bandicoot: On the Run! (Presented by Arm)](<../2021/programming.md#gdc-2021-1027487>)：尚未找到已核实的免费全文文章。
+- [Building Game Development Communities](<../2021/business-marketing.md#gdc-2021-1027015>)：尚未找到已核实的免费全文文章。
+- [Building Pipelines to Find, Grow, and Retain Diverse Talent](<../2021/culture-sustainability.md#gdc-2021-1027150>)：尚未找到已核实的免费全文文章。
+- [Call Me on My Cell Phone: The VR UI of 'Dance Central'](<../2021/visual-arts.md#gdc-2021-1027391>)：尚未找到已核实的免费全文文章。
+- [Career Development Demystified: A Framework for Career Growth in Video Games](<../2021/career.md#gdc-2021-1027050>)：尚未找到已核实的免费全文文章。
+- [Case Study: How Minecraft Ported Realms to Azure (Presented by Microsoft)](<../2021/programming.md#gdc-2021-1027493>)：尚未找到已核实的免费全文文章。
+- [Census: The Systemic Backbone Behind Play As Anyone in 'Watch Dogs: Legion'](<../2021/programming.md#gdc-2021-1027018>)：尚未找到已核实的免费全文文章。
+- [Character Technology of 'The Last of Us Part II'](<../2021/programming.md#gdc-2021-1027376>)：尚未找到已核实的免费全文文章。
+- [Charm Your Communities](<../2021/business-marketing.md#gdc-2021-1027151>)：尚未找到已核实的免费全文文章。
+- [Classic Game Postmortem: 'Deus Ex'](<../2021/design.md#gdc-2021-1028676>)：尚未找到已核实的免费全文文章。
+- [Classic Game Postmortem: 'Ms. Pac-Man'](<../2021/design.md#gdc-2021-1028701>)：尚未找到已核实的免费全文文章。
+- [Classic Game Postmortem: 'Quake': The End of the Original Id](<../2021/design.md#gdc-2021-1027152>)：尚未找到已核实的免费全文文章。
+- [Classic Game Postmortem: 'Star Wars Galaxies'](<../2021/design.md#gdc-2021-1026998>)：尚未找到已核实的免费全文文章。
+- [Cloud Gaming: Where Are We Now, Where Are We Going?](<../2021/business-marketing.md#gdc-2021-1027020>)：尚未找到已核实的免费全文文章。
+- [Collaborate Smarter with Design and Product to Improve Your KPIs (Presented by PeopleFun)](<../2021/design.md#gdc-2021-1027510>)：尚未找到已核实的免费全文文章。
+- [Collaborative Game Development with NVIDIA Omniverse (Presented by NVIDIA)](<../2021/design.md#gdc-2021-1027497>)：尚未找到已核实的免费全文文章。
+- [Community Management Summit: Accessible Community Management](<../2021/business-marketing.md#gdc-2021-1026985>)：尚未找到已核实的免费全文文章。
+- [Community Management Summit: Expanding Single-Player Games to a Multiplayer Experience with Discord](<../2021/business-marketing.md#gdc-2021-1027030>)：尚未找到已核实的免费全文文章。
+- [Community Management Summit: How to Support Multi-Language Communities](<../2021/business-marketing.md#gdc-2021-1027053>)：尚未找到已核实的免费全文文章。
+- [Community Management Summit: The Draw of Social Structures in Online Games during a Pandemic](<../2021/business-marketing.md#gdc-2021-1027361>)：尚未找到已核实的免费全文文章。
+- [Community Management Summit: The Ever Increasing Impact of Voice Chat in Games](<../2021/business-marketing.md#gdc-2021-1027087>)：尚未找到已核实的免费全文文章。
+- [Community Management Summit: Trust &amp; Safety Is a Team Sport: A Deep Dive Into Cross Department Collaboration Strategies](<../2021/business-marketing.md#gdc-2021-1027088>)：尚未找到已核实的免费全文文章。
+- [Community Safety: What Does It Mean?](<../2021/culture-sustainability.md#gdc-2021-1027154>)：尚未找到已核实的免费全文文章。
+- [Composing for Chinese Instruments](<../2021/audio.md#gdc-2021-1027226>)：尚未找到已核实的免费全文文章。
+- [Connecting Core Gameplay to Progression in Mobile Free to Play Games](<../2021/design.md#gdc-2021-1027021>)：尚未找到已核实的免费全文文章。
+- [Conquer Challenges No Matter Your Team Size (Presented by Perforce)](<../2021/production-team-leadership.md#gdc-2021-1027512>)：尚未找到已核实的免费全文文章。
+- [Create Amazing In-Game and Out-of-Game Experiences Faster (Presented by Contentstack)](<../2021/production-team-leadership.md#gdc-2021-1027479>)：尚未找到已核实的免费全文文章。
+- [Creating a Horror Score on a Shoestring Budget](<../2021/audio.md#gdc-2021-1027024>)：尚未找到已核实的免费全文文章。
+- [Creating a Portrait System Based on DNA for 'Crusader Kings III'](<../2021/programming.md#gdc-2021-1027354>)：尚未找到已核实的免费全文文章。
+- [Creating a Sustainable Volunteer Game Development Community](<../2021/production-team-leadership.md#gdc-2021-1027060>)：尚未找到已核实的免费全文文章。
+- [Creating Feudal Japan from Across the Pacific](<../2021/design.md#gdc-2021-1027155>)：尚未找到已核实的免费全文文章。
+- [Creating Newstalgia for 'Crash Bandicoot 4': Modernizing a Classic IP](<../2021/design.md#gdc-2021-1027023>)：尚未找到已核实的免费全文文章。
+- [Creating the Soundscape of 'It Takes Two'](<../2021/audio.md#gdc-2021-1027157>)：尚未找到已核实的免费全文文章。
+- [Creative and Experimental VFX in 'The Last of Us Part II'](<../2021/visual-arts.md#gdc-2021-1027072>)：尚未找到已核实的免费全文文章。
+- [Cutting Apart The Diegetic Interface of 'Hardspace: Shipbreaker'](<../2021/design.md#gdc-2021-1027036>)：尚未找到已核实的免费全文文章。
+- [Dealing with Scope Change in 'Heat Signature' and 'Gunpoint'](<../2021/production-team-leadership.md#gdc-2021-1028693>)：尚未找到已核实的免费全文文章。
+- [Designing a Production Process](<../2021/production-team-leadership.md#gdc-2021-1027025>)：尚未找到已核实的免费全文文章。
+- [Designing for Healing: 'UnearthU'](<../2021/design.md#gdc-2021-1027026>)：尚未找到已核实的免费全文文章。
+- [Designing the Secret Game that Helped Win World War II](<../2021/design.md#gdc-2021-1027159>)：尚未找到已核实的免费全文文章。
+- [Developing a UX Mindset on Fortnite](<../2021/production-team-leadership.md#gdc-2021-1028688>)：尚未找到已核实的免费全文文章。
+- [Developing Data Intensive Games with MongoDB Realm SDK for Unity (Presented by MongoDB)](<../2021/programming.md#gdc-2021-1027533>)：尚未找到已核实的免费全文文章。
+- [Developing Ray Tracing Content on Mobile (Presented by Arm)](<../2021/programming.md#gdc-2021-1027491>)：尚未找到已核实的免费全文文章。
+- [DevNote: Next Level Game Development with HP Technologies (Presented by HP Inc.)](<../2021/special-events.md#gdc-2021-1027483>)：尚未找到已核实的免费全文文章。
+- [DevNote: State of the Industry: The Secrets to Success (Presented by Xsolla)](<../2021/special-events.md#gdc-2021-1027482>)：尚未找到已核实的免费全文文章。
+- [DevTools for Harnessing Ray Tracing in Games (Presented by NVIDIA)](<../2021/programming.md#gdc-2021-1027501>)：尚未找到已核实的免费全文文章。
+- [Diversity + Representation LatinX Gaming Industry Panel](<../2021/culture-sustainability.md#gdc-2021-1027543>)：尚未找到已核实的免费全文文章。
+- [Diversity and Inclusion Starter Kit](<../2021/culture-sustainability.md#gdc-2021-1028681>)：尚未找到已核实的免费全文文章。
+- [Dream Daddies and Fearful Fathers: How Indies Can Cope with Being Terminally Online](<../2021/production-team-leadership.md#gdc-2021-1028684>)：尚未找到已核实的免费全文文章。
+- [Driving Innovation: A New Vehicle Pipeline for 'The Last of Us: Part II'](<../2021/visual-arts.md#gdc-2021-1027001>)：尚未找到已核实的免费全文文章。
+- [Educators Summit: A Three Course Meal in Graphics Programming Education](<../2021/educators.md#gdc-2021-1027440>)：尚未找到已核实的免费全文文章。
+- [Educators Summit: Approaching a Pedagogy of Game Writing](<../2021/educators.md#gdc-2021-1027099>)：尚未找到已核实的免费全文文章。
+- [Educators Summit: Introducing Beginners to 3D Level Design](<../2021/educators.md#gdc-2021-1027437>)：尚未找到已核实的免费全文文章。
+- [Educators Summit: Living the Dream or Surviving the Nightmare: Making Commercial Indie Games as a Professor](<../2021/educators.md#gdc-2021-1027436>)：尚未找到已核实的免费全文文章。
+- [Educators Summit: Object Oriented Python Crash Course Using Houdini](<../2021/educators.md#gdc-2021-1027439>)：尚未找到已核实的免费全文文章。
+- [Educators Summit: Teaching Games with Games: 6 Lessons from Life Online](<../2021/educators.md#gdc-2021-1026994>)：尚未找到已核实的免费全文文章。
+- [Educators Summit: Why My Students Design Escape Rooms](<../2021/educators.md#gdc-2021-1027135>)：尚未找到已核实的免费全文文章。
+- [Elevate Your Game with Progressive Delivery (Presented by Bugsnag)](<../2021/production-team-leadership.md#gdc-2021-1027486>)：尚未找到已核实的免费全文文章。
+- [Emotional Systemic Facial of 'Last of Us Part II'](<../2021/design.md#gdc-2021-1027252>)：尚未找到已核实的免费全文文章。
+- [Enhancement of Particle Simulation Using Screen Space Techniques in 'The Last of Us Part II'](<../2021/programming.md#gdc-2021-1027356>)：尚未找到已核实的免费全文文章。
+- [Ensuring a Positive, Collaborative Team Culture](<../2021/design.md#gdc-2021-1027083>)：尚未找到已核实的免费全文文章。
+- [Entertainment AR/VR: Design Challenges and Opportunities in Mobile AR: A 'Table Trenches' Retrospective](<../2021/vr-ar.md#gdc-2021-1026986>)：尚未找到已核实的免费全文文章。
+- [Entertainment VR/AR: 'Insurrection 1944' Mixed Reality Experience: Bringing Interactive Storytelling to a Museum's Audience](<../2021/vr-ar.md#gdc-2021-1027132>)：尚未找到已核实的免费全文文章。
+- [Entertainment VR/AR: Building an Expansive Star Wars World in Mobile VR](<../2021/vr-ar.md#gdc-2021-1026977>)：尚未找到已核实的免费全文文章。
+- [Entertainment VR/AR: LIVE Fireside Chat with Curtis Hickman and Dana Ware](<../2021/vr-ar.md#gdc-2021-1027470>)：尚未找到已核实的免费全文文章。
+- [Entertainment VR/AR: Postmortem: 'Maroon' an Educational VR Experience](<../2021/vr-ar.md#gdc-2021-1026971>)：尚未找到已核实的免费全文文章。
+- [Entertainment VR/AR: Risks and Opportunities Highlighted in Important Recent VR Cases](<../2021/vr-ar.md#gdc-2021-1027387>)：尚未找到已核实的免费全文文章。
+- [Environment Design as Visual Storytelling: Theory and Practice](<../2021/design.md#gdc-2021-1027254>)：尚未找到已核实的免费全文文章。
+- [Esports Summit: Diversity &amp; Inclusion in the Esports Industry](<../2021/business-marketing.md#gdc-2021-1027405>)：尚未找到已核实的免费全文文章。
+- [Esports Summit: Living on 1HP: Early Research into Health and Performance in Esports](<../2021/business-marketing.md#gdc-2021-1026987>)：尚未找到已核实的免费全文文章。
+- [Esports Summit: Race to Compete: Speedrunning and Esports](<../2021/business-marketing.md#gdc-2021-1027412>)：尚未找到已核实的免费全文文章。
+- [Everything You Need to Build a Modern Cross-Play Enabled Game (Presented by Epic Games - Unreal Engine)](<../2021/business-marketing.md#gdc-2021-1027527>)：尚未找到已核实的免费全文文章。
+- [Evolving Animating with Unreal Engine (Presented by Epic Games - Unreal Engine)](<../2021/visual-arts.md#gdc-2021-1027528>)：尚未找到已核实的免费全文文章。
+- [Experimental Gameplay Workshop](<../2021/design.md#gdc-2021-1027546>)：尚未找到已核实的免费全文文章。
+- [Exploration in Ghost of Tsushima: Letting the Island Guide You](<../2021/design.md#gdc-2021-1027399>)：尚未找到已核实的免费全文文章。
+- [Exploring Alternative Methods of Web Monetization Microtalks](<../2021/business-marketing.md#gdc-2021-1027256>)：尚未找到已核实的免费全文文章。
+- [Exploring Hidden Stories in the World of 'XCOM 2'](<../2021/visual-arts.md#gdc-2021-1028680>)：尚未找到已核实的免费全文文章。
+- [F2P Ad Placement Takeaways From Analyzing 150 Creatives and 6 Billion Impressions (Presented by Vungle)](<../2021/business-marketing.md#gdc-2021-1027477>)：尚未找到已核实的免费全文文章。
+- [Fair Play Summit: Applying Methods from Other Domains to Identify Gamer Behaviors](<../2021/culture-sustainability.md#gdc-2021-1027075>)：尚未找到已核实的免费全文文章。
+- [Fair Play Summit: Building Blocks For Policy Development](<../2021/culture-sustainability.md#gdc-2021-1026996>)：尚未找到已核实的免费全文文章。
+- [Fair Play Summit: Creating Inclusive Content In the Metaverse and Beyond](<../2021/culture-sustainability.md#gdc-2021-1027163>)：尚未找到已核实的免费全文文章。
+- [Fair Play Summit: Evaluating Game Features for Disruptive and Positive Behavior](<../2021/culture-sustainability.md#gdc-2021-1027029>)：尚未找到已核实的免费全文文章。
+- [Fair Play Summit: LIVE Fireside Chat: Getting Started with the Disruption and Harms in Gaming Framework](<../2021/culture-sustainability.md#gdc-2021-1027165>)：尚未找到已核实的免费全文文章。
+- [Fair Play Summit: LIVE Fireside Chat: The Disruption and Harms in Gaming Framework: Six Month Check-In](<../2021/culture-sustainability.md#gdc-2021-1027166>)：尚未找到已核实的免费全文文章。
+- [Fair Play Summit: Tackling Cheating In Gaming](<../2021/culture-sustainability.md#gdc-2021-1027167>)：尚未找到已核实的免费全文文章。
+- [Fair Play Summit: Virtual Identities: Opportunities, Ethics and Risks](<../2021/culture-sustainability.md#gdc-2021-1027168>)：尚未找到已核实的免费全文文章。
+- [Fandom-Ready: Creating Fiction in the Age of Fan Consumption](<../2021/business-marketing.md#gdc-2021-1026961>)：尚未找到已核实的免费全文文章。
+- [Fighting with Data: Learnings from Building the Combat System in 'Assassin's Creed: Valhalla'](<../2021/design.md#gdc-2021-1026999>)：尚未找到已核实的免费全文文章。
+- [Find the Right Match: AI Enhanced Matchmaking Practice in Netease Games](<../2021/design.md#gdc-2021-1027278>)：尚未找到已核实的免费全文文章。
+- [Fizzy Brushstrokes: The Art of 'Knights and Bikes'](<../2021/visual-arts.md#gdc-2021-1028673>)：尚未找到已核实的免费全文文章。
+- [Force Multipliers: Longterm Design Careers for Non Leads](<../2021/production-team-leadership.md#gdc-2021-1027056>)：尚未找到已核实的免费全文文章。
+- [Free to Play Summit: Building a 10 Year Game Economy](<../2021/business-marketing.md#gdc-2021-1027014>)：尚未找到已核实的免费全文文章。
+- [Free to Play Summit: Diagnosing, Fixing and Preventing Issues in Free-to-Play Economies](<../2021/business-marketing.md#gdc-2021-1027263>)：尚未找到已核实的免费全文文章。
+- [Free to Play Summit: Game Dev Stories](<../2021/business-marketing.md#gdc-2021-1027067>)：尚未找到已核实的免费全文文章。
+- [Free to Play Summit: Hill Climb Racing: A Decade-long Road to 1 Billion Installs](<../2021/business-marketing.md#gdc-2021-1027259>)：尚未找到已核实的免费全文文章。
+- [Free to Play Summit: How to Win Players' Hearts by Personalized Recommendations in the Game 'UNO!'](<../2021/business-marketing.md#gdc-2021-1027107>)：尚未找到已核实的免费全文文章。
+- [Free to Play Summit: IDFA's Gone Away: Will Free-to-Play be Okay?](<../2021/business-marketing.md#gdc-2021-1027275>)：尚未找到已核实的免费全文文章。
+- [Free to Play Summit: Ludo-Narrative Goldilocks](<../2021/business-marketing.md#gdc-2021-1027260>)：尚未找到已核实的免费全文文章。
+- [Free to Play Summit: Narrative Breadcrumbs: Guiding the Player Experience with Live Events](<../2021/business-marketing.md#gdc-2021-1027054>)：尚未找到已核实的免费全文文章。
+- [Free to Play Summit: Smart Speakers: An Overview of an up-and-Coming Category](<../2021/business-marketing.md#gdc-2021-1027103>)：尚未找到已核实的免费全文文章。
+- [Free to Play Summit: Supercharging Game Growth: Playtika's Secret Sauce](<../2021/business-marketing.md#gdc-2021-1027270>)：尚未找到已核实的免费全文文章。
+- [Free to Play Summit: The Game Designer's Notebook](<../2021/business-marketing.md#gdc-2021-1027057>)：尚未找到已核实的免费全文文章。
+- [Free to Play Summit: The Year in Mobile Free-to-Play Games](<../2021/business-marketing.md#gdc-2021-1027264>)：尚未找到已核实的免费全文文章。
+- [Free to Play Summit: Turning Science into Magic](<../2021/business-marketing.md#gdc-2021-1027039>)：尚未找到已核实的免费全文文章。
+- [From Live to Sunset: Automating Live-Ops and Game Services](<../2021/production-team-leadership.md#gdc-2021-1027079>)：尚未找到已核实的免费全文文章。
+- [From the Burden of Waterfalls to the Benefits of Bidding (Presented by Facebook)](<../2021/business-marketing.md#gdc-2021-1028697>)：尚未找到已核实的免费全文文章。
+- [From West to East: A Small Adjustment in Artistic Style Has Achieved Great Success](<../2021/visual-arts.md#gdc-2021-1027031>)：尚未找到已核实的免费全文文章。
+- [FUMO Engine: Applying AI to Defeat Cheating in NetEase Games](<../2021/business-marketing.md#gdc-2021-1027349>)：尚未找到已核实的免费全文文章。
+- [Game Career Seminar: "You Want to Do What?" Non-Traditional Pathways to Game Development](<../2021/career.md#gdc-2021-1027137>)：尚未找到已核实的免费全文文章。
+- [Game Career Seminar: 2D Animation for Games: A Primer](<../2021/career.md#gdc-2021-1027041>)：尚未找到已核实的免费全文文章。
+- [Game Career Seminar: Building Narrative Games with Yarn Spinner](<../2021/career.md#gdc-2021-1027172>)：尚未找到已核实的免费全文文章。
+- [Game Career Seminar: Growing Your Code Library with Each New Project](<../2021/career.md#gdc-2021-1027078>)：尚未找到已核实的免费全文文章。
+- [Game Career Seminar: How the Hell do You Make Money!?](<../2021/career.md#gdc-2021-1027174>)：尚未找到已核实的免费全文文章。
+- [Game Career Seminar: Killer Portfolio or Portfolio Killer Part 1: Advice from Industry Artists](<../2021/career.md#gdc-2021-1027175>)：尚未找到已核实的免费全文文章。
+- [Game Career Seminar: Let's make a PICO-8 Game in 30 Minutes!](<../2021/career.md#gdc-2021-1027176>)：尚未找到已核实的免费全文文章。
+- [Game Career Seminar: The Resilient Job Hunt: Addressing the "Well of Doubts"](<../2021/career.md#gdc-2021-1026991>)：尚未找到已核实的免费全文文章。
+- [Game Narrative Summit: Connected Worlds: Building Dynamic Storyworlds Using Network Theory](<../2021/game-narrative.md#gdc-2021-1027045>)：尚未找到已核实的免费全文文章。
+- [Game Narrative Summit: Everything Means Something: The Creative and Destructive Potential of Themes](<../2021/game-narrative.md#gdc-2021-1026978>)：尚未找到已核实的免费全文文章。
+- [Game Narrative Summit: Finding Character Voice With Your Voice](<../2021/game-narrative.md#gdc-2021-1027218>)：尚未找到已核实的免费全文文章。
+- [Game Narrative Summit: How to Restore Player's Real Inner World in the Virtual Game: Strategies to Satisfy Players' Various Emotional Demands](<../2021/game-narrative.md#gdc-2021-1027211>)：尚未找到已核实的免费全文文章。
+- [Game Narrative Summit: Playing Is Perceiving: How Games Shape (and Reflect) Your Worldview](<../2021/game-narrative.md#gdc-2021-1027216>)：尚未找到已核实的免费全文文章。
+- [Game Narrative Summit: Press Y to Cry: Generating Emotions in Videogame Narrative](<../2021/game-narrative.md#gdc-2021-1027221>)：尚未找到已核实的免费全文文章。
+- [Game Narrative Summit: Punching Upwards: A Panel On Satire, Truthtelling, And How A Comedic Premise Goes From Idea To Playable](<../2021/game-narrative.md#gdc-2021-1027219>)：尚未找到已核实的免费全文文章。
+- [Game Narrative Summit: Storytelling Siblings: The Kindred Connection between Games and Theme Parks](<../2021/game-narrative.md#gdc-2021-1027002>)：尚未找到已核实的免费全文文章。
+- [Game Narrative Summit: The Narrative Innovation Showcase 2021](<../2021/game-narrative.md#gdc-2021-1027220>)：尚未找到已核实的免费全文文章。
+- [Game Narrative Summit: Turn Your Writers Into Programmers: Greyboxing Narrative with Story Languages](<../2021/game-narrative.md#gdc-2021-1027215>)：尚未找到已核实的免费全文文章。
+- [Game Narrative Summit: Voice AI For Game Developers: Optimizing the Narrative Process](<../2021/game-narrative.md#gdc-2021-1027178>)：尚未找到已核实的免费全文文章。
+- [Game Narrative Summit: Why Would a Gamer Want to Be Of the Other Gender: Gender-Changing In Role-Playing Games](<../2021/game-narrative.md#gdc-2021-1027058>)：尚未找到已核实的免费全文文章。
+- [Game Plan: How Voodoo Succeeds With Data and Automation (Presented by MoPub)](<../2021/business-marketing.md#gdc-2021-1027524>)：尚未找到已核实的免费全文文章。
+- [Game VR/AR: 'Pixel Ripped': Using Affective Memory to Increase Immersion on VR Games](<../2021/vr-ar.md#gdc-2021-1027120>)：尚未找到已核实的免费全文文章。
+- [Game VR/AR: From Inception to Final Delivery: The Making of 'The Walking Dead: Saints &amp; Sinners'](<../2021/vr-ar.md#gdc-2021-1026992>)：尚未找到已核实的免费全文文章。
+- [Game VR/AR: The Magic of Designing Levels...In VR](<../2021/vr-ar.md#gdc-2021-1027129>)：尚未找到已核实的免费全文文章。
+- [Games as Community Driven Care: A Case Study of Co-design for Aphasia](<../2021/design.md#gdc-2021-1027179>)：尚未找到已核实的免费全文文章。
+- [Gaming Is the Next Big Thing on CTV" (Presented by Adjust)](<../2021/business-marketing.md#gdc-2021-1027511>)：尚未找到已核实的免费全文文章。
+- [Gaming: Getting the Most out of Your DSP Partnerships (Presented by MOLOCO)](<../2021/business-marketing.md#gdc-2021-1027517>)：尚未找到已核实的免费全文文章。
+- [GDC Main Stage: The Developer's Impact](<../2021/special-events.md#gdc-2021-1027534>)：尚未找到已核实的免费全文文章。
+- [GDC Pitch Presents: How to pitch your GAME to publishers](<../2021/career.md#gdc-2021-1027297>)：尚未找到已核实的免费全文文章。
+- [GDC Pitch Presents: How to pitch your STUDIO to VCs](<../2021/career.md#gdc-2021-1027296>)：尚未找到已核实的免费全文文章。
+- [GDC Podcast Live! Hosted by Gamasutra feat. 'Spelunky' Dev Derek Yu](<../2021/visual-arts.md#gdc-2021-1028706>)：尚未找到已核实的免费全文文章。
+- [GDC Podcast Live! Hosted by Gamasutra feat. Disco Elysium writer Justin Keenan](<../2021/design.md#gdc-2021-1026937>)：尚未找到已核实的免费全文文章。
+- [GDC Podcast Live! Hosted by Gamasutra feat. Game Marketing Pro Chris Zukowski](<../2021/business-marketing.md#gdc-2021-1026938>)：尚未找到已核实的免费全文文章。
+- [GDC Podcast Live! Hosted by Gamasutra feat. Mohawk Games](<../2021/production-team-leadership.md#gdc-2021-1028705>)：尚未找到已核实的免费全文文章。
+- [GDC Podcast Live! Hosted by Gamasutra feat. Prof. Lindsay Grace](<../2021/culture-sustainability.md#gdc-2021-1026960>)：尚未找到已核实的免费全文文章。
+- [Genderf*ck 2077](<../2021/visual-arts.md#gdc-2021-1027074>)：尚未找到已核实的免费全文文章。
+- [Getting the Most Out of an Entry-Level Games Job](<../2021/career.md#gdc-2021-1027105>)：尚未找到已核实的免费全文文章。
+- [Google Maps, Not Greyboxes: Digital Location Scouting for 'Untitled Goose Game'](<../2021/design.md#gdc-2021-1027183>)：尚未找到已核实的免费全文文章。
+- [Great Level Design is a Studio Wide Effort](<../2021/design.md#gdc-2021-1027369>)：尚未找到已核实的免费全文文章。
+- [Hitman: Building a Material Library to Texture the World of Assassination (Presented by Adobe)](<../2021/visual-arts.md#gdc-2021-1027518>)：尚未找到已核实的免费全文文章。
+- [Honoring the Blade: Lethality and Combat Balance in 'Ghost of Tsushima'](<../2021/design.md#gdc-2021-1027076>)：尚未找到已核实的免费全文文章。
+- [How Arm is Advancing Android Gaming in the Cloud (Presented by Arm)](<../2021/business-marketing.md#gdc-2021-1027492>)：尚未找到已核实的免费全文文章。
+- [How Distance Has Shaped the Sound of Our Games](<../2021/audio.md#gdc-2021-1027544>)：尚未找到已核实的免费全文文章。
+- [How Netease Could Help When Building Your Studio (Presented by NetEase Games)](<../2021/business-marketing.md#gdc-2021-1027505>)：尚未找到已核实的免费全文文章。
+- [How the Industry Can Change the "Games Are Bad" Narrative](<../2021/culture-sustainability.md#gdc-2021-1027080>)：尚未找到已核实的免费全文文章。
+- [How to Be a Better Animator (Presented by Autodesk)](<../2021/visual-arts.md#gdc-2021-1027520>)：尚未找到已核实的免费全文文章。
+- [How to Empower Your Inner CEO with Mindfulness and Meditation](<../2021/production-team-leadership.md#gdc-2021-1027338>)：尚未找到已核实的免费全文文章。
+- [Immersing with Music: Approaches to Musical Storytelling in 'Cyberpunk 2077'](<../2021/design.md#gdc-2021-1027228>)：尚未找到已核实的免费全文文章。
+- [Improve your Mobile Game's Experience with Lenovo (Presented by Unity)](<../2021/business-marketing.md#gdc-2021-1027516>)：尚未找到已核实的免费全文文章。
+- [Independent Games Summit: 'Club Picocho': Developing Small Games As an Inexperienced Community](<../2021/independent-games.md#gdc-2021-1027449>)：尚未找到已核实的免费全文文章。
+- [Independent Games Summit: Accessibility on a Shoestring](<../2021/independent-games.md#gdc-2021-1027108>)：尚未找到已核实的免费全文文章。
+- [Independent Games Summit: Cookin' and Servin': Making a Delicious Trilogy of Games](<../2021/independent-games.md#gdc-2021-1027459>)：尚未找到已核实的免费全文文章。
+- [Independent Games Summit: Crafting a Magic Circle Around Your Production Process](<../2021/independent-games.md#gdc-2021-1027022>)：尚未找到已核实的免费全文文章。
+- [Independent Games Summit: Crafting A Tiny Open World: 'A Short Hike' Postmortem](<../2021/design.md#gdc-2021-1028679>)：尚未找到已核实的免费全文文章。
+- [Independent Games Summit: Demystifying Indie Publishing Offers](<../2021/independent-games.md#gdc-2021-1027070>)：尚未找到已核实的免费全文文章。
+- [Independent Games Summit: Don't Be a Copycat: Personalized Marketing for Your Game](<../2021/independent-games.md#gdc-2021-1026980>)：尚未找到已核实的免费全文文章。
+- [Independent Games Summit: Failure Workshop 2021](<../2021/independent-games.md#gdc-2021-1027093>)：尚未找到已核实的免费全文文章。
+- [Independent Games Summit: How to Navigate the Fringes](<../2021/independent-games.md#gdc-2021-1027363>)：尚未找到已核实的免费全文文章。
+- [Independent Games Summit: Inclusive Marketing for Indies](<../2021/independent-games.md#gdc-2021-1027452>)：尚未找到已核实的免费全文文章。
+- [Independent Games Summit: Indie SoapBox](<../2021/independent-games.md#gdc-2021-1027343>)：尚未找到已核实的免费全文文章。
+- [Independent Games Summit: Launch Day: The Emotional Cost Of Releasing a Game](<../2021/independent-games.md#gdc-2021-1027461>)：尚未找到已核实的免费全文文章。
+- [Independent Games Summit: Making Room](<../2021/independent-games.md#gdc-2021-1027457>)：尚未找到已核实的免费全文文章。
+- [Independent Games Summit: Regional Distribution Deals: In the Era of Online Events](<../2021/independent-games.md#gdc-2021-1027462>)：尚未找到已核实的免费全文文章。
+- [Independent Games Summit: Sharing in Success: How to Compensate Your Team Through Revenue Sharing](<../2021/independent-games.md#gdc-2021-1027051>)：尚未找到已核实的免费全文文章。
+- [Independent Games Summit: Spreadsheet Smarter Not Harder](<../2021/independent-games.md#gdc-2021-1027128>)：尚未找到已核实的免费全文文章。
+- [Independent Games Summit: The Cultural Impact of 'Hundred Days': A Winemaking Simulator](<../2021/independent-games.md#gdc-2021-1027450>)：尚未找到已核实的免费全文文章。
+- [Independent Games Summit: You Have to Stop Working, Even When You Can't Stop Working](<../2021/independent-games.md#gdc-2021-1027089>)：尚未找到已核实的免费全文文章。
+- [International Partnerships: Success in U.S &amp; China Collaborations](<../2021/business-marketing.md#gdc-2021-1027324>)：尚未找到已核实的免费全文文章。
+- [Intrinsically Motivated Teams: The Science of Motivation](<../2021/production-team-leadership.md#gdc-2021-1027109>)：尚未找到已核实的免费全文文章。
+- [Is there a AAA future for Mobile Gaming? (Presented by Imagination Technologies)](<../2021/business-marketing.md#gdc-2021-1027509>)：尚未找到已核实的免费全文文章。
+- [Keep Players Busy When They Died: Death System Design in 'Conqueror's Blade'](<../2021/design.md#gdc-2021-1027104>)：尚未找到已核实的免费全文文章。
+- [Keys to Next Level Game Growth (Presented by Google)](<../2021/business-marketing.md#gdc-2021-1028685>)：尚未找到已核实的免费全文文章。
+- [Lessons From Theatre That Can Transform XR Experiences](<../2021/design.md#gdc-2021-1027374>)：尚未找到已核实的免费全文文章。
+- [Lessons Learned in Adapting the 'Sea of Thieves' Automated Testing Methodology to 'Minecraft'](<../2021/production-team-leadership.md#gdc-2021-1027345>)：尚未找到已核实的免费全文文章。
+- [Level Design Workshop: The Illusion of Choice](<../2021/design.md#gdc-2021-1028694>)：尚未找到已核实的免费全文文章。
+- [Level Design Workshop: The Level Design of 'God of War'](<../2021/design.md#gdc-2021-1026953>)：尚未找到已核实的免费全文文章。
+- [Lifetime Value in the Time of Covid](<../2021/business-marketing.md#gdc-2021-1027112>)：尚未找到已核实的免费全文文章。
+- [LIVE Ask Me Anything: Q&amp;A with Global Game Jam's Kate Edwards](<../2021/culture-sustainability.md#gdc-2021-1027188>)：尚未找到已核实的免费全文文章。
+- [LIVE Fireside Chat: Amir Rao and Kelly Wallick on 'Hades'](<../2021/design.md#gdc-2021-1027189>)：尚未找到已核实的免费全文文章。
+- [LIVE Fireside Chat: Geena Davis and Mitu Khandaker on Masculinity in Video Games and the Gaming Community](<../2021/culture-sustainability.md#gdc-2021-1027190>)：尚未找到已核实的免费全文文章。
+- [LIVE Fireside Chat: John Murphy, Kevin Zuhn and Adam Saltsman on 'Bugsnax'](<../2021/design.md#gdc-2021-1027191>)：尚未找到已核实的免费全文文章。
+- [LIVE GDC Main Stage: GDC Plays 'Quake' with John Romero and JP LeBreton](<../2021/special-events.md#gdc-2021-1027472>)：尚未找到已核实的免费全文文章。
+- [Low Poly Modeling: Style Through Economy](<../2021/visual-arts.md#gdc-2021-1028696>)：尚未找到已核实的免费全文文章。
+- [Machine Learning Summit: 3D Parametric Face Model and Its Applications in Games](<../2021/programming.md#gdc-2021-1027003>)：尚未找到已核实的免费全文文章。
+- [Machine Learning Summit: Applying 'AlphaZero' to Develop AI in Turn-Based Card Games](<../2021/programming.md#gdc-2021-1027063>)：尚未找到已核实的免费全文文章。
+- [Machine Learning Summit: Creating Cooperative Character Behaviors Using Deep Reinforcement Learning](<../2021/programming.md#gdc-2021-1026997>)：尚未找到已核实的免费全文文章。
+- [Machine Learning Summit: Creating Game AI by Using Mostly English, with Semantic ML](<../2021/programming.md#gdc-2021-1027005>)：尚未找到已核实的免费全文文章。
+- [Machine Learning Summit: Deep Reinforcement Learning For Navigation](<../2021/programming.md#gdc-2021-1027382>)：尚未找到已核实的免费全文文章。
+- [Machine Learning Summit: Full-Body Animation Generation for Expressive NPCs](<../2021/programming.md#gdc-2021-1027068>)：尚未找到已核实的免费全文文章。
+- [Machine Learning Summit: Identify your Players' Builds from In-Game Data: The BaT Approach](<../2021/programming.md#gdc-2021-1026967>)：尚未找到已核实的免费全文文章。
+- [Machine Learning Summit: ML for Art and Game Balancing with Project Chimera](<../2021/programming.md#gdc-2021-1027212>)：尚未找到已核实的免费全文文章。
+- [Machine Learning Summit: Smart Tech in 'Hearthstone'](<../2021/programming.md#gdc-2021-1027403>)：尚未找到已核实的免费全文文章。
+- [Maintaining Sledgehammer Games' Studio Culture During Rapid Team Growth](<../2021/career.md#gdc-2021-1027300>)：尚未找到已核实的免费全文文章。
+- [Making Great VR Games: A Postmortem on Skydance Interactive's 'The Walking Dead: Saints &amp; Sinners'](<../2021/business-marketing.md#gdc-2021-1026962>)：尚未找到已核实的免费全文文章。
+- [Making Magic: A Business Model for Divergent Thinkers](<../2021/business-marketing.md#gdc-2021-1026963>)：尚未找到已核实的免费全文文章。
+- [Making Marketing Mistakes](<../2021/business-marketing.md#gdc-2021-1028675>)：尚未找到已核实的免费全文文章。
+- [Making Witches Talk in 'DON'T WAKE THE NIGHT'](<../2021/design.md#gdc-2021-1027126>)：尚未找到已核实的免费全文文章。
+- [Math In Game Development Summit: Conservative Mesh Decimation for Collision Detection and Occlusion Culling](<../2021/programming.md#gdc-2021-1027097>)：尚未找到已核实的免费全文文章。
+- [Math in Game Development Summit: Even Faster Math Functions](<../2021/programming.md#gdc-2021-1027337>)：尚未找到已核实的免费全文文章。
+- [Math In Game Development Summit: Getting There in Style: Intro to Interpolation and Control Systems](<../2021/programming.md#gdc-2021-1027059>)：尚未找到已核实的免费全文文章。
+- [Math In Game Development Summit: Mathematical Analysis of Classic Card and Board Games](<../2021/programming.md#gdc-2021-1027055>)：尚未找到已核实的免费全文文章。
+- [Math in Game Development Summit: New Developments in Projective Geometric Algebra](<../2021/programming.md#gdc-2021-1027342>)：尚未找到已核实的免费全文文章。
+- [Math In Game Development Summit: Practical Quaternions: An Easy Guide to 3D Rotations for Non-Mathematicians](<../2021/programming.md#gdc-2021-1027047>)：尚未找到已核实的免费全文文章。
+- [Melee AI in 'The Last of Us Part II'](<../2021/design.md#gdc-2021-1027115>)：尚未找到已核实的免费全文文章。
+- [Mixed Reality Racing Fuses Deeper AR Experience with Physical Gameplay](<../2021/design.md#gdc-2021-1027081>)：尚未找到已核实的免费全文文章。
+- [Model Collision: Balancing Speed and Size in 'Black Ops Cold War'](<../2021/programming.md#gdc-2021-1027116>)：尚未找到已核实的免费全文文章。
+- [Monetization Strategies That Instantly Maximize Your Game's Profit (Presented by HotPlay)](<../2021/business-marketing.md#gdc-2021-1027480>)：尚未找到已核实的免费全文文章。
+- [Monetizing Your App Post iOS 14.5: Different Paths To Success (Presented By MoPub)](<../2021/business-marketing.md#gdc-2021-1027526>)：尚未找到已核实的免费全文文章。
+- [MORTIS 101: 'FAITH's' Horror Design Toolkit](<../2021/design.md#gdc-2021-1027195>)：尚未找到已核实的免费全文文章。
+- [Motion Matching in 'The Last of Us Part II'](<../2021/visual-arts.md#gdc-2021-1027118>)：尚未找到已核实的免费全文文章。
+- [Multi-Model Approach to Hyper-Personalizing Your Game (Presented by TENTUPLAY)](<../2021/business-marketing.md#gdc-2021-1027507>)：尚未找到已核实的免费全文文章。
+- [Not Everything is On Fire All The Time: Making Healthy Workplace Culture a Reality](<../2021/culture-sustainability.md#gdc-2021-1027196>)：尚未找到已核实的免费全文文章。
+- [NVIDIA DLSS Overview &amp; Game Integrations (Presented by NVIDIA)](<../2021/programming.md#gdc-2021-1027499>)：尚未找到已核实的免费全文文章。
+- [NVRTX Artist Guide (Presented by NVIDIA)](<../2021/design.md#gdc-2021-1027498>)：尚未找到已核实的免费全文文章。
+- [Observability Into Game Server Deployment and Performance Through Instrumentation (Presented by Honeycomb.io)](<../2021/programming.md#gdc-2021-1027506>)：尚未找到已核实的免费全文文章。
+- [Online Game Technology Summit: 'Pokmon GoFest 2020': Global Challenge Arena](<../2021/programming.md#gdc-2021-1027121>)：尚未找到已核实的免费全文文章。
+- [Online Game Technology Summit: 'Rocket League': Scaling for Free to Play](<../2021/programming.md#gdc-2021-1027042>)：尚未找到已核实的免费全文文章。
+- [Online Game Technology Summit: Data Driven Competitive Matchmaking Over Multiple Continents](<../2021/programming.md#gdc-2021-1027092>)：尚未找到已核实的免费全文文章。
+- [Online Game Technology Summit: Exploring Services Architecture at Bungie](<../2021/programming.md#gdc-2021-1027046>)：尚未找到已核实的免费全文文章。
+- [Online Game Technology Summit: From R6 Siege to Ubisoft Connect: How Ubisoft Created a Powerful Online Ecosystem](<../2021/programming.md#gdc-2021-1027000>)：尚未找到已核实的免费全文文章。
+- [Online Game Technology Summit: Leveraging Blockchain in Games to Redefine the Concept of Ownership](<../2021/programming.md#gdc-2021-1027426>)：尚未找到已核实的免费全文文章。
+- [Online Game Technology Summit: Providing Decision Support Throughout Games' Lifecycles Leveraging Big Data](<../2021/programming.md#gdc-2021-1027085>)：尚未找到已核实的免费全文文章。
+- [Online Game Technology Summit: Queuing: Let Data Guide Your Server Opening Strategy](<../2021/programming.md#gdc-2021-1027421>)：尚未找到已核实的免费全文文章。
+- [Orchestrating 'Hexagroove's' Junior Talent](<../2021/production-team-leadership.md#gdc-2021-1026972>)：尚未找到已核实的免费全文文章。
+- [Paint It Black: The Art of 'Sea of Solitude'](<../2021/visual-arts.md#gdc-2021-1027394>)：尚未找到已核实的免费全文文章。
+- [Paths to Success: Japan's Puzzling Mobile Gaming Market (Presented by Pangle)](<../2021/business-marketing.md#gdc-2021-1027514>)：尚未找到已核实的免费全文文章。
+- [Pre-Decisional Support: Accurate, Agile and Active Data Delivery](<../2021/production-team-leadership.md#gdc-2021-1027123>)：尚未找到已核实的免费全文文章。
+- [Procedural Systems for "Marvel's Spider-Man: Miles Morales" and "Ratchet &amp; Clank: Rift Apart" (Presented by Houdini)](<../2021/visual-arts.md#gdc-2021-1027521>)：尚未找到已核实的免费全文文章。
+- [Production Essentials Summit: Cluster Structure: Succeeding at Production with a Wide Portfolio](<../2021/production-team-leadership.md#gdc-2021-1027052>)：尚未找到已核实的免费全文文章。
+- [Production Essentials Summit: CQ: Superpowers for Excellence in Game Development](<../2021/production-team-leadership.md#gdc-2021-1027044>)：尚未找到已核实的免费全文文章。
+- [Production Essentials Summit: Optimizing Remote Production For Your Studio](<../2021/production-team-leadership.md#gdc-2021-1027100>)：尚未找到已核实的免费全文文章。
+- [Promote Your Game with HP OMEN (Presented by HP Inc.)](<../2021/business-marketing.md#gdc-2021-1027481>)：尚未找到已核实的免费全文文章。
+- [PSA: Games and E-Sports Platforms Need To Be More Social (Presented by Agora)](<../2021/business-marketing.md#gdc-2021-1027523>)：尚未找到已核实的免费全文文章。
+- [Quad Mesh Simplification in Frostbite](<../2021/programming.md#gdc-2021-1028682>)：尚未找到已核实的免费全文文章。
+- [Ray Tracing in Your Pocket, Closer Than You Think (Presented by Imagination Technologies)](<../2021/programming.md#gdc-2021-1027508>)：尚未找到已核实的免费全文文章。
+- [Real-Time ML Inference for Mobile Gaming (Presented by Arm)](<../2021/programming.md#gdc-2021-1027490>)：尚未找到已核实的免费全文文章。
+- [Real-Time Short Film 'Windup': Technical Art Production](<../2021/visual-arts.md#gdc-2021-1027390>)：尚未找到已核实的免费全文文章。
+- [Realities of the Hidden Freelance Crunch](<../2021/audio.md#gdc-2021-1026995>)：尚未找到已核实的免费全文文章。
+- [Reduce Outages and Increase Performance With a Time Series Database (Presented by InfluxData)](<../2021/programming.md#gdc-2021-1027513>)：尚未找到已核实的免费全文文章。
+- [Remote Leadership: Challenges and Approaches](<../2021/production-team-leadership.md#gdc-2021-1027094>)：尚未找到已核实的免费全文文章。
+- [Replicating Chaos: Vehicle Replication in 'Watch Dogs 2'](<../2021/programming.md#gdc-2021-1026956>)：尚未找到已核实的免费全文文章。
+- [Rigging the MetaHumans (Presented by Epic Games - Unreal Engine)](<../2021/production-team-leadership.md#gdc-2021-1027530>)：尚未找到已核实的免费全文文章。
+- [Rope Simulation in 'Uncharted 4' and 'The Last of Us 2'](<../2021/programming.md#gdc-2021-1027351>)：尚未找到已核实的免费全文文章。
+- [Rules of the Game 2021: Five Unique Techniques from Distinguished Designers](<../2021/design.md#gdc-2021-1027302>)：尚未找到已核实的免费全文文章。
+- [Samurai Landscapes: Building and Rendering Tsushima Island on PS4](<../2021/programming.md#gdc-2021-1027352>)：尚未找到已核实的免费全文文章。
+- [Scoring 'Metamorphosis': Music for a Kafkaesque World](<../2021/audio.md#gdc-2021-1027371>)：尚未找到已核实的免费全文文章。
+- [Scoring the Open World Samurai Epic: 'Ghost of Tsushima'](<../2021/audio.md#gdc-2021-1026983>)：尚未找到已核实的免费全文文章。
+- [Scriptable Core Dump Debugging and Memory Stomp Tracking](<../2021/programming.md#gdc-2021-1027279>)：尚未找到已核实的免费全文文章。
+- [Sewing a Musical Patchwork: The Music of 'Sackboy: A Big Adventure'](<../2021/audio.md#gdc-2021-1027224>)：尚未找到已核实的免费全文文章。
+- [Sexy Microtalks: Making with Emotion](<../2021/design.md#gdc-2021-1027199>)：尚未找到已核实的免费全文文章。
+- [Sigmoids for Storytellers: Mathematical Solutions to Narrative Problems](<../2021/design.md#gdc-2021-1027316>)：尚未找到已核实的免费全文文章。
+- [Six Powerful Lessons to Learn From Games Research](<../2021/business-marketing.md#gdc-2021-1027040>)：尚未找到已核实的免费全文文章。
+- [Smart Tech in 'Hearthstone'](<../2021/design.md#gdc-2021-1027062>)：尚未找到已核实的免费全文文章。
+- [Speech Synthesis in the Context of Video Gaming](<../2021/audio.md#gdc-2021-1027229>)：尚未找到已核实的免费全文文章。
+- [Stop Getting Lost: Make Cognitive Maps, Not Levels](<../2021/design.md#gdc-2021-1027206>)：尚未找到已核实的免费全文文章。
+- [Story Points: Upside Down Project Management](<../2021/production-team-leadership.md#gdc-2021-1027017>)：尚未找到已核实的免费全文文章。
+- [Strength in Numbers: Empowering Smaller Devs as In Person Collectives](<../2021/production-team-leadership.md#gdc-2021-1026984>)：尚未找到已核实的免费全文文章。
+- [Subscriptions as a Games Model](<../2021/career.md#gdc-2021-1027298>)：尚未找到已核实的免费全文文章。
+- [Succeeding in Game Audio: Tips from a Global Pandemic](<../2021/audio.md#gdc-2021-1027225>)：尚未找到已核实的免费全文文章。
+- [Supercharging Mobile Performance With Arm Neon and Unity Burst Compiler (Presented by Arm)](<../2021/programming.md#gdc-2021-1027488>)：尚未找到已核实的免费全文文章。
+- [Tales from the Transition: Remote Game Production Microtalks](<../2021/production-team-leadership.md#gdc-2021-1027317>)：尚未找到已核实的免费全文文章。
+- [Team Culture and New IP: Creating 'Hardspace: Shipbreaker'](<../2021/production-team-leadership.md#gdc-2021-1027110>)：尚未找到已核实的免费全文文章。
+- [Technical Artist Summit: !Games: Technical Art Outside of Gamedev](<../2021/visual-arts.md#gdc-2021-1027433>)：尚未找到已核实的免费全文文章。
+- [Technical Artist Summit: Better Computer Graphics through Understanding of Human Visual System](<../2021/visual-arts.md#gdc-2021-1027009>)：尚未找到已核实的免费全文文章。
+- [Technical Artist Summit: Global Development In a Time Of COVID](<../2021/visual-arts.md#gdc-2021-1027432>)：尚未找到已核实的免费全文文章。
+- [Technical Artist Summit: Real Time Level Surface Volumetric Simulation Reductions](<../2021/visual-arts.md#gdc-2021-1026993>)：尚未找到已核实的免费全文文章。
+- [Technical Artist Summit: The Art of Not Reinventing the Wheel in 'Wild Rift' Asset Pipeline](<../2021/visual-arts.md#gdc-2021-1027061>)：尚未找到已核实的免费全文文章。
+- [Tencent Game AI: Cutting-Edge AI for Gaming and the Future Beyond (Presented by Tencent AI Lab)](<../2021/business-marketing.md#gdc-2021-1027502>)：尚未找到已核实的免费全文文章。
+- [Tencent Game AI: Intelligent NPC in 3D FPS Games (Presented by Tencent AI Lab)](<../2021/programming.md#gdc-2021-1027503>)：尚未找到已核实的免费全文文章。
+- [Tencent Game AI: The Techniques and Applications of WukongAI in MOBA Game (Presented by Tencent AI Lab)](<../2021/programming.md#gdc-2021-1027504>)：尚未找到已核实的免费全文文章。
+- [Texturing Pipeline for the Characters of Deathloop (Presented by Adobe)](<../2021/visual-arts.md#gdc-2021-1027519>)：尚未找到已核实的免费全文文章。
+- [The Animation Summit LIVE AMA!](<../2021/visual-arts.md#gdc-2021-1027476>)：尚未找到已核实的免费全文文章。
+- [The Art of 'Ori and the Will of the Wisps'](<../2021/production-team-leadership.md#gdc-2021-1027035>)：尚未找到已核实的免费全文文章。
+- [The Art of 'Triage' in Online Game Development](<../2021/production-team-leadership.md#gdc-2021-1027084>)：尚未找到已核实的免费全文文章。
+- [The Best Times to Monetize &amp; Acquire Users in Asian Market (Presented by Pangle)](<../2021/business-marketing.md#gdc-2021-1027515>)：尚未找到已核实的免费全文文章。
+- [The Calm in the Storm: An Introvert's Guide to Success](<../2021/culture-sustainability.md#gdc-2021-1027016>)：尚未找到已核实的免费全文文章。
+- [The Casual (but Regal) Swipe: Creating Game Mechanics in 'Reigns'](<../2021/programming.md#gdc-2021-1028689>)：尚未找到已核实的免费全文文章。
+- [The Crypto Model for Gaming and the Metaverse (Presented by IMVU)](<../2021/business-marketing.md#gdc-2021-1027485>)：尚未找到已核实的免费全文文章。
+- [The Defining Themes of the Modern Console Market](<../2021/career.md#gdc-2021-1027299>)：尚未找到已核实的免费全文文章。
+- [The Impossible Quest: Getting a Job in Games](<../2021/career.md#gdc-2021-1027282>)：尚未找到已核实的免费全文文章。
+- [The Jackbox Party Pack Unboxed: How and Why We Make a Pack of 5 Games Every Year](<../2021/design.md#gdc-2021-1027064>)：尚未找到已核实的免费全文文章。
+- [The Music of 'BATTLETECH': Big Sound on a Budget](<../2021/production-team-leadership.md#gdc-2021-1028672>)：尚未找到已核实的免费全文文章。
+- [The Pandora's Box of Modding in 'Arma' Games](<../2021/design.md#gdc-2021-1027043>)：尚未找到已核实的免费全文文章。
+- [The Power of Introspection: The Fuel That Keeps Teams Resilient](<../2021/business-marketing.md#gdc-2021-1027095>)：尚未找到已核实的免费全文文章。
+- [The Technology Behind NVRTX (Presented by NVIDIA)](<../2021/programming.md#gdc-2021-1027500>)：尚未找到已核实的免费全文文章。
+- [Through the Storm: Shipping 'Assassin's Creed Valhalla' during a Global Pandemic](<../2021/production-team-leadership.md#gdc-2021-1027327>)：尚未找到已核实的免费全文文章。
+- [Tools Live Longer Than Games Do: What I Learned About Tools Development From Games Industry Legends](<../2021/programming.md#gdc-2021-1026931>)：尚未找到已核实的免费全文文章。
+- [Tools Summit: Cryptic Studios' Magic Legends: FX Engine Support for Artists](<../2021/programming.md#gdc-2021-1027311>)：尚未找到已核实的免费全文文章。
+- [Tools Summit: Embedded Scripting with Zero Overhead in Final Builds](<../2021/programming.md#gdc-2021-1027069>)：尚未找到已核实的免费全文文章。
+- [Tools Summit: Free Up the Cognitive Load: UX in Animation Workflow](<../2021/programming.md#gdc-2021-1027122>)：尚未找到已核实的免费全文文章。
+- [Tools Summit: How Ubisoft Builds Tools that Are More "Intuitive"](<../2021/programming.md#gdc-2021-1027312>)：尚未找到已核实的免费全文文章。
+- [Tools Summit: The Rust Programming Language for Game Tooling](<../2021/programming.md#gdc-2021-1027315>)：尚未找到已核实的免费全文文章。
+- [Torch Them All: How I Learned to Stop Worrying and Make Fire](<../2021/programming.md#gdc-2021-1027401>)：尚未找到已核实的免费全文文章。
+- [Unity Fireside Chat: The Next-Gen Console Opportunity (Presented by Unity Technologies)](<../2021/programming.md#gdc-2021-1028678>)：尚未找到已核实的免费全文文章。
+- [Universals vs. Differentiators: A Tale of Two Motivations](<../2021/business-marketing.md#gdc-2021-1026970>)：尚未找到已核实的免费全文文章。
+- [Unreal Engine in 2021: MetaHumans, Quixel, and Beyond (Presented by Epic Games - Unreal Engine)](<../2021/programming.md#gdc-2021-1027531>)：尚未找到已核实的免费全文文章。
+- [User Acquisition Post ATT: It's Time To Take Action (Presented by MoPub)](<../2021/business-marketing.md#gdc-2021-1027525>)：尚未找到已核实的免费全文文章。
+- [Using Advanced Competitive Analysis to Thrive in a Competitive Market](<../2021/business-marketing.md#gdc-2021-1027258>)：尚未找到已核实的免费全文文章。
+- [Using Brain Science to Engage Across Generational and Age Differences](<../2021/production-team-leadership.md#gdc-2021-1027339>)：尚未找到已核实的免费全文文章。
+- [Using PlayFab Party to Integrate Networking and Voice into Your Game (Presented by Microsoft)](<../2021/programming.md#gdc-2021-1027494>)：尚未找到已核实的免费全文文章。
+- [UX Summit: Approaching Accessibility in Production: A Practical Mindset for Developers](<../2021/design.md#gdc-2021-1027007>)：尚未找到已核实的免费全文文章。
+- [UX Summit: Do No Harm: Ethical Design for Emotionally Heavy Games](<../2021/design.md#gdc-2021-1027086>)：尚未找到已核实的免费全文文章。
+- [UX Summit: Expanding the Dreamiverse: Making Dreams an Experience for Everyone](<../2021/design.md#gdc-2021-1026982>)：尚未找到已核实的免费全文文章。
+- [UX Summit: History Shaping Design: Learning UX through the Evolution Of Playing Cards](<../2021/design.md#gdc-2021-1027289>)：尚未找到已核实的免费全文文章。
+- [UX Summit: LIVE State of Game UX](<../2021/design.md#gdc-2021-1027475>)：尚未找到已核实的免费全文文章。
+- [UX Summit: UX Buy In through Trust: Lessons Learned from DICE](<../2021/design.md#gdc-2021-1027082>)：尚未找到已核实的免费全文文章。
+- [Vicon Motion Systems X Dimension Studios: Metahumans Virtual Production Overview (Presented by Vicon Motion Systems)](<../2021/programming.md#gdc-2021-1027484>)：尚未找到已核实的免费全文文章。
+- [Visual Effects Summit: An Explosive New Spider-Man: Creating VFX for Miles Morales](<../2021/visual-arts.md#gdc-2021-1027203>)：尚未找到已核实的免费全文文章。
+- [Visual Effects Summit: How to Build Complex VFX Systems With Simple Controls](<../2021/visual-arts.md#gdc-2021-1026966>)：尚未找到已核实的免费全文文章。
+- [Visual Effects Summit: Shader Sauce: How to Use Shaders to Create Stylized VFX](<../2021/visual-arts.md#gdc-2021-1027131>)：尚未找到已核实的免费全文文章。
+- [Visual Effects Summit: The Subtle Art of Not Making VFX](<../2021/visual-arts.md#gdc-2021-1027114>)：尚未找到已核实的免费全文文章。
+- [Visual Effects Summit: Where Are My Particles? Debugging Techniques for VFX in Unreal 4](<../2021/visual-arts.md#gdc-2021-1027038>)：尚未找到已核实的免费全文文章。
+- [War Stories from Azeroth](<../2021/programming.md#gdc-2021-1027204>)：尚未找到已核实的免费全文文章。
+- [What Can Game Designers Learn from Competitive Reality Shows](<../2021/design.md#gdc-2021-1027133>)：尚未找到已核实的免费全文文章。
+- [Who Owns Reality?](<../2021/business-marketing.md#gdc-2021-1027134>)：尚未找到已核实的免费全文文章。
+- [Why Should We Use 100 Phone Interviews to Solve the Problem](<../2021/business-marketing.md#gdc-2021-1027136>)：尚未找到已核实的免费全文文章。
+- [World of Tanks Blitz: The Importance of Data in Automated Performance Testing (Presented by Arm)](<../2021/programming.md#gdc-2021-1027489>)：尚未找到已核实的免费全文文章。
+- [You shall not pass! Securing game workloads with AWS (Presented by Amazon Web Services)](<../2021/programming.md#gdc-2021-1027532>)：尚未找到已核实的免费全文文章。
+- [Zen of Streaming: Building and Loading 'Ghost of Tsushima'](<../2021/programming.md#gdc-2021-1027205>)：尚未找到已核实的免费全文文章。
 
 [项目首页](../README.md) · 核验仅代表所列日期的访问状态。
 

@@ -229,7 +229,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [How PlayStation built a brand system for the Horizon franchise](<https://www.thumbsticks.com/how-playstation-built-a-brand-system-for-the-horizon-franchise/>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：本场大会报道：《地平线》的字体与品牌系统。
 
 **其他补充资料（未核实为免费全文文章）**
 
@@ -868,7 +869,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [The secret to Overwatch's revitalization? Over-communicating.](<https://www.gamedeveloper.com/production/the-secret-to-overwatch-s-revitalization-over-communicating->)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：本场大会报道：持续沟通与重建玩家信任。
 
 **其他补充资料（未核实为免费全文文章）**
 
@@ -1428,7 +1430,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Valve says 5,863 titles earned over $100,000 on Steam in 2025](<https://www.gamedeveloper.com/business/valve-says-5-836-titles-earned-over-100-000-on-steam-in-2025>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：本场大会报道：Steam 年度数据与 Daily Deals 改进。
 
 **其他补充资料（未核实为免费全文文章）**
 

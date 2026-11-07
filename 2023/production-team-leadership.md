@@ -61,7 +61,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [As the invasion of Ukraine escalated, these devs found solace in a game jam](<https://www.gamedeveloper.com/marketing/as-the-invasion-of-ukraine-escalated-these-devs-found-solace-in-a-game-jam>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC 2023 Elena Lobova 防空洞Game Jam经历演讲报道。
 
 **演讲与幻灯片资料**
 
@@ -361,7 +362,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [How hypothetical milk spills and musings on mortality shaped The Wreck](<https://www.gamedeveloper.com/design/how-hypothetical-milk-spills-and-musings-on-mortality-shaped-the-wreck>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：相关内容：GameDeveloper于2023年采访同讲者Florent Maurin，侧重The Wreck的写作与真实性；并非《How We Almost Wrecked Our Second Game》原场逐字稿或现场报道。
 
 **演讲与幻灯片资料**
 
@@ -432,7 +434,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [How Xbox develops games with, not just for, the disabled community](<https://www.gamedeveloper.com/marketing/here-s-why-you-should-bring-in-the-disabled-community-at-the-pre-production-phase-of-your-next-product>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC 2023 Tara Voelker、Brannon Zahand 游戏与残障社群项目演讲报道。
 
 **演讲与幻灯片资料**
 
@@ -856,7 +859,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [How Tiny Tina's Wonderlands' development embraced interdisciplinary cooperation](<https://www.gamedeveloper.com/production/how-i-tiny-tina-s-wonderlands-i-development-fully-embraced-cooperation>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC 2023 Kayla Belmore、Matt Cox 制作流程演讲报道。
 
 **演讲与幻灯片资料**
 
@@ -1104,7 +1108,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Creating the endgame of God of War Ragnarok was a battle for its developers](<https://www.gamedeveloper.com/marketing/creating-the-endgame-of-god-of-war-ragnarok-was-a-battle-for-its-developers>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC 2023 Victoria Smith《God of War Ragnarok》最终战演讲报道。
 
 **演讲与幻灯片资料**
 
@@ -1209,7 +1214,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Learning the production secrets of Return to Monkey Island](<https://www.gamedeveloper.com/marketing/learning-the-production-secrets-of-i-return-to-monkey-island>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC 2023 Jenn Sandercock《Return to Monkey Island》制作演讲报道。
 
 **演讲与幻灯片资料**
 

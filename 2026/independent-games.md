@@ -278,7 +278,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Indie fund Outersloth has rejected every generative AI pitch it has received](<https://www.gamedeveloper.com/business/indie-fund-outersloth-has-rejected-every-generative-ai-pitch-it-has-received>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：本场大会报道：Outersloth 对游戏提案的筛选及 AI 政策。
 
 **演讲与幻灯片资料**
 
@@ -307,7 +308,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Don Daglow on art, business, and surviving the industry](<https://www.thumbsticks.com/don-daglow-on-art-business-and-surviving-the-industry/>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：本场职业回顾报道：艺术、商业与长期创作。
 
 **演讲与幻灯片资料**
 
@@ -512,7 +514,10 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- ['Text is evil:' How making Peak changed indie studio Aggro Crab](<https://www.gamedeveloper.com/production/-text-is-evil-how-making-peak-changed-indie-studio-aggro-crab>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：本场大会报道：《PEAK》的快速迭代与团队协作。
+- [Peak co-developer Aggro Crab shares lessons in friendslop](<https://www.gamedeveloper.com/business/peak-co-developer-aggro-crab-shares-lessons-in-friendslop>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：本场大会报道：《PEAK》的社交优先设计与合作约束。
 
 **演讲与幻灯片资料**
 
@@ -599,7 +604,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Creating a successful Steam page is like ski jumping](<https://www.gamedeveloper.com/business/creating-a-successful-steam-page-is-like-ski-jumping>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：本场大会报道：Steam 页面定位、展示与发行准备。
 
 **演讲与幻灯片资料**
 

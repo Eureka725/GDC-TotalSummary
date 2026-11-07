@@ -337,7 +337,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [How Ghost of Yōtei got a ‘good old dose of narrative design’](<https://www.thumbsticks.com/how-ghost-of-yotei-got-a-good-old-dose-of-narrative-design/>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：本场大会报道：用叙事信息改善开放世界探索。
 
 **其他补充资料（未核实为免费全文文章）**
 
@@ -411,7 +412,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [The key to a great video game performance? Team trust.](<https://www.gamedeveloper.com/audio/the-key-to-a-great-video-game-performance-team-trust->)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：本场圆桌报道：演员、表演导演与开发团队之间的信任。
 
 **其他补充资料（未核实为免费全文文章）**
 
@@ -512,7 +514,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Making the case for strong (human) narrative editors](<https://www.gamedeveloper.com/design/making-the-case-for-strong-human-narrative-editors>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：本场微型演讲报道：编辑如何改善游戏叙事与制作流程。
 
 **演讲与幻灯片资料**
 
@@ -544,7 +547,10 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Dispatch developer AdHoc says don't confuse your plot for narrative](<https://www.gamedeveloper.com/production/dispatch-developer-adhoc-says-don-t-confuse-your-plot-for-narrative>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：本场大会报道：对白、可交互剧本与叙事测试。
+- [This is how the RNG works as an 'equalizer' in Dispatch](<https://www.gamedeveloper.com/design/this-is-how-the-rng-works-as-an-equalizer-in-dispatch>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：本场大会报道：概率反馈、失败保护与终章难度；含机制剧透。
 
 **其他补充资料（未核实为免费全文文章）**
 
@@ -579,7 +585,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [How can your game win the 'attention war?' Turn to storytelling](<https://www.gamedeveloper.com/design/how-can-your-game-win-the-attention-war-focus-on-its-writing>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：本场大会报道：Alexa Ray Corriea 与 Adam Dolin 谈叙事和玩家注意力。
 
 **其他补充资料（未核实为免费全文文章）**
 

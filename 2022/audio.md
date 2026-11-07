@@ -38,7 +38,8 @@
 
 **免费全文文章**
 
-尚未找到已核实的免费全文文章。下方简介、视频与幻灯片不作为文章全文收录。
+- [Auditory tales from the making of zen puzzler Unpacking](<https://www.gamedeveloper.com/marketing/auditory-tales-from-the-making-of-zen-puzzler-unpacking>)（无需登录／订阅，2026-11-07 核验）
+  - 阅读范围：GDC2022 Jeff van Dyck 拟音演讲现场报道；与 Unpacking 的叙事设计场次区分。
 
 **演讲与幻灯片资料**
 
